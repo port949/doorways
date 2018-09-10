@@ -19,13 +19,13 @@ Unlike other essential oils, Cedarwood essential oil is not made from flowers an
 
 <tr>
 
-<td>\[easyazon_link identifier="B000MGWIMK" locale="US" tag="doorways-20"]<img src="http://www.doorwaysmagazine.com/wp-content/uploads/now_foods_cedarwood_oil-150x150.jpg" alt="now foods cedarwood oil" width="150" height="150" class="aligncenter size-thumbnail wp-image-406" />\[/easyazon_link]</td>
+<td><a><a href="https://www.amazon.com/dp/B000MGWIMK?tag=doorways-20" target="_blank" rel="nofollow"><img src="http://www.doorwaysmagazine.com/wp-content/uploads/now_foods_cedarwood_oil-150x150.jpg" alt="now foods cedarwood oil" width="150" height="150" class="aligncenter size-thumbnail wp-image-406" /></a></td>
 
-<td>\[easyazon_link identifier="B002RU3RWY" locale="US" tag="doorways-20"]<img src="http://www.doorwaysmagazine.com/wp-content/uploads/edens_garden_cedarwood_oil-150x150.jpg" alt="edens garden cedarwood oil" width="150" height="150" class="aligncenter size-thumbnail wp-image-405" />\[/easyazon_link]</td>
+<td><a href="https://www.amazon.com/dp/B002RU3RWY?tag=doorways-20" target="_blank" rel="nofollow"><img src="http://www.doorwaysmagazine.com/wp-content/uploads/edens_garden_cedarwood_oil-150x150.jpg" alt="edens garden cedarwood oil" width="150" height="150" class="aligncenter size-thumbnail wp-image-405" /></a></td>
 
-<td>\[easyazon_link identifier="B00VQ17A6O" locale="US" tag="doorways-20"]<img src="http://www.doorwaysmagazine.com/wp-content/uploads/ovvio_oils_cedarwood_oil-150x150.jpg" alt="ovvio oils cedarwood oil" width="150" height="150" class="aligncenter size-thumbnail wp-image-404" />\[/easyazon_link]</td>
+<td><a href="https://www.amazon.com/dp/B00VQ17A6O?tag=doorways-20" target="_blank" rel="nofollow"><img src="http://www.doorwaysmagazine.com/wp-content/uploads/ovvio_oils_cedarwood_oil-150x150.jpg" alt="ovvio oils cedarwood oil" width="150" height="150" class="aligncenter size-thumbnail wp-image-404" /></a></td>
 
-<td>\[easyazon_link identifier="B00GUSF31M" locale="US" tag="doorways-20"]<img src="http://www.doorwaysmagazine.com/wp-content/uploads/doterra_cedarwood_oil-150x150.jpg" alt="doterra cedarwood oil" width="150" height="150" class="aligncenter size-thumbnail wp-image-403" />\[/easyazon_link]</td>
+<td><a href="https://www.amazon.com/dp/B00GUSF31M?tag=doorways-20" target="_blank" rel="nofollow"><img src="http://www.doorwaysmagazine.com/wp-content/uploads/doterra_cedarwood_oil-150x150.jpg" alt="doterra cedarwood oil" width="150" height="150" class="aligncenter size-thumbnail wp-image-403" /></a></td>
 
 </tr>
 
@@ -55,13 +55,13 @@ Unlike other essential oils, Cedarwood essential oil is not made from flowers an
 
 <tr>
 
-<td>\[easyazon_link identifier="B000MGWIMK" locale="US" tag="doorways-20"]See Price\[/easyazon_link]</td>
+<td><a href="https://www.amazon.com/dp/B000MGWIMK?tag=doorways-20" target="_blank" rel="nofollow">See Price</a></td>
 
-<td><a href="https://amzn.to/2O72Gto" target="_blank" rel="nofollow">See Price</a></td>
+<td><a href="https://www.amazon.com/dp/B002RU3RWY?tag=doorways-20" target="_blank" rel="nofollow">See Price</a></td>
 
-<td>\[easyazon_link identifier="B00VQ17A6O" locale="US" tag="doorways-20"]See Price\[/easyazon_link]</td>
+<td><a href="https://www.amazon.com/dp/B00VQ17A6O?tag=doorways-20" target="_blank" rel="nofollow">See Price</a></td>
 
-<td>\[easyazon_link identifier="B00GUSF31M" locale="US" tag="doorways-20"]See Price\[/easyazon_link]</td>
+<td><a href="https://www.amazon.com/dp/B00GUSF31M?tag=doorways-20" target="_blank" rel="nofollow">See Price</a></td>
 
 </tr>
 
@@ -149,17 +149,17 @@ You can purchase it from Amazon or you can buy it from local drugstores.
 
 <tr>
 
-<td>\[easyazon_link identifier="B000MGWIMK" locale="US" tag="muchmoremom-20"]<img src="http://www.doorwaysmagazine.com/wp-content/uploads/now_foods_cedarwood_oil-300x300.jpg" alt="now foods cedarwood oil" width="300" height="300" class="aligncenter size-medium wp-image-406" />\[/easyazon_link]</td>
+<td><a href="https://www.amazon.com/dp/B000MGWIMK?tag=doorways-20" target="_blank" rel="nofollow"><img src="http://www.doorwaysmagazine.com/wp-content/uploads/now_foods_cedarwood_oil-300x300.jpg" alt="now foods cedarwood oil" width="300" height="300" class="aligncenter size-medium wp-image-406" /></a></td>
 
-<td>\[easyazon_link identifier="B002RU3RWY" locale="US" tag="muchmoremom-20"]<img src="http://www.doorwaysmagazine.com/wp-content/uploads/edens_garden_cedarwood_oil-300x300.jpg" alt="edens garden cedarwood oil" width="300" height="300" class="aligncenter size-medium wp-image-405" />\[/easyazon_link]</td>
+<td><a href="https://www.amazon.com/dp/B002RU3RWY?tag=doorways-20" target="_blank" rel="nofollow"><img src="http://www.doorwaysmagazine.com/wp-content/uploads/edens_garden_cedarwood_oil-300x300.jpg" alt="edens garden cedarwood oil" width="300" height="300" class="aligncenter size-medium wp-image-405" /></a></td>
 
 </tr>
 
 <tr>
 
-<td>\[easyazon_link identifier="B000MGWIMK" locale="US" tag="muchmoremom-20"]NOW Foods\[/easyazon_link]</td>
+<td>NOW Foods</td>
 
-<td>\[easyazon_link identifier="B002RU3RWY" locale="US" tag="muchmoremom-20"]Edens Garden\[/easyazon_link]</td>
+<td>Edens Garden</td>
 
 </tr>
 
@@ -173,25 +173,25 @@ You can purchase it from Amazon or you can buy it from local drugstores.
 
 <tr>
 
-<td>\[easyazon_link identifier="B000MGWIMK" locale="US" tag="muchmoremom-20"]See Price\[/easyazon_link]</td>
+<td><a href="https://www.amazon.com/dp/B000MGWIMK?tag=doorways-20" target="_blank" rel="nofollow">See Price</a></td>
 
-<td>\[easyazon_link identifier="B002RU3RWY" locale="US" tag="muchmoremom-20"]See Price\[/easyazon_link]</td>
-
-</tr>
-
-<tr>
-
-<td>\[easyazon_link identifier="B00VQ17A6O" locale="US" tag="muchmoremom-20"]<img src="http://www.doorwaysmagazine.com/wp-content/uploads/ovvio_oils_cedarwood_oil-300x300.jpg" alt="ovvio oils cedarwood oil" width="300" height="300" class="aligncenter size-medium wp-image-404" />\[/easyazon_link]</td>
-
-<td>\[easyazon_link identifier="B00GUSF31M" locale="US" tag="muchmoremom-20"]<img src="http://www.doorwaysmagazine.com/wp-content/uploads/doterra_cedarwood_oil-300x300.jpg" alt="doterra cedarwood oil" width="300" height="300" class="aligncenter size-medium wp-image-403" />\[/easyazon_link]</td>
+<td><a href="https://www.amazon.com/dp/B002RU3RWY?tag=doorways-20" target="_blank" rel="nofollow">See Price</a></td>
 
 </tr>
 
 <tr>
 
-<td>\[easyazon_link identifier="B00VQ17A6O" locale="US" tag="muchmoremom-20"]Ovvio Oils\[/easyazon_link]</td>
+<td><a href="https://www.amazon.com/dp/B00VQ17A6O?tag=doorways-20" target="_blank" rel="nofollow"><img src="http://www.doorwaysmagazine.com/wp-content/uploads/ovvio_oils_cedarwood_oil-300x300.jpg" alt="ovvio oils cedarwood oil" width="300" height="300" class="aligncenter size-medium wp-image-404" /></a></td>
 
-<td>\[easyazon_link identifier="B00GUSF31M" locale="US" tag="muchmoremom-20"]doTERRA\[/easyazon_link]</td>
+<td><a href="https://www.amazon.com/dp/B00GUSF31M?tag=doorways-20" target="_blank" rel="nofollow"><img src="http://www.doorwaysmagazine.com/wp-content/uploads/doterra_cedarwood_oil-300x300.jpg" alt="doterra cedarwood oil" width="300" height="300" class="aligncenter size-medium wp-image-403" /></a></td>
+
+</tr>
+
+<tr>
+
+<td>Ovvio Oils</td>
+
+<td>doTERRA</td>
 
 </tr>
 
@@ -205,9 +205,9 @@ You can purchase it from Amazon or you can buy it from local drugstores.
 
 <tr>
 
-<td>\[easyazon_link identifier="B00VQ17A6O" locale="US" tag="muchmoremom-20"]See Price\[/easyazon_link]</td>
+<td><a href="https://www.amazon.com/dp/B00VQ17A6O?tag=doorways-20" target="_blank" rel="nofollow">See Price</a></td>
 
-<td>\[easyazon_link identifier="B00GUSF31M" locale="US" tag="muchmoremom-20"]See Price\[/easyazon_link]</td>
+<td><a href="https://www.amazon.com/dp/B00GUSF31M?tag=doorways-20" target="_blank" rel="nofollow">See Price</a></td>
 
 </tr>
 
