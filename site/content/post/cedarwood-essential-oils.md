@@ -31,13 +31,13 @@ Unlike other essential oils, Cedarwood essential oil is not made from flowers an
 
 <tr>
 
-<td>\[easyazon_link identifier="B000MGWIMK" locale="US" tag="doorways-20"]NOW Foods\[/easyazon_link]</td>
+<td>NOW Foods</td>
 
-<td>\[easyazon_link identifier="B002RU3RWY" locale="US" tag="doorways-20"]Edens Garden\[/easyazon_link]</td>
+<td>Edens Garden</td>
 
-<td>\[easyazon_link identifier="B00VQ17A6O" locale="US" tag="doorways-20"]Ovvio Oils\[/easyazon_link]</td>
+<td>Ovvio Oils</td>
 
-<td>\[easyazon_link identifier="B00GUSF31M" locale="US" tag="doorways-20"]doTERRA\[/easyazon_link]</td>
+<td>doTERRA</td>
 
 </tr>
 
@@ -57,7 +57,7 @@ Unlike other essential oils, Cedarwood essential oil is not made from flowers an
 
 <td>\[easyazon_link identifier="B000MGWIMK" locale="US" tag="doorways-20"]See Price\[/easyazon_link]</td>
 
-<td>\[easyazon_link identifier="B002RU3RWY" locale="US" tag="doorways-20"]See Price\[/easyazon_link]</td>
+<td><a href="https://amzn.to/2O72Gto" target="_blank" rel="nofollow">See Price</a></td>
 
 <td>\[easyazon_link identifier="B00VQ17A6O" locale="US" tag="doorways-20"]See Price\[/easyazon_link]</td>
 
