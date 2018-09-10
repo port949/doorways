@@ -1,6 +1,7 @@
 ---
 title: 'Cedarwood Essential Oils: A Complete Guide'
 date: 2018-09-08T19:48:16.099Z
+slug: cedarwood-essential-oils
 description: >-
   Unlike other essential oils, Cedarwood essential oil is not made from flowers
   and leaves. Instead, it is made from wood and root of different coniferous
