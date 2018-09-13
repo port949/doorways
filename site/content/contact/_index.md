@@ -1,19 +1,14 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
-contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+title: Contact
+logo: /img/doorways_logo_50.png
+contact_entries: []
 ---
+Thanks for your interest in DoorwaysMagazine.com
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+We are a rapidly growing company with team members around the world. Our primary office is located in Seattle, WA with beautiful views of Lake Union.
+
+
+
+If you need to get in contact with our editorial or advertising staff you may use the contact form below. Due to the amount of inquiries we receive on a daily basis we may not be able to respond to all questions.
