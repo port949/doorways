@@ -3,10 +3,8 @@ title: 'Bathroom Dimensions for Toilets, Sinks, Showers and Bathtubs'
 date: 2018-09-13T18:34:55.054Z
 slug: bathroom-dimensions
 description: >-
-  Trying to make the most out of your small bathroom? Don't worry, we've put
-  together a guide on basic bathroom dimensions to help you through the process.
-  You'll also find dimensions for standard size toilets, sinks, showers and
-  bathtubs.
+  Read our guide on basic bathroom dimensions before you remodel. You'll also
+  find dimensions for standard size toilets, sinks, showers and bathtubs.
 ---
 Trying to make the most out of your small bathroom? 
 
