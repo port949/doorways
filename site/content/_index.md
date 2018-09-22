@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Top 5 Products Every Homeowner Must Own"
+subtitle: Get our favorite products in your inbox each week
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
