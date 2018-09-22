@@ -1,16 +1,10 @@
 ---
-author: editor
-comments: false
-date: 2017-01-18 00:45:50+00:00
-excerpt: What are the Best Showerhead Speakers? What could be more fun than singing
-  in the shower? Singing to music from a showerhead speaker, that’s what!
-layout: post
-link: http://www.doorwaysmagazine.com/best-shower-head-speakers/
+title: The Best Bluetooth Shower Head Speakers of 2018
+date: 2018-01-18T00:45:00.000Z
 slug: best-shower-head-speakers
-title: The Best Bluetooth Shower Head Speakers of 2017
-wordpress_id: 12259
-categories:
-- Bathroom Design
+description: >-
+  What could be more fun than singing in the shower? Singing with the
+  accompaniment of music from a showerhead speaker, that’s what!
 ---
 
 What could be more fun than singing in the shower? Singing with the accompaniment of music from a showerhead speaker, that’s what! 
