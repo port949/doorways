@@ -26,9 +26,9 @@ Below we outline the top 7 reasons we think Pachira Aquatica is the perfect indo
 
 
 
-|[![pachira aquatic money tree](https://www.doorwaysmagazine.com/wp-content/uploads/pachira_aquatic_money_tree-150x150.jpg)](http://amzn.com/B01EK52S5K?tag=doorways-20)
-|[![money tree bonsai](http://www.doorwaysmagazine.com/wp-content/uploads/money_tree_bonsai-150x150.jpg)](http://amzn.com/B0000DGFAC?tag=doorways-20)|[![traditional money tree](http://www.doorwaysmagazine.com/wp-content/uploads/traditional_money_tree-150x150.jpg)](http://amzn.com/B000N1HYPU?tag=doorways-20)|
-|[See Price](http://amzn.com/B01EK52S5K?tag=doorways-20)|[See Price](http://amzn.com/B0000DGFAC?tag=doorways-20)|[See Price](http://amzn.com/B000N1HYPU?tag=doorways-20)|
+| [![pachira aquatic money tree](https://www.doorwaysmagazine.com/wp-content/uploads/pachira_aquatic_money_tree-150x150.jpg)](http://amzn.com/B01EK52S5K?tag=doorways-20)
+ |[![money tree bonsai](http://www.doorwaysmagazine.com/wp-content/uploads/money_tree_bonsai-150x150.jpg)](http://amzn.com/B0000DGFAC?tag=doorways-20) | [![traditional money tree](http://www.doorwaysmagazine.com/wp-content/uploads/traditional_money_tree-150x150.jpg)](http://amzn.com/B000N1HYPU?tag=doorways-20) | 
+|[See Price](http://amzn.com/B01EK52S5K?tag=doorways-20)|[See Price](http://amzn.com/B0000DGFAC?tag=doorways-20) | [See Price](http://amzn.com/B000N1HYPU?tag=doorways-20) |
 
 
 
