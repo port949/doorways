@@ -25,10 +25,15 @@ Not only is the Money Tree popular because of its financial benefits, but it is 
 Below we outline the top 7 reasons we think Pachira Aquatica is the perfect indoor tree.
 
 
-
-| [![pachira aquatic money tree](https://www.doorwaysmagazine.com/wp-content/uploads/pachira_aquatic_money_tree-150x150.jpg)](http://amzn.com/B01EK52S5K?tag=doorways-20)
- |[![money tree bonsai](http://www.doorwaysmagazine.com/wp-content/uploads/money_tree_bonsai-150x150.jpg)](http://amzn.com/B0000DGFAC?tag=doorways-20) | [![traditional money tree](http://www.doorwaysmagazine.com/wp-content/uploads/traditional_money_tree-150x150.jpg)](http://amzn.com/B000N1HYPU?tag=doorways-20) | 
-|[See Price](http://amzn.com/B01EK52S5K?tag=doorways-20)|[See Price](http://amzn.com/B0000DGFAC?tag=doorways-20) | [See Price](http://amzn.com/B000N1HYPU?tag=doorways-20) |
+<table class="tc">
+<tr><td><a href="http://amzn.com/B01EK52S5K?tag=doorways-20" ref="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/pachira_aquatic_money_tree-150x150.jpg"></td>
+<td><a href="http://amzn.com/B0000DGFAC?tag=doorways-20" ref="nofollow" target="_blank"><img src="http://www.doorwaysmagazine.com/wp-content/uploads/money_tree_bonsai-150x150.jpg"></a></td>
+<td><a href="http://amzn.com/B000N1HYPU?tag=doorways-20" ref="nofollow" target="_blank"><img src="http://www.doorwaysmagazine.com/wp-content/uploads/traditional_money_tree-150x150.jpg"></a></td></tr>
+<tr><td><a href="http://amzn.com/B01EK52S5K?tag=doorways-20" ref="nofollow" target="_blank" class="btn">See Price</a></td>
+<td><a href="http://amzn.com/B0000DGFAC?tag=doorways-20" ref="nofollow" target="_blank" class="btn">See Price</a></td>
+<td><a href="http://amzn.com/B000N1HYPU?tag=doorways-20" ref="nofollow" target="_blank" class="btn">See Price</a></td>
+</tr>
+</table>
 
 
 
