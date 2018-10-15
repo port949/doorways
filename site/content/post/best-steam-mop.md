@@ -1,5 +1,5 @@
 ---
-title: The Best Steam Mop for Laminate and Tile (2018)
+title: The Best Steam Mop for Laminate and Tile (2018) 1
 date: 2018-10-15T00:01:00.000Z
 slug: best-steam-mop
 description: >-
