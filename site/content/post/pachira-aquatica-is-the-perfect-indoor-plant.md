@@ -1,14 +1,11 @@
 ---
-author: editor
-comments: false
-date: 2016-12-20 00:45:06+00:00
-layout: post
-link: http://www.doorwaysmagazine.com/7-reasons-pachira-aquatica-is-the-perfect-indoor-plant/
-slug: 7-reasons-pachira-aquatica-is-the-perfect-indoor-plant
 title: 7 Reasons Pachira Aquatica is the Perfect Indoor Plant
-wordpress_id: 11799
-categories:
-- Decorating Ideas
+date: 2016-12-20T00:45:06.000Z
+slug: 7-reasons-pachira-aquatica-is-the-perfect-indoor-plant
+description: >-
+  Hoping for some good financial fortune this year? Maybe the Pachira Aquatica
+  or _Money Tree Plant_, as many like to call it, would be the perfect addition
+  to your home.
 ---
 
 ![pachira aquatic money tree](http://www.doorwaysmagazine.com/wp-content/uploads/pachira_aquatic_money_tree-300x300.jpg)
@@ -29,22 +26,9 @@ Below we outline the top 7 reasons we think Pachira Aquatica is the perfect indo
 
 
 
-<table >
-<tr >
-<td >[![pachira aquatic money tree](https://www.doorwaysmagazine.com/wp-content/uploads/pachira_aquatic_money_tree-150x150.jpg)](http://amzn.com/B01EK52S5K?tag=doorways-20)
-</td>
-<td >[![money tree bonsai](http://www.doorwaysmagazine.com/wp-content/uploads/money_tree_bonsai-150x150.jpg)](http://amzn.com/B0000DGFAC?tag=doorways-20)
-</td>
-<td >[![traditional money tree](http://www.doorwaysmagazine.com/wp-content/uploads/traditional_money_tree-150x150.jpg)](http://amzn.com/B000N1HYPU?tag=doorways-20)
-</td></tr>
-<tr >
-<td >[See Price](http://amzn.com/B01EK52S5K?tag=doorways-20)
-</td>
-<td >[See Price](http://amzn.com/B0000DGFAC?tag=doorways-20)
-</td>
-<td >[See Price](http://amzn.com/B000N1HYPU?tag=doorways-20)
-</td></tr>
-</table>
+|[![pachira aquatic money tree](https://www.doorwaysmagazine.com/wp-content/uploads/pachira_aquatic_money_tree-150x150.jpg)](http://amzn.com/B01EK52S5K?tag=doorways-20)
+|[![money tree bonsai](http://www.doorwaysmagazine.com/wp-content/uploads/money_tree_bonsai-150x150.jpg)](http://amzn.com/B0000DGFAC?tag=doorways-20)|[![traditional money tree](http://www.doorwaysmagazine.com/wp-content/uploads/traditional_money_tree-150x150.jpg)](http://amzn.com/B000N1HYPU?tag=doorways-20)|
+|[See Price](http://amzn.com/B01EK52S5K?tag=doorways-20)|[See Price](http://amzn.com/B0000DGFAC?tag=doorways-20)|[See Price](http://amzn.com/B000N1HYPU?tag=doorways-20)|
 
 
 
