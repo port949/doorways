@@ -1,5 +1,5 @@
 ---
-title: The Best Steam Mop for Laminate and Tile (2018) 1
+title: The Best Steam Mop for Laminate and Tile (2018)
 date: 2018-10-15T00:01:00.000Z
 slug: best-steam-mop
 description: >-
@@ -70,9 +70,7 @@ It also features a removable water tank for easy filling. This is a huge bonus b
 
 ## Shark Steam Mop vs Bissell Symphony
 
-
-
-
+<iframe width="640" height="360" src="//www.youtube.com/embed/3gR0QBgrzYQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 While I could go on and on about the Bissell Symphony, I realize it is more expensive than other steam mops. If you're looking for an alternative, I suggest looking at the <a href="https://www.amazon.com/dp/B0091YYUAM/?tag=doorways-20" target="_blank" rel="nofollow">Bissell Powerfresh 1940</a>, <a href="https://www.amazon.com/dp/B0028MB3HM/?tag=doorways-20" target="_blank" rel="nofollow">Shark Pocket Steam Mop</a> or the <a href="https://www.amazon.com/dp/B004Q7CK56/?tag=doorways-20" target="_blank" rel="nofollow">Hoover TwinTank</a>. All three have over 1,000 reviews on Amazon with an average rating of over 4 stars.
 
