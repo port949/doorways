@@ -1,5 +1,5 @@
 ---
-title: 'Design Your Own House: A Step-by-Step Guide 1'
+title: 'Design Your Own House: A Step-by-Step Guide'
 date: 2018-09-13T19:46:34.864Z
 slug: design-your-own-house
 description: >-
