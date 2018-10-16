@@ -3,3 +3,5 @@ languageCode = "en-us"
 title = "Homepage"
 [permalinks]
   post = "/:slug/"
+  blog = "/:slug/"
+  page = "/:slug/"
