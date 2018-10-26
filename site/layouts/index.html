@@ -2,11 +2,23 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "short-text" .Params.blurb}}
+<div class="bg-grey-1 pv4">
+	<div class="ph3 mw7 center">
 
-{{ partial "2-up" .Params }}
+		<div class="flex-l mhn2-l">
+			<div class="w-40-l ph2-l">
+				<h2 class="f2 b lh-title mb2">Discover How to Get an Army Promotion Without Doing Hundreds of Sit-Ups or Going Back to College</h2>
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+				<a href="#" class="btn raise">Learn More</a>
+			</div>
+
+			<div class="w-60-l ph2-l">
+				<img src="img/ppw_tablet_preview_01.png" alt="" class="mb3">
+			</div>
+		</div>
+
+	</div>
+</div>
 
 {{ partial "blog" . }}
 
