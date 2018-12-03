@@ -49,70 +49,181 @@ It's not just 2x4's that are smaller. Most lumber is described using nominal dim
 <strong>Below is our lumber dimensions chart to help you quickly find the actual size:</strong>
 
 
+<div class="pa4">
+  <div class="overflow-auto">
+    <table class="f6 w-100 mw8 center" cellspacing="0">
+      <thead>
 
-<table>
-
-<thead>
-
-<tr><th>Nominal Size</th><th>Actual Size in Inches</th><th>Actual Size in mm</th></tr>
+<tr>
+  <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Nominal Size</th>
+  <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Actual Size in Inches</th>
+  <th class="fw6 bb b--black-20 tl pb3 pr3 bg-white">Actual Size in mm</th>
+</tr>
 
 </thead>
 
-<tbody>
+ <tbody class="lh-copy">
+        <tr>
+          <td class="pv3 pr3 bb b--black-20">1 x 2</td>
+          <td class="pv3 pr3 bb b--black-20">0.75 x 1.50</td>
+          <td class="pv3 pr3 bb b--black-20">19 x 38</td>
+  </tr>
 
-<tr><td>1 x 2</td><td>0.75 x 1.50</td><td>19 x 38</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">1 x 3</td>
+  <td class="pv3 pr3 bb b--black-20">0.75 x 2.50</td>
+  <td class="pv3 pr3 bb b--black-20">19 x 64</td>
+</tr>
 
-<tr><td>1 x 3</td><td>0.75 x 2.50</td><td>19 x 64</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">1 x 4</td>
+  <td class="pv3 pr3 bb b--black-20">0.75 x 3.50</td>
+  <td class="pv3 pr3 bb b--black-20">19 x 89</td>
+</tr>
 
-<tr><td>1 x 4</td><td>0.75 x 3.50</td><td>19 x 89</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">1 x 6</td>
+  <td class="pv3 pr3 bb b--black-20">0.75 x 5.50</td>
+  <td class="pv3 pr3 bb b--black-20">19 x 140</td>
+</tr>
 
-<tr><td>1 x 6</td><td>0.75 x 5.50</td><td>19 x 140</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">1 x 8</td>
+  <td class="pv3 pr3 bb b--black-20">0.75 x 7.25</td>
+  <td class="pv3 pr3 bb b--black-20">19 x 184</td>
+</tr>
 
-<tr><td>1 x 8</td><td>0.75 x 7.25</td><td>19 x 184</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">1 x 10</td>
+  <td class="pv3 pr3 bb b--black-20">0.75 x 9.25</td>
+  <td class="pv3 pr3 bb b--black-20">19 x 235</td>
+</tr>
 
-<tr><td>1 x 10</td><td>0.75 x 9.25</td><td>19 x 235</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">1 x 12</td>
+  <td class="pv3 pr3 bb b--black-20">0.75 x 11.25</td>
+  <td class="pv3 pr3 bb b--black-20">19 x 286</td>
+</tr>
 
-<tr><td>1 x 12</td><td>0.75 x 11.25</td><td>19 x 286</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">2 x 2</td>
+  <td class="pv3 pr3 bb b--black-20">1.50 x 1.50</td>
+  <td class="pv3 pr3 bb b--black-20">38 x 38</td>
+</tr>
 
-<tr><td>2 x 2</td><td>1.50 x 1.50</td><td>38 x 38</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">2 x 3</td>
+  <td class="pv3 pr3 bb b--black-20">1.50 x 2.50</td>
+  <td class="pv3 pr3 bb b--black-20">38 x 64</td>
+</tr>
 
-<tr><td>2 x 3</td><td>1.50 x 2.50</td><td>38 x 64</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">2 x 4</td>
+  <td class="pv3 pr3 bb b--black-20">1.50 x 3.50</td>
+  <td class="pv3 pr3 bb b--black-20">38 x 89</td>
+</tr>
 
-<tr><td>2 x 4</td><td>1.50 x 3.50</td><td>38 x 89</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">2 x 6</td>
+  <td class="pv3 pr3 bb b--black-20">1.50 x 5.50</td>
+  <td class="pv3 pr3 bb b--black-20">38 x 140</td>
+</tr>
 
-<tr><td>2 x 6</td><td>1.50 x 5.50</td><td>38 x 140</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">2 x 8</td>
+  <td class="pv3 pr3 bb b--black-20">1.50 x 7.25</td>
+  <td class="pv3 pr3 bb b--black-20">38 x 184</td>
+</tr>
 
-<tr><td>2 x 8</td><td>1.50 x 7.25</td><td>38 x 184</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">2 x 10</td>
+  <td class="pv3 pr3 bb b--black-20">1.50 x 9.25</td>
+  <td class="pv3 pr3 bb b--black-20">38 x 235</td>
+</tr>
 
-<tr><td>2 x 10</td><td>1.50 x 9.25</td><td>38 x 235</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">2 x 12</td>
+  <td class="pv3 pr3 bb b--black-20">1.50 x 11.25</td>
+  <td class="pv3 pr3 bb b--black-20">38 x 286</td>
+</tr>
 
-<tr><td>2 x 12</td><td>1.50 x 11.25</td><td>38 x 286</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">3 x 3</td>
+  <td class="pv3 pr3 bb b--black-20">2.50 x 2.50</td>
+  <td class="pv3 pr3 bb b--black-20">64 x 64</td>
+</tr>
 
-<tr><td>3 x 3</td><td>2.50 x 2.50</td><td>64 x 64</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">3 x 4</td>
+  <td class="pv3 pr3 bb b--black-20">2.50 x 3.50</td>
+  <td class="pv3 pr3 bb b--black-20">64 x 89</td>
+</tr>
 
-<tr><td>3 x 4</td><td>2.50 x 3.50</td><td>64 x 89</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">3 x 6</td>
+  <td class="pv3 pr3 bb b--black-20">2.50 x 5.50</td>
+  <td class="pv3 pr3 bb b--black-20">64 x 140</td>
+</tr>
 
-<tr><td>3 x 6</td><td>2.50 x 5.50</td><td>64 x 140</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">3 x 8</td>
+  <td class="pv3 pr3 bb b--black-20">2.50 x 7.25</td>
+  <td class="pv3 pr3 bb b--black-20">64 x 184</td>
+</tr>
 
-<tr><td>3 x 8</td><td>2.50 x 7.25</td><td>64 x 184</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">3 x 10</td>
+  <td class="pv3 pr3 bb b--black-20">2.50 x 9.25</td>
+  <td class="pv3 pr3 bb b--black-20">64 x 235</td>
+</tr>
 
-<tr><td>3 x 10</td><td>2.50 x 9.25</td><td>64 x 235</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">3 x 12</td>
+  <td class="pv3 pr3 bb b--black-20">2.50 x 11.25</td>
+  <td class="pv3 pr3 bb b--black-20">64 x 286</td>
+</tr>
 
-<tr><td>3 x 12</td><td>2.50 x 11.25</td><td>64 x 286</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">4 x 4</td>
+  <td class="pv3 pr3 bb b--black-20">3.50 x 3.50</td>
+  <td class="pv3 pr3 bb b--black-20">89 x 89</td>
+</tr>
 
-<tr><td>4 x 4</td><td>3.50 x 3.50</td><td>89 x 89</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">4 x 6</td>
+  <td class="pv3 pr3 bb b--black-20">3.50 x 5.50</td>
+  <td class="pv3 pr3 bb b--black-20">89 x 140</td>
+</tr>
 
-<tr><td>4 x 6</td><td>3.50 x 5.50</td><td>89 x 140</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">4 x 8</td>
+  <td class="pv3 pr3 bb b--black-20">3.50 x 7.25</td>
+  <td class="pv3 pr3 bb b--black-20">89 x 184</td>
+</tr>
 
-<tr><td>4 x 8</td><td>3.50 x 7.25</td><td>89 x 184</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">4 x 10</td>
+  <td class="pv3 pr3 bb b--black-20">3.50 x 9.25</td>
+  <td class="pv3 pr3 bb b--black-20">89 x 235</td>
+</tr>
 
-<tr><td>4 x 10</td><td>3.50 x 9.25</td><td>89 x 235</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">4 x 12</td>
+  <td class="pv3 pr3 bb b--black-20">3.50 x 11.25</td>
+  <td class="pv3 pr3 bb b--black-20">89 x 286</td>
+</tr>
 
-<tr><td>4 x 12</td><td>3.50 x 11.25</td><td>89 x 286</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">6 x 6</td>
+  <td class="pv3 pr3 bb b--black-20">5.50 x 5.50</td>
+  <td class="pv3 pr3 bb b--black-20">140 x 140</td>
+</tr>
 
-<tr><td>6 x 6</td><td>5.50 x 5.50</td><td>140 x 140</td></tr>
-
-<tr><td>8 x 8</td><td>7.25 x 7.25</td><td>184 x 184</td></tr>
+<tr>
+  <td class="pv3 pr3 bb b--black-20">8 x 8</td>
+  <td class="pv3 pr3 bb b--black-20">7.25 x 7.25</td>
+  <td class="pv3 pr3 bb b--black-20">184 x 184</td>
+</tr>
 
 </tbody>
 
