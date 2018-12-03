@@ -247,11 +247,11 @@ As you can see from the lumber dimensions chart above, there is a bigger differe
 
 
 
-<img src="https://www.doorwaysmagazine.com/wp-content/uploads/lumber_dimensions_guide.jpg" alt="lumber dimensions guide" width="800" height="1199" class="aligncenter size-full wp-image-13962" />
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/lumber_dimensions_guide.jpg" alt="lumber dimensions guide" />
 
 
 
-While comparing nominal and actual lumber dimensions, you might be thinking that this is another case of <a href="https://www.doorwaysmagazine.com/product/remodeling-scams-report/" target="_blank">companies trying to pull one over on consumers</a>. 
+While comparing nominal and actual lumber dimensions, you might be thinking that this is another case of companies trying to pull one over on consumers. 
 
 
 
