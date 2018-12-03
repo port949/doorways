@@ -228,8 +228,8 @@ It's not just 2x4's that are smaller. Most lumber is described using nominal dim
 </tbody>
 
 </table>
-
-
+</div>
+</div>
 
 As you can see from the lumber dimensions chart above, there is a bigger difference between the nominal and actual size of larger lumber pieces. Here are the basic rules to keep in mind:
 
