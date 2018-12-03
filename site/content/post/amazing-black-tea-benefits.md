@@ -14,7 +14,7 @@ categories:
 - Wellness
 ---
 
-![black tea health benefits](http://www.doorwaysmagazine.com/wp-content/uploads/black_tea_health_benefits.jpg)
+![black tea health benefits](https://www.doorwaysmagazine.com/wp-content/uploads/black_tea_health_benefits.jpg)
 
 Black tea is very popular and may be the most common tea consumed on a daily basis. According to statistics black tea accounts for 91% of all tea sold in the West. It comes from the same plant as white and green tea but is distinct due to a different processing method. 
 
