@@ -4,4 +4,4 @@ title = "Doorways Magazine"
 [permalinks]
   post = "/:slug/"
   blog = "/:slug/"
-  page = "/:slug/"
+  pages = "/:slug/"
