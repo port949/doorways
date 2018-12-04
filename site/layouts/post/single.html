@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-  <div class="mw7 center ph3 pv2">
+  <div class="mw7 center ph3 pv3">
     <h1 class="f2 lh-title tc b mb3">{{.Title}}</h1>
     </div>
     <div class="mw6 center ph3 pv4">
@@ -8,8 +8,10 @@
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
       <p>Read in {{ .ReadingTime }} minutes</p>
     </div>
+    <div class="mw6 center ph3 pv4">
+         <img src="/img/banner_728x90.png">
+    </div>
     <div class="cms mw6">
-      <p>{{ .Description }}</p>
       {{ .Content }}
     </div>
   </div>
