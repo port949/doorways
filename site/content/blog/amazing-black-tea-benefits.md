@@ -1,17 +1,11 @@
 ---
-author: editor
-comments: false
-date: 2016-01-27 21:50:44+00:00
-excerpt: "According to statistics black tea accounts for 91% of all tea sold in the\
-  \ West. What makes it so popular? Its caffeine content, health benefits, and rich\
-  \ smooth flavor. \n"
-layout: post
-link: http://www.doorwaysmagazine.com/amazing-black-tea-benefits/
+author: Doorways Magazine Staff
+date: 2018-12-01 00:00:00+00:00
+description: According to statistics, black tea accounts for 91% of all tea sold in the West. What makes it so popular? Its caffeine content, health benefits, and rich smooth flavor.
+link: https://www.doorwaysmagazine.com/amazing-black-tea-benefits/
 slug: amazing-black-tea-benefits
-title: The Complete Guide to Black Tea
-wordpress_id: 846
-categories:
-- Wellness
+title: Amazing Health Benefits of Black Tea
+
 ---
 
 ![black tea health benefits](https://www.doorwaysmagazine.com/wp-content/uploads/black_tea_health_benefits.jpg)
