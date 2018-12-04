@@ -1,6 +1,6 @@
 ---
-title: The Top 5 Products Every Homeowner Must Own
-subtitle: Sign up to get our favorite products in your inbox each week
+title: Home Design, Decorating and Remodeling Ideas
+subtitle: Sign up to get our favorite ideas in your inbox each week
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
