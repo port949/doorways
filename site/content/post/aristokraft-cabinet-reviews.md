@@ -1,8 +1,7 @@
 ---
-title: Aristokraft Cabinet Reviews: 2018 Buyer's Guide
+title: "Aristokraft Cabinet Reviews: 2018 Buyer's Guide"
 date: 2018-01-18 00:52:36+00:00
 description: Read our Aristokraft cabinets reviews first to discover if they live up to their quality. Plus, we reveal some of the most common complaints...
-link: http://www.doorwaysmagazine.com/aristokraft-cabinet-reviews/
 slug: aristokraft-cabinet-reviews
 
 ---
