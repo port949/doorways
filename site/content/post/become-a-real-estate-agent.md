@@ -1,25 +1,18 @@
 ---
-author: editor
-comments: false
-date: 2015-11-17 01:03:29+00:00
-excerpt: Excited to become a real estate agent and cash big commission checks? Follow
-  these steps and you could be working as a Realtor in only a few months.
-layout: post
-link: http://www.doorwaysmagazine.com/how-to-become-a-real-estate-agent/
-slug: how-to-become-a-real-estate-agent
 title: 'How to Become a Real Estate Agent or Realtor: A Step-by-Step Guide'
-wordpress_id: 268
-categories:
-- Realtors
----
+date: 2018-11-17 01:03:29+00:00
+description: Excited to become a real estate agent and cash big commission checks? Follow these steps and you could be working as a Realtor in only a few months.
+slug: how-to-become-a-real-estate-agent
 
-![real estate agent guide](http://www.doorwaysmagazine.com/wp-content/uploads/real_estate_agent_guide.jpg)
+---
 
 Are you ready to finally have the freedom to work when and where you want? How about earning a potentially limitless income? 
 
 If this sounds appealing, then becoming a real estate agent might be a great career choice for you.
 
 In this step-by-step guide on how to become a real estate agent we'll walk you through the simple process.
+
+![real estate agent guide](https://www.doorwaysmagazine.com/wp-content/uploads/real_estate_agent_guide.jpg)
 
 Before we get into the details, here are the minimum requirements in most states. If you meet these criteria, then let's move on to the good stuff below.
 
@@ -135,13 +128,13 @@ As a real estate agent you'll have to pay for these yourself, out of your own po
 
 That's why before you start your career in real estate it is recommended that you put some cash in the bank. Some of this nest egg will be used to pay for your pre-licensing courses, exam fees and association dues. 
 
-Next, you'll need to use some of this money to promote your new business. At a minimum most real estate agents need business cards, [a website](http://www.doorwaysmagazine.com/start-a-blog/), a cell phone plan and office space to get started. 
+Next, you'll need to use some of this money to promote your new business. At a minimum most real estate agents need business cards, [a website](https://www.doorwaysmagazine.com/start-a-blog/), a cell phone plan and office space to get started. 
 
 You may also need to pay for online or offline advertising, chamber of commerce dues or other marketing costs.
 
 Finally, the majority of your savings should be used to cover your monthly living expenses while you gain some momentum. 
 
-Selling real estate offers [big commissions](http://www.doorwaysmagazine.com/real-estate-agent-salary-guide/) and sometimes it's easy money. But for the most part, each home sale will take months of your time and effort. 
+Selling real estate offers [big commissions](https://www.doorwaysmagazine.com/real-estate-agent-salary-guide/) and sometimes it's easy money. But for the most part, each home sale will take months of your time and effort. 
 
 Having savings in the bank will help you weather the slow months without having to give up on your real estate dreams.
 
@@ -153,7 +146,7 @@ Having savings in the bank will help you weather the slow months without having 
 
 After you have passed your exam and have business cards in hand, it's time to get to work. Building and nurturing your client base is where successful agents soar and mediocre agents struggle. 
 
-You will need to develop relationships with people in your community before they are ready to [buy or sell their home](http://www.doorwaysmagazine.com/guide-to-buying-a-house/).
+You will need to develop relationships with people in your community before they are ready to [buy or sell their home](https://www.doorwaysmagazine.com/guide-to-buying-a-house/).
 
 If you have done this successfully, when they need an agent you will be the first person they think of. 
 
@@ -211,4 +204,4 @@ Successful real estate agents will also need to focus on building their client b
 
 **Don't forget, without clients you are out of business.**
 
-Check back for more tips on how to become a real estate agent at [DoorwaysMagazine.com](http://www.doorwaysmagazine.com/)
+Check back for more tips on how to become a real estate agent at [DoorwaysMagazine.com](https://www.doorwaysmagazine.com/)
