@@ -1,19 +1,13 @@
 ---
-author: editor
-comments: false
+title: Average Bedroom Size and Dimensions (with Layout Ideas)
 date: 2017-01-17 23:39:37+00:00
-excerpt: The average bedroom size in the United States is 11 feet by 12 feet (132
-  square feet) and is large enough to accommodate a queen size bed.
-layout: post
-link: http://www.doorwaysmagazine.com/average-bedroom-size/
+description: The average bedroom size in the United States is 11 feet by 12 feet (132 square feet) and is large enough to accommodate a queen size bed.
+link: https://www.doorwaysmagazine.com/average-bedroom-size/
 slug: average-bedroom-size
-title: Average Bedroom Size and Dimensions
-wordpress_id: 12229
-categories:
-- Home Design
+
 ---
 
-![typical master bedroom size](https://www.doorwaysmagazine.com/wp-content/uploads/master_bedroom_size-300x198.jpg)As you may know the average bedroom size depends on many factors. However, there are a few guidelines you can follow to figure out the best bedroom dimensions for your home.
+As you may know the average bedroom size depends on many factors. However, there are a few guidelines you can follow to figure out the best bedroom dimensions for your home.
 
 There are two basic types of bedrooms you'll find in every home: a standard bedroom and a master bedroom.
 
@@ -35,7 +29,7 @@ One factor we had to consider when figuring out the average bedroom size was the
 
 Since the median size house in the United States is about 2500 square feet, we used this as a guideline when determining the most common bedroom sizes.
 
-
+![typical master bedroom size](https://www.doorwaysmagazine.com/wp-content/uploads/master_bedroom_size.jpg)
 
 ## Standard Bedroom Size
 
