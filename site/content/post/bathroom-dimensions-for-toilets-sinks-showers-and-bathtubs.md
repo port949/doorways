@@ -3,8 +3,7 @@ title: 'Bathroom Dimensions for Toilets, Sinks, Showers and Bathtubs'
 date: 2018-09-13T18:34:55.054Z
 slug: bathroom-dimensions
 description: >-
-  Read our guide on basic bathroom dimensions before you remodel. You'll also
-  find dimensions for standard size toilets, sinks, showers and bathtubs.
+  Read our guide on basic bathroom dimensions before you remodel. You'll also find dimensions for standard size toilets, sinks, showers and bathtubs.
 ---
 Trying to make the most out of your small bathroom? 
 
@@ -36,7 +35,7 @@ When remodeling your bathroom, you should follow these minimum dimensions for bo
 
 <h2 id="full">Full-Size Bathroom Dimensions</h2>
 
-<img src="https://www.doorwaysmagazine.com/wp-content/uploads/full-size-bathroom-dimensions.png" alt="full-size bathroom dimensions" width="888" height="500" class="aligncenter size-full wp-image-13593" />
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/full-size-bathroom-dimensions.png" alt="full-size bathroom dimensions" />
 
 Newly built homes in the United States usually have full bathrooms that are a minimum of 5 feet wide by 8 feet long (1.52 meters x 2.43 meters). 
 
@@ -46,7 +45,7 @@ The minimum measurements are based on the code requirements from the IRC. These 
 
 Most bathroom designers stay close to these minimums to make the most of the limited space they have to work with. However, if you have extra room in your bathroom, you can use the recommended bathroom dimensions listed below:
 
-<img src="https://www.doorwaysmagazine.com/wp-content/uploads/toilet_dimensions_layouts.png" alt="toilet dimensions layouts" width="800" height="500" class="aligncenter size-full wp-image-13598" />
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/toilet_dimensions_layouts.png" alt="toilet dimensions layouts"  />
 
 <strong>Toilet Area Dimensions:</strong>
 
@@ -58,7 +57,7 @@ Most bathroom designers stay close to these minimums to make the most of the lim
 
 </ul>
 
-<img src="https://www.doorwaysmagazine.com/wp-content/uploads/sink_dimensions_layouts.png" alt="sink dimensions layouts" width="800" height="500" class="aligncenter size-full wp-image-13599" />
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/sink_dimensions_layouts.png" alt="sink dimensions layouts"  />
 
 <strong>Sink Area Dimensions:</strong>
 
@@ -70,7 +69,7 @@ Most bathroom designers stay close to these minimums to make the most of the lim
 
 </ul>
 
-<img src="https://www.doorwaysmagazine.com/wp-content/uploads/bathtub_layout_dimensions.png" alt="bathtub layout dimensions" width="800" height="500" class="aligncenter size-full wp-image-13600" />
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/bathtub_layout_dimensions.png" alt="bathtub layout dimensions" />
 
 <strong>Shower/Tub Area Dimensions:</strong>
 
