@@ -1,7 +1,24 @@
 {{ define "main"}}
-    <main id="main">
-      <div>
-       <h1 id="title"><a href="{{ "/" | relURL }}">Go Home</a></h1>
-      </div>
-    </main>
+     <div class="mw7 center ph3 pv2">
+    <h1 class="f2 lh-title tc b mb3">oops! That page doesn't exist...</h1>
+    </div>
+
+    <div class="mw6 center ph3 pv2">
+      
+    <div class="cms mw6">
+      <p>Our website developer has been notified of this error and we will get it fixed shortly.</p>
+        <p>Here are a few reasons why you might be seeing this page:</p>
+        <ul>
+            <li>Mistyped website address</li>
+            <li>Copy-and-paste error</li>
+            <li>Broken link</li>
+            <li>Moved content</li>
+            <li>Deleted content</li>
+        </ul>
+        
+    </div>    
+        
+ {{ partial "blog" . }}       
+      
+  </div>
 {{ end }}
