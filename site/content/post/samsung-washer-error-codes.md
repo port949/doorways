@@ -1,16 +1,8 @@
 ---
-author: editor
-comments: false
-date: 2017-02-22 22:30:07+00:00
-excerpt: Having problems with your Samsung washing machine? Use our list of common
-  Samsung washer error codes to find out what's wrong and how to fix it.
-layout: post
-link: http://www.doorwaysmagazine.com/samsung-washer-error-codes/
+title: "61 Common Samsung Washer Error Codes + Troubleshooting Tips"
+date: 2018-11-22 22:30:07+00:00
+description: "Having problems with your Samsung washing machine? Use our list of common Samsung washer error codes to find out what's wrong and how to fix it."
 slug: samsung-washer-error-codes
-title: 61 Common Samsung Washer Error Codes
-wordpress_id: 12971
-categories:
-- Appliances
 ---
 
 Having problems with your Samsung washing machine?
@@ -158,118 +150,6 @@ If you don't see your error code below, or have a question about your specific m
 </tbody>
 </table>
 
-Are you tired of having problems with your Samsung washer? If you have a model that was recently recalled, you could get it repaired or replaced for free. Check the list of model numbers below.
-
-**Recalled Samsung Top-Load Washing Machine Models (as of 11/2016):**
-
-
-
-
-
-  * WA40J3000AW/A2
-
-
-  * WA45H7000AP/A2
-
-
-  * WA45H7000AW/A2
-
-
-  * WA45H7200AW/A2
-
-
-  * WA45K7600AW/A2
-
-
-  * WA45K7100AW/A2
-
-
-  * WA48H7400AW/A2
-
-
-  * WA48J7700AW/A2
-
-
-  * WA48J7770AP/A2
-
-
-  * WA48J7770AW/A2
-
-
-  * WA50K8600AV/A2
-
-
-  * WA50K8600AW/A2
-
-
-  * WA52J8700AP/A2
-
-
-  * WA52J8700AW/A2
-
-
-  * WA400PJHDWR/AA
-
-
-  * WA422PRHDWR/AA
-
-
-  * WA456DRHDSU/AA
-
-
-  * WA456DRHDWR/AA
-
-
-  * WA476DSHASU/A1
-
-
-  * WA476DSHAWR/A1
-
-
-  * WA484DSHASU/A1
-
-
-  * WA484DSHAWR/A1
-
-
-  * WA48H7400AP/A2
-
-
-  * WA50F9A6DSW/A2
-
-
-  * WA50F9A7DSP/A2
-
-
-  * WA50F9A7DSW/A2
-
-
-  * WA50F9A8DSP/A2
-
-
-  * WA50F9A8DSW/A2
-
-
-  * WA52J8060AW/A2
-
-
-  * WA5451ANW/XAA
-
-
-  * WA5471ABP/XAA
-
-
-  * WA5471ABW/XAA
-
-
-  * WA56H9000AP/A2
-
-
-  * WA56H9000AW/A2
-
-
-
-
 
 ## Common Problems
 
@@ -312,8 +192,8 @@ Note: To avoid risk of electrical shock or injury, disconnect power to washing m
 
 
 
-If you are uncomfortable working on your Samsung washer, you should call a certified technician to diagnose and repair the machine. 
+If you are uncomfortable working on your Samsung washing machine, you should call a certified technician to diagnose and repair the machine. 
 
-Although many of the error codes we listed can be easily fixed with a few basic tools and common sense, it may be safer to call a professional.
+Although many of the Samsung washer error codes we listed can be easily fixed with a few basic tools and common sense, it may be safer to call a professional.
 
-As always, the error codes were provided as information only and were not intended as repair advice. When in doubt about the problem with your washing machine, you should call the manufacturer or retailer where you purchased the machine.
+As always, these fault codes were provided as information only and were not intended as repair advice. When in doubt about the problem with your washing machine, you should call the manufacturer or retailer where you purchased the machine.
