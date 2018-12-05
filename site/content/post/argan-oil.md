@@ -1,16 +1,10 @@
 ---
-author: editor
-comments: false
-date: 2015-10-26 23:37:23+00:00
-excerpt: Thinking about using Argan oil on your hair, skin or face? See what we discovered
-  about the benefits of Argan oil and where to get the best deal online.
-layout: post
-link: http://www.doorwaysmagazine.com/argan-oil/
+title: 'Argan Oil Health Benefits and Uses: A Complete Guide'
+date: 2018-10-26 23:37:23+00:00
+description: Thinking about using Argan oil on your hair, skin or face? See what we discovered about the health benefits of Argan oil and where to get the best deal online.
+link: https://www.doorwaysmagazine.com/argan-oil/
 slug: argan-oil
-title: 'Argan Oil: A Complete Guide to Health Benefits and Uses'
-wordpress_id: 316
-categories:
-- Wellness
+
 ---
 
 ![argan oil guide](http://www.doorwaysmagazine.com/wp-content/uploads/argan_oil_guide.jpg)
@@ -24,58 +18,38 @@ As the source trees are found only in a limited area and the extraction process 
 <table >
 <tr >
 
-<td >[easyazon_link identifier="B00GMAWI66" locale="US" tag="doorways-20"]![aria starr argan oil](http://www.doorwaysmagazine.com/wp-content/uploads/aria_starr_argan_oil-150x150.jpg)[/easyazon_link]
-</td>
+<td >![aria starr argan oil](https://www.doorwaysmagazine.com/wp-content/uploads/aria_starr_argan_oil-150x150.jpg)</td>
 
-<td >[easyazon_link identifier="B004Z209HS" locale="US" tag="doorways-20"]![pura dor argan oil](http://www.doorwaysmagazine.com/wp-content/uploads/pura_dor_argan_oil-150x150.jpg)[/easyazon_link]
-</td>
+<td >![pura dor argan oil](https://www.doorwaysmagazine.com/wp-content/uploads/pura_dor_argan_oil-150x150.jpg)</td>
 
-<td >[easyazon_link identifier="B007CDSFKU" locale="US" tag="doorways-20"]![now foods organic argan oil](http://www.doorwaysmagazine.com/wp-content/uploads/now_foods_organic_argan_oil-150x150.jpg)[/easyazon_link]
-</td>
+<td >![now foods organic argan oil](http://www.doorwaysmagazine.com/wp-content/uploads/now_foods_organic_argan_oil-150x150.jpg)</td>
 
-<td >[easyazon_link identifier="B00H93NJLS" locale="US" tag="doorways-20"]![instanatural argan oil](http://www.doorwaysmagazine.com/wp-content/uploads/instanatural_argan_oil-150x150.jpg)[/easyazon_link]
-</td>
+<td >![instanatural argan oil](http://www.doorwaysmagazine.com/wp-content/uploads/instanatural_argan_oil-150x150.jpg)</td>
 </tr>
 <tr >
 
-<td >[easyazon_link identifier="B00GMAWI66" locale="US" tag="doorways-20"]Aria Starr Beauty Argan Oil[/easyazon_link]
-</td>
+<td >Aria Starr Beauty Argan Oil</td>
 
-<td >[easyazon_link identifier="B004Z209HS" locale="US" tag="doorways-20"]Pura d'or 100% Pure Argan Oil [/easyazon_link]
-</td>
+<td >Pura d'or 100% Pure Argan Oil</td>
 
-<td >[easyazon_link identifier="B007CDSFKU" locale="US" tag="doorways-20"]Now Foods Organic Argan Oil[/easyazon_link]
-</td>
+<td >Now Foods Organic Argan Oil</td>
 
-<td >[easyazon_link identifier="B00H93NJLS" locale="US" tag="doorways-20"]InstaNatural Organic Argan Oil[/easyazon_link]
-</td>
+<td >InstaNatural Organic Argan Oil</td>
 </tr>
-<tr >
-
-<td >30ml
-</td>
-
-<td >118ml
-</td>
-
-<td >59ml
-</td>
-
-<td >120ml
-</td>
+<tr>
+<td>30ml</td>
+<td >118ml</td>
+<td >59ml</td>
+<td >120ml</td>
 </tr>
-<tr >
-
-<td >[easyazon_link identifier="B00GMAWI66" locale="US" tag="doorways-20"]See Price[/easyazon_link]
+<tr>
+<td><a href="https://www.amazon.com/dp/B00GMAWI66?tag=doorways-20" target="_blank" rel="nofollow">See Price</a>
 </td>
-
-<td >[easyazon_link identifier="B004Z209HS" locale="US" tag="doorways-20"]See Price[/easyazon_link]
+<td ><a href="https://www.amazon.com/dp/B004Z209HS?tag=doorways-20" target="_blank" rel="nofollow">See Price</a>
 </td>
-
-<td >[easyazon_link identifier="B007CDSFKU" locale="US" tag="doorways-20"]See Price[/easyazon_link]
+<td><a href="https://www.amazon.com/dp/B007CDSFKU?tag=doorways-20" target="_blank" rel="nofollow">See Price</a>
 </td>
-
-<td >[easyazon_link identifier="B00H93NJLS" locale="US" tag="doorways-20"]See Price[/easyazon_link]
+<td ><a href="https://www.amazon.com/dp/B00H93NJLS?tag=doorways-20" target="_blank" rel="nofollow">See Price</a>
 </td>
 </tr>
 </table>
@@ -144,61 +118,33 @@ Argan oil is made from the kernels of fruits of the Argan tree which is found on
 
 It is available at health food stores and some co-ops. You can also buy it from Amazon. 
 
-<table >
-<tr >
-
-<td >[easyazon_link identifier="B00GMAWI66" locale="US" tag="doorways-20"]![aria starr argan oil](http://www.doorwaysmagazine.com/wp-content/uploads/aria_starr_argan_oil-300x300.jpg)[/easyazon_link]
-</td>
-
-<td >[easyazon_link identifier="B004Z209HS" locale="US" tag="doorways-20"]![pura dor argan oil](http://www.doorwaysmagazine.com/wp-content/uploads/pura_dor_argan_oil-300x300.jpg)[/easyazon_link]
-</td>
-
-<td >[easyazon_link identifier="B007CDSFKU" locale="US" tag="doorways-20"]![now foods organic argan oil](http://www.doorwaysmagazine.com/wp-content/uploads/now_foods_organic_argan_oil-300x300.jpg)[/easyazon_link]
-</td>
-
-<td >[easyazon_link identifier="B00H93NJLS" locale="US" tag="doorways-20"]![instanatural argan oil](http://www.doorwaysmagazine.com/wp-content/uploads/instanatural_argan_oil-300x300.jpg)[/easyazon_link]
-</td>
+<table>
+<tr>
+<td >![aria starr argan oil](https://www.doorwaysmagazine.com/wp-content/uploads/aria_starr_argan_oil-150x150.jpg)</td>
+<td >![pura dor argan oil](https://www.doorwaysmagazine.com/wp-content/uploads/pura_dor_argan_oil-150x150.jpg)</td>
+<td >![now foods organic argan oil](http://www.doorwaysmagazine.com/wp-content/uploads/now_foods_organic_argan_oil-150x150.jpg)</td>
+<td >![instanatural argan oil](http://www.doorwaysmagazine.com/wp-content/uploads/instanatural_argan_oil-150x150.jpg)</td>
 </tr>
-<tr >
-
-<td >[easyazon_link identifier="B00GMAWI66" locale="US" tag="doorways-20"]Aria Starr Beauty[/easyazon_link]
-</td>
-
-<td >[easyazon_link identifier="B004Z209HS" locale="US" tag="doorways-20"]Pura d'or 100% Pure[/easyazon_link]
-</td>
-
-<td >[easyazon_link identifier="B007CDSFKU" locale="US" tag="doorways-20"]Now Foods Organic[/easyazon_link]
-</td>
-
-<td >[easyazon_link identifier="B00H93NJLS" locale="US" tag="doorways-20"]InstaNatural Organic[/easyazon_link]
-</td>
+<tr>
+<td >Aria Starr Beauty Argan Oil</td>
+<td>Pura d'or 100% Pure Argan Oil</td>
+<td>Now Foods Organic Argan Oil</td>
+<td>InstaNatural Organic Argan Oil</td>
 </tr>
-<tr >
-
-<td >30ml
-</td>
-
-<td >118ml
-</td>
-
-<td >59ml
-</td>
-
-<td >120ml
-</td>
+<tr>
+<td>30ml</td>
+<td >118ml</td>
+<td >59ml</td>
+<td >120ml</td>
 </tr>
-<tr >
-
-<td >[easyazon_link identifier="B00GMAWI66" locale="US" tag="doorways-20"]See Price[/easyazon_link]
+<tr>
+<td><a href="https://www.amazon.com/dp/B00GMAWI66?tag=doorways-20" target="_blank" rel="nofollow">See Price</a>
 </td>
-
-<td >[easyazon_link identifier="B004Z209HS" locale="US" tag="doorways-20"]See Price[/easyazon_link]
+<td ><a href="https://www.amazon.com/dp/B004Z209HS?tag=doorways-20" target="_blank" rel="nofollow">See Price</a>
 </td>
-
-<td >[easyazon_link identifier="B007CDSFKU" locale="US" tag="doorways-20"]See Price[/easyazon_link]
+<td><a href="https://www.amazon.com/dp/B007CDSFKU?tag=doorways-20" target="_blank" rel="nofollow">See Price</a>
 </td>
-
-<td >[easyazon_link identifier="B00H93NJLS" locale="US" tag="doorways-20"]See Price[/easyazon_link]
+<td ><a href="https://www.amazon.com/dp/B00H93NJLS?tag=doorways-20" target="_blank" rel="nofollow">See Price</a>
 </td>
 </tr>
 </table>
