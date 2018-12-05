@@ -1,23 +1,22 @@
 ---
-author: editor
-comments: false
-date: 2015-11-06 22:21:15+00:00
-excerpt: We reveal the most durable flooring for dogs. These floors will withstand
-  nail scratches, urine stains, water bowl splashes and are comfortable for pets.
-layout: post
-link: http://www.doorwaysmagazine.com/best-flooring-for-dogs/
+title: The Best Pet-Friendly Flooring for Dogs and Cats
+date: 2018-11-06 22:21:15+00:00
+description: Discover the most durable flooring for dogs and cats. These floors will withstand nail scratches, urine stains, water bowl splashes and are comfortable for pets.
 slug: best-flooring-for-dogs
-title: What's the Best Flooring for Dogs and Cats?
-wordpress_id: 219
-categories:
-- Flooring
+
 ---
 
 [caption id="attachment_229" align="aligncenter" width="800"]![best flooring for dogs](http://www.doorwaysmagazine.com/wp-content/uploads/best_flooring_for_dogs.jpg) Photo via [3 Fold Design Studio](http://www.houzz.com/photos/18650189/Taylors-Drive-Residence-transitional-kitchen-austin)[/caption]
 
-Let me start off by saying that there's a lot of bad information out there about the best flooring for dogs. In fact, if you've read a few articles online, you may have noticed that the top search results are almost identical copies of each other.
+Let me start off by saying that there's a lot of bad information out there about the best pet-friendly flooring for dogs and cats. 
 
-To make this easier for you, I wanted to give you some actual facts to work with. When selecting flooring for your pets there are 6 characteristics to keep in mind. These include ease of cleaning, water resistance, stain resistance, scratch resistance, pet traction and pet comfort.
+In fact: 
+
+If you've read a few articles online, you may have noticed that the top search results are almost identical copies of each other.
+
+To make this easier for you, I wanted to give you some actual facts to work with. 
+
+When selecting pet-friendly flooring for your dogs and cats there are 6 characteristics to keep in mind. These include ease of cleaning, water resistance, stain resistance, scratch resistance, pet traction and pet comfort.
 
 Not all of these factors are important to everyone or their pets. However, they will give you some guidelines to follow when researching flooring ideas for your specific situation.
 
