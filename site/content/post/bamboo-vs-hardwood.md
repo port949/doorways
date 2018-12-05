@@ -1,21 +1,17 @@
 ---
-author: editor
-comments: false
-date: 2015-11-25 19:21:08+00:00
-excerpt: Easy to understand comparison of bamboo vs hardwood flooring. Read the pros
-  and cons of each before you install new floors in your home.
-layout: post
-link: http://www.doorwaysmagazine.com/bamboo-vs-hardwood/
+title: 'Bamboo vs Hardwood Flooring: Pros and Cons'
+date: 2018-11-25 19:21:08+00:00
+description: Easy to understand comparison of bamboo vs hardwood flooring. Read the pros and cons of each before you install new floors in your home.
 slug: bamboo-vs-hardwood
-title: 'Bamboo vs Hardwood Flooring: A Comparison Guide'
-wordpress_id: 474
-categories:
-- Flooring
 ---
 
 ![white kitchen hardwood flooring](http://www.doorwaysmagazine.com/wp-content/uploads/white_kitchen_hardwood_flooring.jpg)
 
-When it comes to installing new flooring your home, the use of the right material is essential. You will need something that looks great, is easy to maintain, long-lasting, and that fits into your budget. In this article we compare two common and traditional types of [wood flooring](http://en.wikipedia.org/wiki/Wood_flooring): bamboo and hardwood. While they are fairly similar in their properties, they do have slightly different pros and cons. 
+In this article we compare two common and traditional types of wood flooring: bamboo vs hardwood. 
+
+While they are fairly similar in their properties, they do have slightly different pros and cons. 
+
+When it comes to installing new flooring your home, the use of the right material is essential. You will need something that looks great, is easy to maintain, long-lasting, and that fits into your budget. 
 
 Natural bamboo flooring is considered to be an extremely elegant addition to any home, and hardwood floors have been viewed as highly attractive and durable for decades. Here are the more intricate details of these two types of flooring. 
 
@@ -53,5 +49,9 @@ The prices of bamboo and hardwood flooring are very similar, both between $2 and
 
 Be especially careful when buying bamboo, as there is no definite grading system for this type of material. A reputable dealer should therefore be consulted before spending any money. Both hardwood and bamboo floors are fairly big installation jobs that will cost more than synthetic flooring. 
 
-Since hardwood and bamboo are so similar, it is best to obtain the advice of an expert when deciding which one will be most suitable for your home. While bamboo is slightly more water resistant than hardwood, hardwood is often considered as the more durable of the two. Both floor varieties are extremely attractive and add considerable value to a home, apartment or office, and are well worth the effort of installation if they can be afforded. 
+## Conclusion
+
+Since hardwood and bamboo are so similar, it is best to obtain the advice of an expert when deciding which one will be most suitable for your home. While bamboo is slightly more water resistant than hardwood, hardwood is often considered as the more durable of the two. 
+
+Both floor varieties are extremely attractive and add considerable value to a home, apartment or office, and are well worth the effort of installation if they can be afforded. 
 
