@@ -1,5 +1,5 @@
 ---
-title: "25 Common Frigidaire Dishwasher Error Codes + Troubleshooting Tips"
+title: "25 Common Frigidaire Dishwasher Error Codes"
 date: 2018-12-04T00:50:00.000Z
 slug: frigidaire-dishwasher-error-codes
 description: >-
