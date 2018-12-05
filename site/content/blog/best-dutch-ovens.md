@@ -1,19 +1,11 @@
 ---
-author: editor
-comments: false
-date: 2016-01-27 23:01:38+00:00
-excerpt: A Dutch oven is a type of cooking pot with big walls and a tight fitting
-  lid. See which brand we selected as the best dutch oven on the market.
-layout: post
-link: http://www.doorwaysmagazine.com/comparison-best-dutch-ovens/
+title: A Comparion of the Best Dutch Ovens (2019)
+date: 2018-11-27 23:01:38+00:00
+description: A Dutch oven is a type of cooking pot with big walls and a tight fitting lid. See which brand we selected as the best dutch oven on the market.
 slug: comparison-best-dutch-ovens
-title: A Comparion of the Best Dutch Ovens
-wordpress_id: 1575
-categories:
-- Cookware
 ---
 
-[caption id="attachment_1582" align="aligncenter" width="800"]![cooking with a dutch oven](http://www.doorwaysmagazine.com/wp-content/uploads/dutch_oven_cooking.jpg) Photo via [Jules Art of Living](http://www.houzz.com/photos/4517415/Atherton-Oasis-contemporary-kitchen-san-francisco)[/caption]
+![cooking with a dutch oven](http://www.doorwaysmagazine.com/wp-content/uploads/dutch_oven_cooking.jpg) Photo via [Jules Art of Living](http://www.houzz.com/photos/4517415/Atherton-Oasis-contemporary-kitchen-san-francisco)
 
 A Dutch oven is a type of cooking pot with big walls and a tight fitting lid. There are many different types of dutch ovens on the market.  
 
@@ -22,30 +14,30 @@ The two most popular types include those used primarily on the stovetop or in th
 <table >
 <tr >
 
-<td >[easyazon_link asin="B0076NOGPY" locale="US" tag="nedutchoven-20"]![le creuset signature flame](http://www.doorwaysmagazine.com/wp-content/uploads/le_creuset_signature_flame-150x150.jpg)[/easyazon_link]
+<td >![le creuset signature flame](http://www.doorwaysmagazine.com/wp-content/uploads/le_creuset_signature_flame-150x150.jpg)
 </td>
 
-<td >[easyazon_link asin="B000N501BK" locale="US" tag="nedutchoven-20"]![lodge emameled dutch oven](http://www.doorwaysmagazine.com/wp-content/uploads/lodge_emameled_dutch_oven-150x150.jpg)[/easyazon_link]
+<td >![lodge emameled dutch oven](http://www.doorwaysmagazine.com/wp-content/uploads/lodge_emameled_dutch_oven-150x150.jpg)
 </td>
 
-<td >[easyazon_link asin="B0000V1PLW" locale="US" tag="nedutchoven-20"]![camp chef deluxe dutch oven](http://www.doorwaysmagazine.com/wp-content/uploads/camp_chef_deluxe_dutch_oven-150x150.jpg)[/easyazon_link]
+<td >![camp chef deluxe dutch oven](http://www.doorwaysmagazine.com/wp-content/uploads/camp_chef_deluxe_dutch_oven-150x150.jpg)
 </td>
 
-<td >[easyazon_link asin="B009HBK1E8" locale="US" tag="nedutchoven-20"]![tramontina dutch oven](http://www.doorwaysmagazine.com/wp-content/uploads/tramontina_dutch_oven-150x150.jpg)[/easyazon_link]
+<td >![tramontina dutch oven](http://www.doorwaysmagazine.com/wp-content/uploads/tramontina_dutch_oven-150x150.jpg)
 </td>
 </tr>
 <tr >
 
-<td >[easyazon_link asin="B0076NOGPY" locale="US" tag="nedutchoven-20"]Le Creuset Signature Enameled Cast-Iron French (Dutch) Oven[/easyazon_link]
+<td >Le Creuset Signature Enameled Cast-Iron French (Dutch) Oven
 </td>
 
-<td >[easyazon_link asin="B000N501BK" locale="US" tag="nedutchoven-20"]Lodge Enameled Cast Iron Dutch Oven[/easyazon_link]
+<td >Lodge Enameled Cast Iron Dutch Oven
 </td>
 
-<td >[easyazon_link asin="B0000V1PLW" locale="US" tag="nedutchoven-20"]Camp Chef Deluxe 10-inch Dutch Oven[/easyazon_link]
+<td >Camp Chef Deluxe 10-inch Dutch Oven
 </td>
 
-<td >[easyazon_link asin="B009HBK1E8" locale="US" tag="nedutchoven-20"]Tramontina Enameled Cast Iron Dutch Oven[/easyazon_link]
+<td >Tramontina Enameled Cast Iron Dutch Oven
 </td>
 </tr>
 <tr >
@@ -63,31 +55,13 @@ The two most popular types include those used primarily on the stovetop or in th
 </td>
 </tr>
 <tr >
-
 <td >Hand Crafted in France
 </td>
-
 <td >Affordable Price
 </td>
-
 <td >Included Lid Lift Tool
 </td>
-
 <td >Oval Shape Fits Longer Foods
-</td>
-</tr>
-<tr >
-
-<td >[easyazon_link asin="B0076NOGPY" locale="US" tag="nedutchoven-20"]See Price[/easyazon_link]
-</td>
-
-<td >[easyazon_link asin="B000N501BK" locale="US" tag="nedutchoven-20"]See Price[/easyazon_link]
-</td>
-
-<td >[easyazon_link asin="B0000V1PLW" locale="US" tag="nedutchoven-20"]See Price[/easyazon_link]
-</td>
-
-<td >[easyazon_link asin="B009HBK1E8" locale="US" tag="nedutchoven-20"]See Price[/easyazon_link]
 </td>
 </tr>
 </table>
@@ -102,7 +76,7 @@ Dutch ovens can be made from a variety of materials including cast iron, clay, a
 
 
 
-## [easyazon_link asin="B000N501BK" locale="US" tag="nedutchoven-20"]Lodge Enameled Cast Iron Dutch Oven[/easyazon_link]
+## Lodge Enameled Cast Iron Dutch Oven
 
 
 
@@ -112,7 +86,7 @@ This 11-inch Dutch oven is safe up to 500 degrees Fahrenheit and includes two co
 
 
 
-## [easyazon_link asin="B0076NOGPY" locale="US" tag="nedutchoven-20"]Le Creuset Signature Enameled Cast-Iron French (Dutch) Oven[/easyazon_link]
+## Le Creuset Signature Enameled Cast-Iron French (Dutch) Oven
 
 
 
@@ -122,7 +96,7 @@ Each piece is still made from an individual sand mold in France and passes throu
 
 
 
-## [easyazon_link asin="B0000V1PLW" locale="US" tag="nedutchoven-20"]Camp Chef Deluxe Dutch Oven[/easyazon_link]
+## Camp Chef Deluxe Dutch Oven
 
 
 
@@ -132,7 +106,7 @@ Additional features include a thermometer channel which allows you to check the 
 
 
 
-## [easyazon_link asin="B003UADW98" locale="US" tag="nedutchoven-20"]Stansport Non-Seasoned Cast Iron Dutch Oven[/easyazon_link]
+## Stansport Non-Seasoned Cast Iron Dutch Oven
 
 
 
@@ -145,30 +119,30 @@ There are many attractive styles and models that come available in a myriad of c
 <table >
 <tr >
 
-<td >[easyazon_link asin="B0076NOGPY" locale="US" tag="nedutchoven-20"]![le creuset signature flame](http://www.doorwaysmagazine.com/wp-content/uploads/le_creuset_signature_flame-300x300.jpg)[/easyazon_link]
+<td >![le creuset signature flame](http://www.doorwaysmagazine.com/wp-content/uploads/le_creuset_signature_flame-300x300.jpg)
 </td>
 
-<td >[easyazon_link asin="B000N501BK" locale="US" tag="nedutchoven-20"]![lodge emameled dutch oven](http://www.doorwaysmagazine.com/wp-content/uploads/lodge_emameled_dutch_oven-300x300.jpg)[/easyazon_link]
+<td >![lodge emameled dutch oven](http://www.doorwaysmagazine.com/wp-content/uploads/lodge_emameled_dutch_oven-300x300.jpg)
 </td>
 </tr>
 <tr >
 
-<td >[easyazon_link asin="B0076NOGPY" locale="US" tag="nedutchoven-20"]Le Creuset Signature Enameled Cast-Iron French (Dutch) Oven[/easyazon_link]
+<td >Le Creuset Signature Enameled Cast-Iron French (Dutch) Oven
 </td>
 
-<td >[easyazon_link asin="B000N501BK" locale="US" tag="nedutchoven-20"]Lodge Enameled Cast Iron Dutch Oven[/easyazon_link]
+<td >Lodge Enameled Cast Iron Dutch Oven
 </td>
 </tr>
 <tr >
-<td >[easyazon_link asin="B0000V1PLW" locale="US" tag="nedutchoven-20"]![camp chef deluxe dutch oven](http://www.doorwaysmagazine.com/wp-content/uploads/camp_chef_deluxe_dutch_oven-300x300.jpg)[/easyazon_link]
+<td >![camp chef deluxe dutch oven](http://www.doorwaysmagazine.com/wp-content/uploads/camp_chef_deluxe_dutch_oven-300x300.jpg)
 </td>
 
-<td >[easyazon_link asin="B009HBK1E8" locale="US" tag="nedutchoven-20"]![tramontina dutch oven](http://www.doorwaysmagazine.com/wp-content/uploads/tramontina_dutch_oven-300x300.jpg)[/easyazon_link]
+<td >![tramontina dutch oven](http://www.doorwaysmagazine.com/wp-content/uploads/tramontina_dutch_oven-300x300.jpg)
 </td></tr>
 <tr >
-<td >[easyazon_link asin="B0000V1PLW" locale="US" tag="nedutchoven-20"]Camp Chef Deluxe 10-inch Dutch Oven[/easyazon_link]
+<td >Camp Chef Deluxe 10-inch Dutch Oven
 </td>
 
-<td >[easyazon_link asin="B009HBK1E8" locale="US" tag="nedutchoven-20"]Tramontina Enameled Cast Iron Dutch Oven[/easyazon_link]
+<td >Tramontina Enameled Cast Iron Dutch Oven
 </td></tr>
 </table>
