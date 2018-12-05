@@ -1,16 +1,9 @@
 ---
-author: editor
-comments: false
-date: 2015-11-25 22:48:23+00:00
-excerpt: How much does it cost to finish a basement? Find out what I tell my clients
-  when they want to remodel. Beware of these 3 hidden basement finishing costs.
-layout: post
-link: http://www.doorwaysmagazine.com/basement-finishing-cost/
-slug: basement-finishing-cost
 title: How Much Does it Cost to Finish a Basement?
-wordpress_id: 510
-categories:
-- Basement Remodeling
+date: 2018-11-25 22:48:23+00:00
+description: How much does it cost to finish or remodel a basement? Find out what I tell my clients when they want to remodel. Beware of these 3 hidden basement finishing costs.
+slug: basement-finishing-cost
+
 ---
 
 ![finished basement game room](http://www.doorwaysmagazine.com/wp-content/uploads/finished_basement_game_room.jpg)
@@ -109,6 +102,8 @@ As I briefly mentioned above, the biggest variable costs are those that involve 
 You may also see your costs rise if you hire a general contractor and subcontractors to finish the work for you. While you can do most of the grunt work yourself, you'll still need to hire a qualified electrician and potentially a plumber, too.
 
 With this information in hand, your contractor, designer or home improvement buddy will be better equipped to tell you how much your new basement is going to cost. 
+
+## Conclusion
 
 Talking about expenses is one thing, but the most important part of the process is setting a budget. As you can see, basement remodeling is expensive. Sometimes, even very expensive. But it doesn't have to be. 
 
