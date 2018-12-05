@@ -19,9 +19,9 @@ If you can't find your code in the list below, please leave us a comment at the 
 <table>
 <thead>
 <tr>
-<td>Error Code</td>
-<td>Problem</td>
-<td>Solution</td>
+<th>Error Code</th>
+<th>Problem</th>
+<th>Solution</th>
 </tr>
 </thead>
 <tbody>
