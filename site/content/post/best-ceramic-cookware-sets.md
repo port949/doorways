@@ -46,7 +46,7 @@ Knowing more about ceramic cookware can help you decide if it is the right choic
 <td>Even Heat Distribution</td>
 </tr>
 <tr>
-<td><a href="https://www.amazon.com/dp/B000MGWIMK?tag=doorways-20" target="_blank" rel="nofollow">[easyazon_link asin="B009L16ZBM" locale="US" tag="doorways-20"]See Price</a>
+<td><a href="https://www.amazon.com/dp/B009L16ZBM?tag=doorways-20" target="_blank" rel="nofollow">See Price</a></a>
 </td>
 <td><a href="https://www.amazon.com/dp/B00IWSQQIW?tag=doorways-20" target="_blank" rel="nofollow">See Price</a>
 </td>
