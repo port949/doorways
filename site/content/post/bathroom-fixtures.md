@@ -24,7 +24,7 @@ Rainfall showerheads come in various styles and finishes to choose from so it is
 
 
 
-<img src="http://neighborhoodenvy.com/uploads/ana_bath_dual_showerhead-150x150.jpg" alt="ana bath dual showerhead" width="150" height="150" class="alignright size-thumbnail wp-image-4476" />When it comes to getting the most out of your shower time, two heads are almost always better than one.
+When it comes to getting the most out of your shower time, two heads are almost always better than one.
 
 This is one reason why more and more people are getting rid of their outdated standard showerhead and replacing it with a high quality dual showerhead model.
 
