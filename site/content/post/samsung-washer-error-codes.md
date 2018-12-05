@@ -24,9 +24,13 @@ If you don't see your error code below, or have a question about your specific m
 
 
 <table >
-
-<tr >Error CodeProblemSolution</tr>
-
+<thead>
+<tr>
+ <th>Error Code</th>
+ <th>Problem</th>
+ <th>Solution</th>
+ </tr>
+</thead>
 <tbody >
 <tr >
 <td >1C, 1E, E7
