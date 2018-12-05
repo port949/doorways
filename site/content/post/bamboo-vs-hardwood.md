@@ -5,7 +5,7 @@ description: Easy to understand comparison of bamboo vs hardwood flooring. Read 
 slug: bamboo-vs-hardwood
 ---
 
-![white kitchen hardwood flooring](http://www.doorwaysmagazine.com/wp-content/uploads/white_kitchen_hardwood_flooring.jpg)
+![white kitchen hardwood flooring](https://www.doorwaysmagazine.com/wp-content/uploads/white_kitchen_hardwood_flooring.jpg)
 
 In this article we compare two common and traditional types of wood flooring: bamboo vs hardwood. 
 
