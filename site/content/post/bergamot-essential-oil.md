@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2015-11-19 23:25:51+00:00
-excerpt: What are the benefits of Bergamot oil? Is it good for pain relief? See what
-  we discovered about this rare essential oil before you go anywhere else.
-layout: post
-link: http://www.doorwaysmagazine.com/bergamot-essential-oil/
+title: 'Bergamot Essential Oil Benefits, Uses and Origin Revealed!'
+date: 2018-11-19 23:25:51+00:00
+description: What are the benefits of Bergamot oil? Is it good for pain relief? See what we discovered about this rare essential oil before you go anywhere else.
 slug: bergamot-essential-oil
-title: 'Bergamot Essential Oil: The Benefits, Uses and Origin Explained'
-wordpress_id: 295
-categories:
-- Wellness
+
 ---
 
-![bergamot oil guide](http://www.doorwaysmagazine.com/wp-content/uploads/bergamot_oil_guide.jpg)
+![bergamot oil guide](https://www.doorwaysmagazine.com/wp-content/uploads/bergamot_oil_guide.jpg)
 
 Bergamot oil is one of the rarest essential oils. That's because it has some special features which makes it a very good natural medicine. 
 
@@ -24,30 +17,29 @@ Since the oil is extracted from the peel of the fruit, it has a unique light cit
 <table >
 <tr >
 
-<td >[easyazon_link identifier="B00CKJGIS2" locale="US" tag="doorways-20"]![doterra bergamot oil](http://www.doorwaysmagazine.com/wp-content/uploads/doterra_bergamot_oil-150x150.jpg)[/easyazon_link]
+<td ><img alt="doterra bergamot oil" src="https://www.doorwaysmagazine.com/wp-content/uploads/doterra_bergamot_oil-150x150.jpg" ></td>
+
+<td ><img alt="now foods bergamot oil" src="https://www.doorwaysmagazine.com/wp-content/uploads/now_foods_bergamot_oil-150x150.jpg" >
 </td>
 
-<td >[easyazon_link identifier="B0014UFYCO" locale="US" tag="doorways-20"]![now foods bergamot oil](http://www.doorwaysmagazine.com/wp-content/uploads/now_foods_bergamot_oil-150x150.jpg)[/easyazon_link]
+<td ><img alt="edens garden bergamot oil" src="https://www.doorwaysmagazine.com/wp-content/uploads/edens_garden_bergamot_oil-150x150.jpg" >
 </td>
 
-<td >[easyazon_link identifier="B003TMA3DU" locale="US" tag="doorways-20"]![edens garden bergamot oil](http://www.doorwaysmagazine.com/wp-content/uploads/edens_garden_bergamot_oil-150x150.jpg)[/easyazon_link]
-</td>
-
-<td >[easyazon_link identifier="B00VQ0UH60" locale="US" tag="doorways-20"]![ovvio oils bergamot oil](http://www.doorwaysmagazine.com/wp-content/uploads/ovvio_oils_bergamot_oil-150x150.jpg)[/easyazon_link]
+<td ><img alt="ovvio oils bergamot oil" src="https://www.doorwaysmagazine.com/wp-content/uploads/ovvio_oils_bergamot_oil-150x150.jpg" >
 </td>
 </tr>
 <tr >
 
-<td >[easyazon_link identifier="B00CKJGIS2" locale="US" tag="doorways-20"]doTERRA Bergamot[/easyazon_link]
+<td >doTERRA Bergamot
 </td>
 
-<td >[easyazon_link identifier="B0014UFYCO" locale="US" tag="doorways-20"]NOW Foods Bergamot Oil[/easyazon_link]
+<td >NOW Foods Bergamot Oil
 </td>
 
-<td >[easyazon_link identifier="B003TMA3DU" locale="US" tag="doorways-20"]Eden's Garden Bergamot Oil[/easyazon_link]
+<td >Eden's Garden Bergamot Oil
 </td>
 
-<td >[easyazon_link identifier="B00VQ0UH60" locale="US" tag="doorways-20"]Ovvio Oils Bergamot Oil[/easyazon_link]
+<td >Ovvio Oils Bergamot Oil
 </td>
 </tr>
 <tr >
@@ -66,16 +58,16 @@ Since the oil is extracted from the peel of the fruit, it has a unique light cit
 </tr>
 <tr >
 
-<td >[easyazon_link identifier="B00CKJGIS2" locale="US" tag="doorways-20"]See Price[/easyazon_link]
+<td ><a href="https://www.amazon.com/dp/B00CKJGIS2?tag=doorways-20" target="_blank" rel="nofollow">See Price</a>
 </td>
 
-<td >[easyazon_link identifier="B0014UFYCO" locale="US" tag="doorways-20"]See Price[/easyazon_link]
+<td ><a href="https://www.amazon.com/dp/B0014UFYCO?tag=doorways-20" target="_blank" rel="nofollow">See Price</a>
 </td>
 
-<td >[easyazon_link identifier="B003TMA3DU" locale="US" tag="doorways-20"]See Price[/easyazon_link]
+<td ><a href="https://www.amazon.com/dp/B003TMA3DU?tag=doorways-20" target="_blank" rel="nofollow">See Price</a>
 </td>
 
-<td >[easyazon_link identifier="B00VQ0UH60" locale="US" tag="doorways-20"]See Price[/easyazon_link]
+<td ><a href="https://www.amazon.com/dp/B00VQ0UH60?tag=doorways-20" target="_blank" rel="nofollow">See Price</a>
 </td>
 </tr>
 </table>
@@ -115,43 +107,3 @@ The oil naturally contains bergaptene which has some tanning effects on the body
 
 The bergamot tree from which the bergamot essential oil is extracted is native to Morocco and Corsica. The fact that this tree is generally not found in any other part of the word makes this essential oil rare. Scientifically, the bergamot essential oil is called [Citrus Bergamia](http://www.ncbi.nlm.nih.gov/pubmed/19655295). Apart from Morocco and Corsica, it is only found in a couple more Mediterranean countries but the major production comes from these two countries. 
 
-
-
-## Where to Buy:
-
-
-
-Italy and other countries export pure extracted bergamot oil. Locally, it can be bought on Amazon.
-
-<table >
-<tr >
-
-<td >[easyazon_link identifier="B00CKJGIS2" locale="US" tag="doorways-20"]![doterra bergamot oil](http://www.doorwaysmagazine.com/wp-content/uploads/doterra_bergamot_oil-300x300.jpg)[/easyazon_link]
-</td>
-
-<td >[easyazon_link identifier="B0014UFYCO" locale="US" tag="doorways-20"]![now foods bergamot oil](http://www.doorwaysmagazine.com/wp-content/uploads/now_foods_bergamot_oil-300x300.jpg)[/easyazon_link]
-</td>
-</tr>
-<tr >
-
-<td >[easyazon_link identifier="B00CKJGIS2" locale="US" tag="doorways-20"]doTERRA Bergamot[/easyazon_link]
-</td>
-
-<td >[easyazon_link identifier="B0014UFYCO" locale="US" tag="doorways-20"]NOW Foods Bergamot Oil[/easyazon_link]
-</td>
-</tr>
-<tr >
-<td >[easyazon_link identifier="B003TMA3DU" locale="US" tag="doorways-20"]![edens garden bergamot oil](http://www.doorwaysmagazine.com/wp-content/uploads/edens_garden_bergamot_oil-300x300.jpg)[/easyazon_link]
-</td>
-
-<td >[easyazon_link identifier="B00VQ0UH60" locale="US" tag="doorways-20"]![ovvio oils bergamot oil](http://www.doorwaysmagazine.com/wp-content/uploads/ovvio_oils_bergamot_oil-300x300.jpg)[/easyazon_link]
-</td></tr>
-<tr >
-
-<td >[easyazon_link identifier="B003TMA3DU" locale="US" tag="doorways-20"]Eden's Garden Bergamot Oil[/easyazon_link]
-</td>
-
-<td >[easyazon_link identifier="B00VQ0UH60" locale="US" tag="doorways-20"]Ovvio Oils Bergamot Oil[/easyazon_link]
-</td>
-</tr>
-</table>
