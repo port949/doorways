@@ -6,7 +6,7 @@ slug: basement-finishing-cost
 
 ---
 
-![finished basement game room](http://www.doorwaysmagazine.com/wp-content/uploads/finished_basement_game_room.jpg)
+![finished basement game room](https://www.doorwaysmagazine.com/wp-content/uploads/finished_basement_game_room.jpg)
 
 One of my friends just finished remodeling her basement. When I went to her house to see how it turned out, I was blown away at how great it looked. 
 
