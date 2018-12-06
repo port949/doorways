@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2016-01-28 00:40:27+00:00
-excerpt: Yes, you can have marble countertops in your kitchen for less than you might
-  think. See what we discovered about the cost or marble and care required.
-layout: post
-link: http://www.doorwaysmagazine.com/complete-guide-marble-countertops/
+title: Marble Countertops: Colors, Cost, and Care Guide
+date: 2018-11-28 00:40:27+00:00
+description: See what we discovered about the cost of marble countertops and care required.
 slug: complete-guide-marble-countertops
-title: The Beginner's Guide to Marble Countertops Cost and Care
-wordpress_id: 1608
-categories:
-- Kitchen Design
+
 ---
 
-![white kitchen cabinets with marble countertops](http://www.doorwaysmagazine.com/wp-content/uploads/white_kitchen_cabinets_marble_countertops.jpg)
+![white kitchen cabinets with marble countertops](https://www.doorwaysmagazine.com/wp-content/uploads/white_kitchen_cabinets_marble_countertops.jpg)
 
 Ah, Carrara Marble - the holy grail of kitchen countertops! Yes, you can have marble in your kitchen for less than you might think. Like granite, each slab of marble is completely unique. 
 
@@ -21,15 +14,13 @@ You'll notice that marble has a much different appearance than granite in both c
 
 Due to the limited amount of color options outside of white, marble is a timeless and elegant choice. 
 
-**Editor's Note:** _Need help finding your dream countertops? Purchase a copy of **The Complete Guide to Incredible Countertops!**_ _(Sorry, currently sold out)_
-
-
+**Editor's Note:** _Need help finding your dream countertops? Purchase a copy of **The Complete Guide to Incredible Countertops!**_
 
 ## Marble Care and Maintenance
 
+![marble countertops sample](https://www.doorwaysmagazine.com/wp-content/uploads/marble_countertops_thumb.jpg)
 
-
-![marble countertops sample](http://www.doorwaysmagazine.com/wp-content/uploads/marble_countertops_thumb-300x217.jpg)While marble is one of the best looking countertop materials available, it is also requires significant maintenance. 
+While marble is one of the best looking countertop materials available, it is also requires significant maintenance. 
 
 One of the most common arguments against having marble in the kitchen is that it is susceptible to scratches and stains. Marble stains are common for two reasons: it is a very porous material and is sensitive to acidic solutions (i.e. lemon). 
 
@@ -74,11 +65,10 @@ When shopping for countertops don't forget to account for edge costs. Ornate edg
 ## Available Marble Colors
 
 
-
 Marble is a timeless choice because it compliments a wide range of kitchen color palettes. While marble can be found in a variety of colors and patterns, the options are limited compared to granite. 
 
 The most popular marble color is white. Usually when homeowners think of white marble they think of Carrera. If you want a pure white marble you should actually be looking at Calacatta. In comparison, Carrera has more grey tones than white.
 
 Don't want white? Consider looking at Botticino, Crema or Sahara Gold.
 
-**P.S.** _Need help finding your dream countertops? Purchase a copy of **The Complete Guide to Incredible Countertops!**_ _(Sorry, currently sold out)_
+**P.S.** _Need help finding your dream countertops? Purchase a copy of **The Complete Guide to Incredible Countertops!**_ 
