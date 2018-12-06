@@ -6,7 +6,7 @@ description: >-
   Is your smoke detector or fire alarm beeping or chirping every minute? We'll show you how to fix both hard wired and battery powered units.
   
 ---
-<img src="https://www.doorwaysmagazine.com/wp-content/uploads/check_smoke_alarm-300x199.jpg" alt="check your smoke alarm" />
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/check_smoke_alarm.jpg" alt="check your smoke alarm" />
 
 Is your smoke detector or fire alarm beeping or chirping every minute? 
 
