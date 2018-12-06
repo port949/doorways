@@ -3,8 +3,7 @@ title: 'Deck Joist Spacing, Span and Size Table'
 date: 2018-09-13T19:42:17.634Z
 slug: deck-joist-spacing-span-size
 description: >-
-  Find the correct deck joist spacing and span before you start building. See
-  calculations for 2x6, 2x8, 2x10 and 2x12 deck joists and common types of wood.
+  Find the correct deck joist spacing and span before you start building. See calculations for 2x6, 2x8, 2x10 and 2x12 deck joists and common types of wood.
 ---
 Determining the correct deck joist spacing and span is actually more complicated than you may think. Although building a deck seems straightforward, there are a few important design factors to keep in mind.
 
