@@ -1,28 +1,16 @@
 ---
-author: editor
-comments: false
-date: 2017-01-18 00:10:15+00:00
-excerpt: Hampton Bay Cabinets use many of the same construction features found in
-  high-end cabinets. But you might be surprised what we discovered in our review...
-layout: post
-link: http://www.doorwaysmagazine.com/hampton-bay-cabinets-reviews/
+title: "Hampton Bay Cabinets Reviews (2019)"
+date: 2018-11-18 00:10:15+00:00
+description: Hampton Bay Cabinets use many of the same construction features found in high-end cabinets. But you might be surprised what we discovered in our review...
 slug: hampton-bay-cabinets-reviews
-title: Hampton Bay Cabinets Reviews
-wordpress_id: 12242
-categories:
-- Kitchen Cabinets
+
 ---
 
-![hampton bay cabinets review](http://www.doorwaysmagazine.com/wp-content/uploads/hampton_bay_cabinets_review-150x150.jpg)
 
 Considering Hampton Bay cabinets for your kitchen remodel? Read our reviews of Home Depot cabinets and whether they are worth the money.
 
 
-
-
-
-**Do you have experience with Hampton Bay cabinetry? Leave your review below.**
-
+**Do you have experience with Hampton Bay cabinetry? Leave a comment or review below.**
 
 
 Hampton Bay provides beautiful cabinets at an affordable price without sacrificing quality or style.  
@@ -50,8 +38,6 @@ The shelves are fully adjustable allowing you to customize them to fit your belo
 **Hampton Bay offers several glass options including:**
 
 
-
-
   * Clear
 
 
@@ -68,21 +54,17 @@ The shelves are fully adjustable allowing you to customize them to fit your belo
 Decorative end panels and molding add beauty and charm while rollout shelves provide convenience and functionality. You can even choose to install a wine rack to store your wines elegantly.
 
 
-
 ### Common Complaints
-
 
 
 When it comes to the quality of the material, the shredded MDF particles can come apart if the product was handled roughly during transport and due to the use of staples. Some customers have also noted that the veneer bubbles when exposed to moisture. 
 
 Take care to keep your cabinets dry and minimize their exposure to moisture as much as possible. This can also depend on the construction style chosen.
 
-Some customers also disliked the limited available sizes, but the Hampton Bay products have a large selection of hardware. 
-
+Some customers also disliked the limited available sizes, but the Hampton Bay cabinets have a large selection of hardware. 
 
 
 ### Conclusion
-
 
 
 For affordable cabinets that are decent in quality, arrive quickly, and provide a pleasant array of color options and styles, Hampton Bay is a good fit. The Hampton Bay cabinets are a popular choice at the Home Depot for their quick installation and pleasant appearance.
