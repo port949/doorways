@@ -1,21 +1,18 @@
 ---
-author: editor
-comments: false
-date: 2016-02-01 22:54:10+00:00
-excerpt: 'With more than 30 million Americans taking out payday loans each year, it’s
-  time to find out: Do Payday Loans Show Up on Your Credit Report?'
-layout: post
-link: http://www.doorwaysmagazine.com/payday-loans-credit-report/
+title: "Payday Loans & Your Credit Score: Do They Show Up on Your Credit Report?"
+date: 2018-11-01 22:54:10+00:00
+description: "With more than 30 million Americans taking out payday loans each year, it’s time to find out: Do Payday Loans Show Up on Your Credit Report?"
 slug: payday-loans-credit-report
-title: Do Payday Loans Show Up on Your Credit Report?
-wordpress_id: 4917
-categories:
-- Personal Finance
+
 ---
 
-![payday loans credit report](http://www.doorwaysmagazine.com/wp-content/uploads/payday_loans_credit_report-300x169.jpg)Will payday loans hurt your credit score? Can lenders see cash advance loans on your credit report?
+![payday loans credit report](https://www.doorwaysmagazine.com/wp-content/uploads/payday_loans_credit_report-300x169.jpg)
 
-Below we try to answer these questions and more. Today, borrowers have no shortage of questions about getting short term loans online and how it will affect their credit score, but it’s rare to find any straightforward and honest answers. With more than 30 million Americans taking out payday loans each year, it’s time to get to the bottom of this. **Do Payday Loans Show Up on Your Credit Report?**
+Will payday loans affect your credit score? Can lenders see cash advance loans on your credit report?
+
+Below we try to answer these questions and more. Today, borrowers have no shortage of questions about getting short term loans online and how it will affect their credit score, but it’s rare to find any straightforward and honest answers. With more than 30 million Americans taking out payday loans each year, it’s time to get to the bottom of this. 
+
+**Do Payday Loans Show Up on Your Credit Report?**
 
 But before we start, let’s cover our bases first. When taking out a payday loan it’s important to consider the fees, restrictions and repayment period carefully. Payday loans are an expensive form of credit and can be dangerous if not handled responsibly. 
 
