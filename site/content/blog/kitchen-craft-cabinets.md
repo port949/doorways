@@ -1,14 +1,13 @@
 ---
-title: 'Kitchen Craft Cabinet Reviews: 2018 Buyer''s Guide'
+title: "Kitchen Craft Cabinet Reviews: 2019 Buyer's Guide"
 date: 2018-02-02T20:31:00.000Z
 slug: kitchen-craft-cabinets
 description: >-
-  If you are hoping to upgrade your kitchen with functional, affordable, and
-  beautiful cabinets, Kitchen Craft provides a large variety from which to
-  choose. Their customizable cabinet interiors make it easy to create a layout
-  that fits your needs precisely.
+  Read our reviews of Kitchen Craft cabinets to find out if they are the right choice for your kitchen remodel.
+  
 ---
-![kitchen craft cabinet styles](http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_craft_cabinets_review.jpg) A wide variety of styles available - Photo via [KitchenCraft.com](http://www.kitchencraft.com/)
+![kitchen craft cabinet styles](https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_craft_cabinets_review.jpg) 
+A wide variety of styles available - Photo via [KitchenCraft.com](http://www.kitchencraft.com/)
 
 Kitchen Craft offers its customers European style, fashion-forward modern cabinets tailored to their specific needs and tastes. These cabinets are designed with both quality and versatility in mind. 
 
@@ -29,7 +28,7 @@ Within Kitchen Craft there are two lines of cabinetry called Integra and Aurora.
 
 ## Construction Quality
 
-Kitchen Craft cabinets are much cheaper than brands such as [KraftMaid](http://www.doorwaysmagazine.com/kraftmaid-cabinets/). The company offers every type of construction. One of these types is known as Frameless Construction. This style uses a thicker box construction, full overlay doors, and adjustable shelves.
+Kitchen Craft cabinets are much cheaper than brands such as [KraftMaid](https://www.doorwaysmagazine.com/kraftmaid-cabinets/). The company offers every type of construction. One of these types is known as Frameless Construction. This style uses a thicker box construction, full overlay doors, and adjustable shelves.
 
 Kitchen Craft uses several types of materials in their construction. These include; particle board, plywood, veneer, and Therma-Foil. The Thermafoil compound is only used on cabinet doors.
 
