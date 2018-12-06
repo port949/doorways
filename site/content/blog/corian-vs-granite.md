@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2015-11-12 19:57:06+00:00
-excerpt: Granite or Corian countertops? Read this comparison guide to see the pros
-  and cons of each material. You might be surprised what we discovered!
-layout: post
-link: http://www.doorwaysmagazine.com/corian-vs-granite/
-slug: corian-vs-granite
 title: 'Corian vs Granite Countertops: A Cost Comparison'
-wordpress_id: 248
-categories:
-- Kitchen Design
+date: 2018-11-12 19:57:06+00:00
+description: Granite or Corian countertops? Read this comparison guide to see the pros and cons of each material. You might be surprised what we discovered!
+slug: corian-vs-granite
+
 ---
 
-![Corian vs Granite Comparison](http://www.doorwaysmagazine.com/wp-content/uploads/corian_vs_granite_comparison.jpg)
+![Corian vs Granite Comparison](https://www.doorwaysmagazine.com/wp-content/uploads/corian_vs_granite_comparison.jpg)
 
 When you know more about the types of kitchen and bathroom countertops available, you can make better choices when it comes to remodeling your home. While there are many different options available, this article focuses on two very common types that work well in bathrooms and kitchens: Corian and Granite. 
 
