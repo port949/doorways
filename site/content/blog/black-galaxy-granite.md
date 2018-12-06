@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2015-10-28 02:21:09+00:00
-excerpt: Looking for black galaxy granite? Read this buyer's guide first. Learn the
-  best color combinations to use with your new kitchen countertops. See prices too.
-layout: post
-link: http://www.doorwaysmagazine.com/black-galaxy-granite/
+title: "Black Galaxy Granite: Countertop Buyer's Guide"
+date: 2018-10-28 02:21:09+00:00
+description: Looking for black galaxy granite? Read this buyer's guide first. Learn the best color combinations to use with your new kitchen countertops. See prices too.
 slug: black-galaxy-granite
-title: 'Black Galaxy Granite: A Countertop Buyer''s Guide'
-wordpress_id: 105
-categories:
-- Kitchen Design
+
 ---
 
-[caption id="attachment_106" align="aligncenter" width="745"]![black galaxy granite countertops](http://www.doorwaysmagazine.com/wp-content/uploads/black_galaxy_granite_countertops.jpg) Photo via [Design Connection, Inc](http://www.houzz.com/photos/2233472/Design-Connection-Inc-Kitchens-Kansas-City-Certified-Interior-Designers-traditional-kitchen-other-metro)[/caption]
+![black galaxy granite countertops](https://www.doorwaysmagazine.com/wp-content/uploads/black_galaxy_granite_countertops.jpg) Photo via [Design Connection, Inc](http://www.houzz.com/photos/2233472/Design-Connection-Inc-Kitchens-Kansas-City-Certified-Interior-Designers-traditional-kitchen-other-metro)
 
 Black Galaxy Granite remains one of the most popular and highly desired granites in the world and exports to virtually every continent. 
 
