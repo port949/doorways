@@ -1,21 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2017-01-14 08:07:12+00:00
-excerpt: Is tile that looks like wood a good alternative to hardwood flooring? See
-  what I discovered about wood look tile before you read anything else. Start here.
-layout: post
-link: http://www.doorwaysmagazine.com/ceramic-tile-that-looks-like-wood/
-slug: ceramic-tile-that-looks-like-wood
 title: Pros and Cons of Tile That Looks Like Wood
-wordpress_id: 714
-categories:
-- Flooring
+date: 2018-11-14 08:07:12+00:00
+description: Is tile that looks like wood a good alternative to hardwood flooring? See what I discovered about wood look tile before you read anything else. Start here.
+slug: ceramic-tile-that-looks-like-wood
+
 ---
 
-[thrive_leads id='13423']
-
-Many of my readers have told me that [installing hardwood floors](http://www.doorwaysmagazine.com/install-hardwood-floors/) is at the top of their to-do list. Unfortunately, it just doesn't fit into their budget. 
+Many of my readers have told me that [installing hardwood floors](https://www.doorwaysmagazine.com/install-hardwood-floors/) is at the top of their to-do list. Unfortunately, it just doesn't fit into their budget. 
 
 **Instead they want to know more about tile that looks like wood. Is it a good alternative to traditional hardwood flooring?**
 
@@ -23,7 +14,7 @@ The answer might surprise you. But, before I tell you about what I discovered, l
 
 Today, tile manufacturers use [high-definition inkjet technology](https://www.reminetwork.com/articles/digital-fever/) to print wood grain patterns onto porcelain and ceramic tiles. Not only does the tile look like wood but it also has grain texture, too. Cool, huh?
 
-![wood look tile](http://www.doorwaysmagazine.com/wp-content/uploads/wood_look_tile.jpg)
+![wood look tile](https://www.doorwaysmagazine.com/wp-content/uploads/wood_look_tile.jpg)
 
 Although it is not wood and feels different when you touch it, I doubt your guests will even notice. Plus, tile is easier to maintain, costs less and is moisture resistant.
 
@@ -67,7 +58,7 @@ I should also point out that if you plan to install wood look tile in a large ar
 
 If you're thinking about installing your own flooring, let me give you a brief warning. Laying tile is much harder than it looks. Yes, you can save yourself a few hundred dollars by doing it yourself. However, you might get a cleaner and more professional result if you let a pro do it for you. 
 
-Don't forget that [laying tile](http://www.doorwaysmagazine.com/how-to-install-tile/) also takes longer than install wood flooring. That's because you have to lay the tile bed, carefully install the tiles and grout the tiles when they are in place. This means you'll be on your hands and knees for longer than you can probably imagine. 
+Don't forget that [laying tile](https://www.doorwaysmagazine.com/how-to-install-tile/) also takes longer than install wood flooring. That's because you have to lay the tile bed, carefully install the tiles and grout the tiles when they are in place. This means you'll be on your hands and knees for longer than you can probably imagine. 
 
 Although both hardwood and tile can be installed by the average homeowner, tile is a much more difficult skill to learn. Not to mention, tile has much less margin for error - you'll see every mistake you made anytime you walk on your new floors.
 
