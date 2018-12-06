@@ -1,20 +1,15 @@
 ---
-author: editor
-comments: false
-date: 2016-02-02 22:21:57+00:00
-excerpt: Here you’ll find the best paint colors for kitchens with white cabinets and
-  other great kitchen color schemes. Read these kitchen painting tips before you pick
-  up that brush.
-layout: post
-link: http://www.doorwaysmagazine.com/kitchen-paint-colors-with-white-cabinets/
-slug: kitchen-paint-colors-with-white-cabinets
 title: The Best Kitchen Paint Colors with White Cabinets
-wordpress_id: 1807
-categories:
-- Kitchen Design
+date: 2018-12-02 22:21:57+00:00
+description: Here you’ll find the best paint colors for kitchens with white cabinets and other great kitchen color schemes. Read these kitchen painting tips before you pick up that brush.
+slug: kitchen-paint-colors-with-white-cabinets
+
 ---
 
-[caption id="attachment_1809" align="alignright" width="300"]![kitchen color ideas with white cabinets](http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_paint_colors_white_cabinets_02-300x216.jpg) Photo via [Kitchens of Diablo](http://www.houzz.com/photos/1627124/Landon-traditional-kitchen-san-francisco)[/caption]White kitchen cabinets are the most requested item my clients ask for during their kitchen remodel. But, your cabinets are just half the battle in the kitchen design process.
+![kitchen color ideas with white cabinets](https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_paint_colors_white_cabinets_02-300x216.jpg) 
+Photo via [Kitchens of Diablo](http://www.houzz.com/photos/1627124/Landon-traditional-kitchen-san-francisco)
+
+White kitchen cabinets are the most requested item my clients ask for during their kitchen remodel. But, your cabinets are just half the battle in the kitchen design process.
 
 Below you’ll find out the best paint colors for kitchens with white cabinets and other great kitchen color schemes.
 
@@ -31,8 +26,8 @@ It should be no surprise that the most popular colors that go with white cabinet
 ## Sherwin Williams Pavestone (SW7642)
 
 
-
-[caption id="attachment_1724" align="aligncenter" width="500"]![Painting kitchen cabinets white](http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_paint_colors_white_cabinets_01.jpg) White Kitchen Cabinets – [Photo](http://www.houzz.com/photos/210661/Casa-Verde-Design-traditional-kitchen-minneapolis)[/caption]
+![Painting kitchen cabinets white](https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_paint_colors_white_cabinets_01.jpg) 
+White Kitchen Cabinets – [Photo](http://www.houzz.com/photos/210661/Casa-Verde-Design-traditional-kitchen-minneapolis)
 
 There are many variations of these colors that will go great with almost all white cabinets. But, for your reference I've included the wall colors shown in these photos in case you want to make this easy on yourself.
 
@@ -46,7 +41,8 @@ This kitchen does a great job balancing the white backsplash and cabinets with w
 
 
 
-[caption id="attachment_1809" align="aligncenter" width="500"]![kitchen color ideas with white cabinets](http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_paint_colors_white_cabinets_02.jpg) Photo via [Kitchens of Diablo](http://www.houzz.com/photos/1627124/Landon-traditional-kitchen-san-francisco)[/caption]
+![kitchen color ideas with white cabinets](https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_paint_colors_white_cabinets_02.jpg) 
+Photo via [Kitchens of Diablo](http://www.houzz.com/photos/1627124/Landon-traditional-kitchen-san-francisco)
 
 We all know that the kitchen is the central hub for most families today. Why not add some energy to the space with a lighter color on the walls? With white marble countertops, this tan wall color helps brighten up the space, while giving it a warm feel.
 
@@ -62,7 +58,8 @@ This kitchen features Benjamin Moore Danville Tan paint on the walls.
 
 
 
-[caption id="attachment_1808" align="aligncenter" width="500"]![kitchen paint colors with white cabinets](http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_paint_colors_white_cabinets_03.jpg) Photo via [CliqStudios](http://www.houzz.com/photos/3414687/White-Kitchen-in-a-1918-Cottage-Style-Farmhouse-contemporary-kitchen-atlanta)[/caption]
+![kitchen paint colors with white cabinets](https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_paint_colors_white_cabinets_03.jpg) 
+Photo via [CliqStudios](http://www.houzz.com/photos/3414687/White-Kitchen-in-a-1918-Cottage-Style-Farmhouse-contemporary-kitchen-atlanta)
 
 For those of you that are more adventurous, here is a great example of how a bright wall color can completely transform your space. The great thing about painting your kitchen walls is that the color can be changed whenever you feel like it!
 
