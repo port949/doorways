@@ -1,14 +1,9 @@
 ---
-author: editor
-comments: false
-date: 2017-02-21 20:00:56+00:00
-layout: post
-link: http://www.doorwaysmagazine.com/washing-machine-wont-spin/
+title: "5 Reasons Your Washing Machine Won't Spin"
+date: 2018-11-21 20:00:56+00:00
 slug: washing-machine-wont-spin
-title: 5 Reasons Your Washing Machine Won't Spin
-wordpress_id: 12950
-categories:
-- Appliances
+description: "If your washing machine won't spin, try one of these troubleshooting tips before you decide to replace it."
+
 ---
 
 So your washing machine won't spin?
@@ -21,7 +16,7 @@ To help you identify the potential problem with your washing machine, we've put 
 
 Before you spend hundreds of dollars replacing your washing machine, try one of these suggestions below. If you still have no luck, consider calling a repairman or making a claim on your warranty.
 
-![washing machine troubleshooting guide](http://www.doorwaysmagazine.com/wp-content/uploads/washing_machine_troubleshooting_guide.jpg)
+![washing machine troubleshooting guide](https://www.doorwaysmagazine.com/wp-content/uploads/washing_machine_troubleshooting_guide.jpg)
 
 
 
