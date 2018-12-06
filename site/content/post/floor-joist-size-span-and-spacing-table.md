@@ -3,8 +3,7 @@ title: 'Floor Joist Size, Span and Spacing Table'
 date: 2018-09-13T19:51:46.886Z
 slug: floor-joist-size-span-spacing
 description: >-
-  See our complete chart of floor joist size, span and spacing requirements
-  before you build. We've included 2x6, 2x8, 2x10 and 2x12 joist spans and more.
+  See our complete chart of floor joist size, span and spacing requirements before you build. We've included 2x6, 2x8, 2x10 and 2x12 joist spans and more.
 ---
 When building a house or even a deck, it is important to confirm you have the correct joist sizes, spans and spacing before you get started.
 
@@ -206,4 +205,4 @@ The most important design choices to consider when building a home are the speci
 
 
 
-Our joist span charts are based on the International Residential Code. While the IRC has been adopted throughout the United States, each county has different building code requirements. Before starting <a href="http://www.doorwaysmagazine.com/how-to-design-your-own-house/">construction on your house</a> consult your local building department.
+Our joist span charts are based on the International Residential Code. While the IRC has been adopted throughout the United States, each county has different building code requirements. Before starting <a href="https://www.doorwaysmagazine.com/how-to-design-your-own-house/">construction on your house</a> consult your local building department.
