@@ -1,28 +1,19 @@
 ---
-author: editor
-comments: false
-date: 2017-02-03 23:31:28+00:00
-excerpt: Do you want to remove oil stains from your concrete or asphalt driveway?
-  Don't waste time with homemade concrete cleaner - do this instead...
-layout: post
-link: http://www.doorwaysmagazine.com/remove-oil-stains-from-concrete-driveway/
-slug: remove-oil-stains-from-concrete-driveway
 title: Remove Oil Stains from Concrete or Asphalt Driveways in 3 Simple Steps
-wordpress_id: 12646
-categories:
-- Cleaning
+date: 2018-12-03 23:31:28+00:00
+description: "Want to remove oil stains from your concrete or asphalt driveway? Don't waste time with homemade concrete cleaner - do this instead."
+slug: remove-oil-stains-from-concrete-driveway
+
 ---
 
 Do you want to remove oil stains from your concrete or asphalt driveway? 
 
 Are you tired of your Homeowners Association (HOA) telling you to clean up those unsightly stains?
 
-[caption id="attachment_12677" align="aligncenter" width="800"]![concrete oil stain](http://www.doorwaysmagazine.com/wp-content/uploads/concrete_oil_stain.jpg) Photo: [cdsessums](https://www.flickr.com/photos/53313745@N00/4649126206/) / CC[/caption]
+![concrete oil stain](https://www.doorwaysmagazine.com/wp-content/uploads/concrete_oil_stain.jpg) 
+Photo: [cdsessums](https://www.flickr.com/photos/53313745@N00/4649126206/) / CC
 
 If you've searched for ways to remove oil stains online, you've probably found a number of crazy ideas such as using:
-
-
-
 
 
   * Dish Soap
@@ -53,23 +44,20 @@ That's because none of those products were specifically designed to remove oil f
 
 What you should do instead is use a product that is designed to naturally break down the oil, without all of the elbow grease or wasted water.
 
-**Related:** [What's the difference between 5w30 and 10w30?](http://www.hcdmag.com/5w30-vs-10w30/)
+**Related:** <a href="http://www.hcdmag.com/5w30-vs-10w30/" target="_blank">What's the difference between 5w30 and 10w30?</a>
 
 
 
 ## Step 1: Use a Natural Waterless Cleaner
 
 
-
-[![eximo concrete cleaner](http://www.doorwaysmagazine.com/wp-content/uploads/eximo_concrete_cleaner-300x300.jpg)](https://www.amazon.com/dp/B00CHTDO5K/?tag=doorways-20)
+<a href="https://www.amazon.com/dp/B00CHTDO5K/?tag=doorways-20" target="_blank" rel="nofollow"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/eximo_concrete_cleaner-300x300.jpg" alt="eximo concrete cleaner"></a>
 
 We prefer to use a natural waterless concrete cleaner because it is easy to use and better for the environment.
 
 
 
-
-
-Our favorite brand of [concrete cleaner](https://www.amazon.com/dp/B00CHTDO5K/?tag=doorways-20) is called EXIMO and can be found on Amazon ([check price](https://www.amazon.com/dp/B00CHTDO5K/?tag=doorways-20)).
+Our favorite brand of concrete cleaner is called EXIMO and can be found on Amazon (<a href="https://www.amazon.com/dp/B00CHTDO5K/?tag=doorways-20" target="_blank" rel="nofollow">check price</a>).
 
 
 
@@ -131,6 +119,6 @@ In fact, laundry detergents are responsible for 50% to 75% of the phosphorus in 
 
 Plus, you will be washing the oil down the storm drain along with the detergent. Just one quart of oil can contaminate 250,000 gallons of drinking water!
 
-Instead of using a DIY home remedy, we recommend using a natural [waterless concrete cleaner](https://www.amazon.com/dp/B00CHTDO5K/?tag=doorways-20) that is more effective and better for the environment. Our favorite brand of cleaner is called EXIMO and can be found on Amazon ([check price](https://www.amazon.com/dp/B00CHTDO5K/?tag=doorways-20)).
+Instead of using a DIY home remedy, we recommend using a natural waterless concrete cleaner that is more effective and better for the environment. Our favorite brand of cleaner is called EXIMO and can be found on Amazon (<a href="https://www.amazon.com/dp/B00CHTDO5K/?tag=doorways-20" target="_blank" rel="nofollow">check price</a>).
 
 What methods have you used to remove oil stains from concrete and asphalt driveways?
