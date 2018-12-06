@@ -3,10 +3,12 @@ title: 5 Causes of Smoke Detector Beeping or Chirping Noises (Hardwired or Batte
 date: 2018-09-13T21:24:48.244Z
 slug: smoke-detector-beeping-chirping
 description: >-
-  Is your smoke detector or fire alarm beeping or chirping every minute? We'll
-  show you how to fix both hard wired and battery powered units.
+  Is your smoke detector or fire alarm beeping or chirping every minute? We'll show you how to fix both hard wired and battery powered units.
+  
 ---
-<img src="http://www.doorwaysmagazine.com/wp-content/uploads/check_smoke_alarm-300x199.jpg" alt="check your smoke alarm" width="300" height="199" class="alignright size-medium wp-image-12640" />Is your smoke detector or fire alarm beeping or chirping every minute? 
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/check_smoke_alarm-300x199.jpg" alt="check your smoke alarm" />
+
+Is your smoke detector or fire alarm beeping or chirping every minute? 
 
 
 
@@ -54,7 +56,7 @@ An alarm will usually chirp every 30 to 60 seconds when there is a problem with 
 
 
 
-<img src="http://www.doorwaysmagazine.com/wp-content/uploads/replace_smoke_alarm_battery.jpg" alt="replace smoke alarm battery" width="800" height="531" class="aligncenter size-full wp-image-12641" />
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/replace_smoke_alarm_battery.jpg" alt="replace smoke alarm battery" />
 
 
 
