@@ -1,19 +1,13 @@
 ---
-author: editor
-comments: false
-date: 2016-12-16 00:57:23+00:00
-excerpt: See why recycled paper countertop brands such as Paperstone, Shetkastone,
-  Richlite and EcoTop are becoming popular alternatives to traditional countertops.
-layout: post
-link: http://www.doorwaysmagazine.com/9-reasons-paper-countertops-are-so-popular/
-slug: 9-reasons-paper-countertops-are-so-popular
 title: 9 Reasons Paperstone Countertops Are So Popular
-wordpress_id: 11754
-categories:
-- Kitchen Design
+date: 2018-11-16 00:57:23+00:00
+description: 'See why recycled paper countertop brands such as Paperstone, Shetkastone, Richlite and EcoTop are becoming popular alternatives to traditional countertops.'
+slug: 9-reasons-paper-countertops-are-so-popular
+
 ---
 
-[caption id="attachment_11758" align="alignright" width="300"]![paperstone kitchen countertops](http://www.doorwaysmagazine.com/wp-content/uploads/paperstone_kitchen_countertops-300x203.jpg) Photo via [Paperstone](http://paperstoneproducts.net/wordpress/k-b-gallery/)[/caption]
+![paperstone kitchen countertops](https://www.doorwaysmagazine.com/wp-content/uploads/paperstone_kitchen_countertops-300x203.jpg) 
+Photo via [Paperstone](http://paperstoneproducts.net/wordpress/k-b-gallery/)
 
 Recycled paper countertops made by brands such as Paperstone, Shetkastone, Richlite and EcoTop are becoming popular alternatives to traditional countertop materials.
 
