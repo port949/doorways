@@ -7,7 +7,7 @@ slug: river-white-granite
 ---
 
 ![river white granite countertops](https://www.doorwaysmagazine.com/wp-content/uploads/river_white_granite_countertops.jpg) 
-Photo via [Hutton Bielmann Design Inc.](http://www.houzz.com/photos/2931402/12-0104-S-Kitchen-contemporary-kitchen-london)[/caption]
+Photo via [Hutton Bielmann Design Inc.](http://www.houzz.com/photos/2931402/12-0104-S-Kitchen-contemporary-kitchen-london)
 
 When searching for a light colored granite, River White will consistently rank amongst the best stones. Not known by other names in the market, River White originates in large quantities from bedrock quarries in India. 
 
