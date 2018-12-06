@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2015-11-25 20:14:54+00:00
-excerpt: Deciding between laminate and hardwood flooring in your home? See what we
-  discovered about the pros and cons of each, plus we share our cost estimates.
-layout: post
-link: http://www.doorwaysmagazine.com/laminate-vs-hardwood-flooring/
+title: 'Laminate vs Hardwood Flooring: Pros and Cons'
+date: 2018-11-25 20:14:54+00:00
+description: Deciding between laminate and hardwood flooring in your home? See what we discovered about the pros and cons of each, plus we share our cost estimates.
 slug: laminate-vs-hardwood-flooring
-title: 'Laminate vs Hardwood Flooring: Which is Best?'
-wordpress_id: 488
-categories:
-- Flooring
+
 ---
 
-![living room with laminate wood flooring](http://www.doorwaysmagazine.com/wp-content/uploads/living_room_laminate_wood_flooring.jpg)
+![living room with laminate wood flooring](https://www.doorwaysmagazine.com/wp-content/uploads/living_room_laminate_wood_flooring.jpg)
 
 The type of flooring in your home or office has a huge impact on its overall attractiveness, and also on its functionality. Choosing flooring that is stunning, durable and easy to maintain is therefore very important. 
 
@@ -53,7 +46,7 @@ Hardwood floors are quick to clean – a sweep and an occasional use of a wood f
 
 This type of flooring is available in many styles, for example, cherry, oak and walnut, and their look can be quite easily changed if necessary. 
 
-On the downside, hardwood floors require a [bigger installation job](http://www.doorwaysmagazine.com/install-hardwood-floors/), and can be prone to scratches. They will therefore need to be refinished from time to time. They can also be quite noisy when walking on them. 
+On the downside, hardwood floors require a [bigger installation job](https://www.doorwaysmagazine.com/install-hardwood-floors/), and can be prone to scratches. They will therefore need to be refinished from time to time. They can also be quite noisy when walking on them. 
 
 
 
@@ -73,4 +66,6 @@ Hardwood floors, however, can be refinished to restore their original glamour.
 
 Keep in mind that laminate wood floors are far easier to install than hardwood floors. It is a big and fairly costly job to add hardwood floors to your home, but once in, they do add considerable value. 
 
-Both types of floors are quite easy to clean, and are considered to be hygienic. Have a great time shopping for new floors, but don’t forget the pros and cons of each floor variety. 
+Both types of floors are quite easy to clean, and are considered to be hygienic. 
+
+Have a great time shopping for new floors, but don’t forget the pros and cons of each floor variety. 
