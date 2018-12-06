@@ -1,16 +1,10 @@
 ---
-author: editor
-comments: false
-date: 2017-01-12 01:51:00+00:00
-excerpt: If you can hear your garbage disposal humming but not working, there are
-  a few things you can do to get it going again. The first thing you can try is...
-layout: post
-link: http://www.doorwaysmagazine.com/garbage-disposal-humming-but-not-working/
+
+title: Garbage Disposal Humming But Not Working? Try This First
+date: 2018-10-12 01:51:00+00:00
+description: If you can hear your garbage disposal humming but not working, there are a few things you can do to get it going again.
 slug: garbage-disposal-humming-but-not-working
-title: Is Your Garbage Disposal Humming But Not Working? Try This First
-wordpress_id: 12132
-categories:
-- Appliances
+
 ---
 
 If you can hear your garbage disposal humming but not working, there are a few things you can do to get it going again. 
@@ -20,9 +14,6 @@ Unfortunately, garbage disposal problems seem to happen at the most inconvenient
 The good news is that these suggestions below could fix your disposal within a few minutes.
 
 However, before you get going please follow these simple rules to stay safe:
-
-
-
 
 
   * Always unplug the garbage disposal before attempting to fix any problems.
@@ -40,7 +31,9 @@ Okay, now that we are clear on the rules, here are a couple quick ways fix the p
 
 
 
-[![insinkerator garbage disposal wrench](http://www.doorwaysmagazine.com/wp-content/uploads/garbage_disposal_wrench-150x150.jpg)](http://amzn.com/B000BQ7WE0?tag=doorways-20)One of the easiest and safest ways to fix a garbage disposal that is humming but not working is to manually turn the disposal drive shaft using a ¼ inch hex or Allen wrench. 
+[![insinkerator garbage disposal wrench](https://www.doorwaysmagazine.com/wp-content/uploads/garbage_disposal_wrench-300x300.jpg)](http://amzn.com/B000BQ7WE0?tag=doorways-20)
+
+One of the easiest and safest ways to fix a garbage disposal that is humming but not working is to manually turn the disposal drive shaft using a ¼ inch hex or Allen wrench. 
 
 Climb under your sink and look at the bottom of your garbage disposal. You should see a small hex nut in the center of the disposal housing. This nut will allow you to manually turn the disposal motor drive shaft. 
 
@@ -70,7 +63,9 @@ You may find that the pipe is blocked and needs to be cleaned.
 
 
 
-[![ezflo garbage disposal wrench](http://www.doorwaysmagazine.com/wp-content/uploads/ezflo_garbage_disposal_wrench-150x150.jpg)](http://amzn.com/B00065DMQI?tag=doorways-20)If there is a large, non-food item stuck in the disposal you may need to remove it from above. 
+[![ezflo garbage disposal wrench](https://www.doorwaysmagazine.com/wp-content/uploads/ezflo_garbage_disposal_wrench-300x300.jpg)](http://amzn.com/B00065DMQI?tag=doorways-20)
+
+If there is a large, non-food item stuck in the disposal you may need to remove it from above. 
 
 Try sticking the handle of a wooden spoon into the disposal to feel if there is an object in the disposal. If so, use tongs or other utensils to safely remove it.
 
