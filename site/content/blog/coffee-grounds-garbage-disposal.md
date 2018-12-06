@@ -1,16 +1,10 @@
 ---
-author: editor
-comments: false
-date: 2017-01-17 02:07:04+00:00
-excerpt: Coffee grounds must be disposed of in the trash or composted. See why you
-  should not put coffee grounds in the garbage disposal or down the sink...
-layout: post
-link: http://www.doorwaysmagazine.com/coffee-grounds-garbage-disposal/
+
+title: Coffee Grounds in the Garbage Disposal - Do or Don't
+date: 2018-11-17 02:07:04+00:00
+description: See why you should never put coffee grounds in the garbage disposal or down the sink.
 slug: coffee-grounds-garbage-disposal
-title: Never Put Coffee Grounds in the Garbage Disposal - Here's Why
-wordpress_id: 12198
-categories:
-- Appliances
+
 ---
 
 Making coffee in the morning can be a fun process if you use a french press, pour over or espresso machine. However, cleaning up the coffee grounds afterwards can be a real pain.
