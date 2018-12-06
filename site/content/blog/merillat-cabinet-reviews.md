@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2017-01-17 23:49:10+00:00
-excerpt: Read our Merillat cabinet review to get the facts about semi-custom kitchen
-  cabinets. You'll discover why we think Merillat cabinets are the...
-layout: post
-link: http://www.doorwaysmagazine.com/merillat-cabinet-reviews/
+title: Merillat Cabinet Reviews: Prices, Quality, and Complaints
+date: 2018-11-17 23:49:10+00:00
+description: Read our Merillat cabinet review to get the facts about semi-custom kitchen cabinets. You'll discover why we think Merillat cabinets are the great for most people.
 slug: merillat-cabinet-reviews
-title: Merillat Cabinet Reviews
-wordpress_id: 12231
-categories:
-- Kitchen Cabinets
+
 ---
 
-![merillat cabinets review](http://www.doorwaysmagazine.com/wp-content/uploads/merillat_cabinets_review-150x150.jpg)
+![merillat cabinets review](https://www.doorwaysmagazine.com/wp-content/uploads/merillat_cabinets_review-150x150.jpg)
 
 Merillat had humble beginnings as a small 2,400 square foot workshop in Adrian, Michigan. Founded in 1946 by Orville and Ruth Merillat, the company has since become the #1 builder preferred brand.
 
