@@ -1,17 +1,13 @@
 ---
-author: editor
-comments: false
-date: 2015-11-22 01:12:02+00:00
-layout: post
-link: http://www.doorwaysmagazine.com/kashmir-white-granite/
+title: 'Kashmir White Granite Countertops Pros and Cons'
+date: 2018-11-22 01:12:02+00:00
 slug: kashmir-white-granite
-title: 'Design Guide: Kashmir White Granite Countertops'
-wordpress_id: 426
-categories:
-- Kitchen Design
+description: Kashmir White Granite, sometimes referred to as Kashmir Cream, is an extremely desirable Granite appreciated by homeowners and builders alike. 
+
 ---
 
-[caption id="attachment_428" align="aligncenter" width="800"]![kashmir white granite countertops](http://www.doorwaysmagazine.com/wp-content/uploads/kashmir_white_granite_countertops.jpg) Photo via [Alexandra Luhrs Interior Design](http://www.aluhrsinteriordesign.com/)[/caption]
+![kashmir white granite countertops](https://www.doorwaysmagazine.com/wp-content/uploads/kashmir_white_granite_countertops.jpg) 
+Photo via [Alexandra Luhrs Interior Design](http://www.aluhrsinteriordesign.com/)
 
 Kashmir White Granite, sometimes referred to as Kashmir Cream, is an extremely desirable Granite appreciated by homeowners and builders alike. 
 
@@ -63,13 +59,10 @@ Considering its moderate price range, it's an excellent choice for users on a bu
 
 It is truly a wonderful starting point for those looking for value, quality, versatility and creating a one of a kind design, whether in the kitchen, bathroom, stairwell, backslashes or even walls.
 
-
-
 ## Need Help Choosing the Perfect Kitchen Countertops?
 
 
-
-![incredible countertops cover square](http://www.doorwaysmagazine.com/wp-content/uploads/incredible_countertops_cover_square-300x300.jpg)Whenever someone joins my email list, I always ask them what projects are on their to-do list. To my surprise, the most common response I get is "new kitchen countertops." 
+Whenever someone joins my email list, I always ask them what projects are on their to-do list. To my surprise, the most common response I get is "new kitchen countertops." 
 
 If new countertops are on your list too, then I have good news. In my new book, The Complete Guide to Incredible Countertops, I answer the most frequently asked questions I've received from my readers. 
 
