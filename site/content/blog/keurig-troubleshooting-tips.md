@@ -3,10 +3,12 @@ title: 7 Simple Keurig Troubleshooting Tips and Common Problems
 date: 2018-09-13T21:12:00.000Z
 slug: keurig-troubleshooting-tips
 description: >-
-  These are the most common Keurig problems we've encountered and how to fix
-  them. Try these simple Keurig troubleshooting tips first.
+  These are the most common Keurig problems we've encountered and how to fix them. Try these simple Keurig troubleshooting tips first.
+  
 ---
-<img src="https://www.doorwaysmagazine.com/wp-content/uploads/keurig_k500_coffee_maker-300x300.jpg" alt="keurig k500 coffee maker" width="300" height="300" class="alignright size-medium wp-image-12912" />After making over a thousand cups of coffee we've encountered the same Keurig coffee maker problems over and over again. 
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/keurig_k500_coffee_maker-300x300.jpg" alt="keurig k500 coffee maker" />
+
+After making over a thousand cups of coffee we've encountered the same Keurig coffee maker problems over and over again. 
 
 Like all long-term relationships, the relationship you have with your Keurig will need some TLC to keep it running strong. That means if you want to keep your coffee maker happy, you should frequently clean and take care of the machine.
 
@@ -14,7 +16,7 @@ Below we outline a few of the most common problems we've encountered with our co
 
 We hope these Keurig troubleshooting tips will get your coffee maker up and running again.
 
-<img src="https://www.doorwaysmagazine.com/wp-content/uploads/keurig_troubleshooting_guide.jpg" alt="keurig troubleshooting guide" width="800" height="1199" class="aligncenter size-full wp-image-12820" />
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/keurig_troubleshooting_guide.jpg" alt="keurig troubleshooting guide" />
 
 <h2>Keurig Not Brewing a Full Cup</h2>
 
