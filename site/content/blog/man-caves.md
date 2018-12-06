@@ -1,17 +1,13 @@
 ---
-author: editor
-comments: false
-date: 2015-07-22 22:02:07+00:00
-layout: post
-link: http://www.doorwaysmagazine.com/man-caves/
+title: 17 Epic Man Cave Design Ideas for Sports Fans, Outdoorsmen and More
+date: 2018-11-22 22:02:07+00:00
+description: "In this gallery you'll find man cave design ideas for sports fans, outdoorsmen, car lovers, and handymen."
 slug: man-caves
-title: 17 Epic Man Cave Design Ideas
-wordpress_id: 7
-categories:
-- Decorating Ideas
+
 ---
 
-![football fan man cave](http://www.doorwaysmagazine.com/wp-content/uploads/football_fan_man_cave.jpg) Photo via [Laura U. Inc.](http://www.houzz.com/photos/4635508/Bellaire-Residence-contemporary-home-theater-houston)
+![football fan man cave](https://www.doorwaysmagazine.com/wp-content/uploads/football_fan_man_cave.jpg) 
+Photo via [Laura U. Inc.](http://www.houzz.com/photos/4635508/Bellaire-Residence-contemporary-home-theater-houston)
 
 Stop me if you've heard (or said) this before, "..Maybe we can hang that neon light in the garage instead of the living room?"
 
@@ -35,23 +31,28 @@ Below each photo we include tips on how to incorporate these ideas into your own
 
 
 
-![sports man cave](http://www.doorwaysmagazine.com/wp-content/uploads/sports_man_cave.jpg) Photo via [Sights and Sounds](http://www.houzz.com/photos/2710543/Sabathia-contemporary-home-theater-san-francisco)
+![sports man cave](https://www.doorwaysmagazine.com/wp-content/uploads/sports_man_cave.jpg) 
+Photo via [Sights and Sounds](http://www.houzz.com/photos/2710543/Sabathia-contemporary-home-theater-san-francisco)
 
 Although it would be awesome to have multiple TV's mounted in the living room, it probably won't fly with your significant other. So, why not install a few big screens in your man cave? This room has 5 TV's so you can watch all the big games at once. The dark furniture and built-ins are a great contrast to the white jerseys and memorabilia mounted on the walls.
 
-![sports theme attic](http://www.doorwaysmagazine.com/wp-content/uploads/sports_attic_man_cave.jpg) Photo via [J Hettinger Interiors](http://www.houzz.com/photos/4543655/CSL-Man-Cave-contemporary-family-room-other-metro)
+![sports theme attic](https://www.doorwaysmagazine.com/wp-content/uploads/sports_attic_man_cave.jpg) 
+Photo via [J Hettinger Interiors](http://www.houzz.com/photos/4543655/CSL-Man-Cave-contemporary-family-room-other-metro)
 
 Some men are forced to watch sports in the basement, but this is a great example of what you can do in an attic. They've enclosed the space above the TV to improve the acoustics and painted the accent wall a dark blue to make the space look larger. This room also features accent lighting above the couch and dark wood wainscoting around the room. 
 
-![sports ranch](http://www.doorwaysmagazine.com/wp-content/uploads/sports_ranch_man_cave.jpg) Photo via [La Casa Builders](http://www.houzz.com/photos/12830056/DC-Ranch-Home-1-mediterranean-family-room-phoenix)
+![sports ranch](https://www.doorwaysmagazine.com/wp-content/uploads/sports_ranch_man_cave.jpg) 
+Photo via [La Casa Builders](http://www.houzz.com/photos/12830056/DC-Ranch-Home-1-mediterranean-family-room-phoenix)
 
 Not only is this a great place to watch sports but also grab a drink with your buddies. In the center of the room is a large bar with 4 bar stools. Behind the bar is shelving to display bottles as well as a flat screen TV. There are two leather arm chairs at one end of the room next to a pool table and a large sectional couch at the other end.
 
-![golf simulator](http://www.doorwaysmagazine.com/wp-content/uploads/golf_simulator_man_cave.jpg) Photo via [Bobbi Bulmer](http://www.houzz.com/photos/3295106/HD-Golf-Simulators-traditional-family-room-boston)
+![golf simulator](https://www.doorwaysmagazine.com/wp-content/uploads/golf_simulator_man_cave.jpg) 
+Photo via [Bobbi Bulmer](http://www.houzz.com/photos/3295106/HD-Golf-Simulators-traditional-family-room-boston)
 
 Don't like golfing in the rain or waiting behind a slow 4-some? Why not stay at home and play a round of golf. This man cave features a golf simulator and a full size pool table. The stacked stone wall and dark wood furniture gives this space a warm and comfortable setting to relax and hang out.
 
-![baseball theme room](http://www.doorwaysmagazine.com/wp-content/uploads/baseball_fan_man_cave.jpg) Photo via [Schilling and Company](http://www.houzz.com/photos/1920443/Suwanee-GA-Home-traditional-home-theater-atlanta)
+![baseball theme room](https://www.doorwaysmagazine.com/wp-content/uploads/baseball_fan_man_cave.jpg) 
+Photo via [Schilling and Company](http://www.houzz.com/photos/1920443/Suwanee-GA-Home-traditional-home-theater-atlanta)
 
 If you love baseball, you'll love this room. Along the walls are baseball jerseys, bats and balls displayed in dark wood cases. Like other rooms in this gallery, this room has dark colored walls which help contrast the items on the wall. 
 
@@ -61,19 +62,23 @@ If you love baseball, you'll love this room. Along the walls are baseball jersey
 
 
 
-![hunting barn](http://www.doorwaysmagazine.com/wp-content/uploads/hunting_barn_man_cave.jpg) Photo via [Murphy and Co Design](http://www.houzz.com/photos/372635/Highcroft-Hunting-Barn-industrial-garage-and-shed-minneapolis)
+![hunting barn](https://www.doorwaysmagazine.com/wp-content/uploads/hunting_barn_man_cave.jpg) 
+Photo via [Murphy and Co Design](http://www.houzz.com/photos/372635/Highcroft-Hunting-Barn-industrial-garage-and-shed-minneapolis)
 
 For some guys a room just isn't big enough for all their stuff. If this is the case, then a garage is also the perfect male sanctuary. Whether you like to hunt, fish or work on cars, there's plenty of room in this hunting barn. 
 
-![gun display room](http://www.doorwaysmagazine.com/wp-content/uploads/gun_display_man_cave.jpg) Photo via [Kokopelli Builders](http://www.houzz.com/photos/1814479/A-Mans-Lair-traditional-basement-atlanta)
+![gun display room](https://www.doorwaysmagazine.com/wp-content/uploads/gun_display_man_cave.jpg) 
+Photo via [Kokopelli Builders](http://www.houzz.com/photos/1814479/A-Mans-Lair-traditional-basement-atlanta)
 
 Wish you could display your guns instead of hiding them in the safe? Why not decorate the walls of your private oasis with your favorite guns? This room has special accent lighting installed to showcase the objects along the wall for closer inspection. Also, the rustic wood shelving is a great contrast to the white tufted furniture.
 
-![hunting closet](http://www.doorwaysmagazine.com/wp-content/uploads/hunting_closet_man_cave.jpg) Photo via [Adrienne Nienkamp](http://www.houzz.com/photos/6278037/Hunting-Closet-in-Garage-Addition-rustic-entry-st-louis)
+![hunting closet](https://www.doorwaysmagazine.com/wp-content/uploads/hunting_closet_man_cave.jpg) 
+Photo via [Adrienne Nienkamp](http://www.houzz.com/photos/6278037/Hunting-Closet-in-Garage-Addition-rustic-entry-st-louis)
 
 If there's not enough space in your home for a man cave, a man closet just might have to do. This hunting closet is a great place to organize and display your favorite gear. The shelves and drawers are perfect for storing items that you use every weekend. Never lose your gear again.
 
-![hunting lodge](http://www.doorwaysmagazine.com/wp-content/uploads/hunting_lodge_man_cave.jpg) Photo via [Vining Design Associates](http://www.houzz.com/photos/3157564/Home-on-the-Ranch-rustic-family-room-houston)
+![hunting lodge](https://www.doorwaysmagazine.com/wp-content/uploads/hunting_lodge_man_cave.jpg) 
+Photo via [Vining Design Associates](http://www.houzz.com/photos/3157564/Home-on-the-Ranch-rustic-family-room-houston)
 
 We had to include this hunting lodge as part of our collection of man caves. Although everyone doesn't have this much extra space in their homes, it is something to work towards. Not only does this room have a bar, pool table and shuffleboard but it also features a moose antler chandelier. 
 
@@ -83,15 +88,18 @@ We had to include this hunting lodge as part of our collection of man caves. Alt
 
 
 
-![contemporary garage](http://www.doorwaysmagazine.com/wp-content/uploads/contemporary_garage_man_cave.jpg) Photo via [Bagnato Architects](http://www.houzz.com/photos/3260539/Borell-Street-Melbourne-Victoria-Australia-contemporary-living-room-other-metro)
+![contemporary garage](https://www.doorwaysmagazine.com/wp-content/uploads/contemporary_garage_man_cave.jpg) 
+Photo via [Bagnato Architects](http://www.houzz.com/photos/3260539/Borell-Street-Melbourne-Victoria-Australia-contemporary-living-room-other-metro)
 
 This modern take on the man cave has an amazing view of the garage through large glass windows. Inside the room is a full bar with floor to ceiling wine storage as well as a pool table.
 
-![classic car man cave](http://www.doorwaysmagazine.com/wp-content/uploads/classic_car_man_cave.jpg) Photo via [Robinette Architects](http://www.houzz.com/photos/3670114/Pima-Canyon-Contemporary-contemporary-garage-and-shed-phoenix)
+![classic car man cave](https://www.doorwaysmagazine.com/wp-content/uploads/classic_car_man_cave.jpg) 
+Photo via [Robinette Architects](http://www.houzz.com/photos/3670114/Pima-Canyon-Contemporary-contemporary-garage-and-shed-phoenix)
 
 Wish you could hang out with your cars all day? Take a few tips from this custom garage and add a table and chairs to relax. Although this was originally an ordinary garage, it now has upgraded flooring, accent lights and automotive memorabilia throughout the room. Just imagine the possibilities.
 
-![car collector man cave](http://www.doorwaysmagazine.com/wp-content/uploads/car_collector_man_cave.jpg) Photo via [Cooper Johnson Smith Architects](http://www.houzz.com/photos/6671198/Wallace-Residence-traditional-garage-and-shed-other-metro)
+![car collector man cave](https://www.doorwaysmagazine.com/wp-content/uploads/car_collector_man_cave.jpg) 
+Photo via [Cooper Johnson Smith Architects](http://www.houzz.com/photos/6671198/Wallace-Residence-traditional-garage-and-shed-other-metro)
 
 
 
@@ -99,9 +107,11 @@ Wish you could hang out with your cars all day? Take a few tips from this custom
 
 
 
-![garage workshop](http://www.doorwaysmagazine.com/wp-content/uploads/workshop_man_cave.jpg) Photo via [Authentic Custom Homes](http://www.houzz.com/photos/1736987/Custom-Workstation-traditional-garage-and-shed)
+![garage workshop](https://www.doorwaysmagazine.com/wp-content/uploads/workshop_man_cave.jpg) 
+Photo via [Authentic Custom Homes](http://www.houzz.com/photos/1736987/Custom-Workstation-traditional-garage-and-shed)
 
-![garage workbench](http://www.doorwaysmagazine.com/wp-content/uploads/garage_workbench_man_cave.jpg) Photo via [Swift Companies](http://www.houzz.com/photos/3357298/Man-Cave-Columbia-MO-modern-garage-and-shed-other-metro)
+![garage workbench](https://www.doorwaysmagazine.com/wp-content/uploads/garage_workbench_man_cave.jpg) 
+Photo via [Swift Companies](http://www.houzz.com/photos/3357298/Man-Cave-Columbia-MO-modern-garage-and-shed-other-metro)
 
 
 
@@ -109,11 +119,14 @@ Wish you could hang out with your cars all day? Take a few tips from this custom
 
 
 
-![collectors man cave](http://www.doorwaysmagazine.com/wp-content/uploads/collectors_man_cave.jpg) Photo via [Benedict August](http://www.houzz.com/photos/1417017/Orange-County-Man-Cave-modern-family-room-orange-county)
+![collectors man cave](https://www.doorwaysmagazine.com/wp-content/uploads/collectors_man_cave.jpg) 
+Photo via [Benedict August](http://www.houzz.com/photos/1417017/Orange-County-Man-Cave-modern-family-room-orange-county)
 
-![rockstar man cave](http://www.doorwaysmagazine.com/wp-content/uploads/rockstar_man_cave.jpg) Photo via [Michael Abrams Interiors](http://www.houzz.com/photos/3202405/Game-Room-contemporary-family-room-chicago)
+![rockstar man cave](https://www.doorwaysmagazine.com/wp-content/uploads/rockstar_man_cave.jpg) 
+Photo via [Michael Abrams Interiors](http://www.houzz.com/photos/3202405/Game-Room-contemporary-family-room-chicago)
 
-![office poker room](http://www.doorwaysmagazine.com/wp-content/uploads/office_poker_room_man_cave.jpg) Photo via [Cord Shiflet](http://www.houzz.com/photos/3256235/Cord-Shiflets-Personal-Home-traditional-home-office-austin)
+![office poker room](https://www.doorwaysmagazine.com/wp-content/uploads/office_poker_room_man_cave.jpg) 
+Photo via [Cord Shiflet](http://www.houzz.com/photos/3256235/Cord-Shiflets-Personal-Home-traditional-home-office-austin)
 
 
 
