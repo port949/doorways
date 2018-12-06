@@ -1,0 +1,13 @@
+# Redirect default Netlify subdomain to primary domain
+
+http://doorwaysmagazine.com/* https://www.doorwaysmagazine.com/:splat 301!
+
+# Article URL Changes
+http://www.doorwaysmagazine.com/how-to-design-your-own-house  https://www.doorwaysmagazine.com/design-your-own-house/ 301
+https://www.doorwaysmagazine.com/uploads/kitchen_paint_colors_with_oak_cabinets_02.jpg  https://www.doorwaysmagazine.com/kitchen-paint-colors-with-oak-cabinets/  301
+
+# Old Site Links
+http://www.doorwaysmagazine.com/e107_plugins/forum/forum_viewforum.php  https://www.doorwaysmagazine.com  301
+http://www.doorwaysmagazine.com/productDetail.php  https://www.doorwaysmagazine.com  301
+http://www.doorwaysmagazine.com/e107_plugins/forum/forum.php  https://www.doorwaysmagazine.com  301
+http://www.doorwaysmagazine.com/news.php  https://www.doorwaysmagazine.com  301
