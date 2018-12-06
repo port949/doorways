@@ -1,23 +1,18 @@
 ---
-author: editor
-comments: false
-date: 2015-12-03 23:17:47+00:00
-excerpt: Read our Echelon cabinet reviews before you remodel your kitchen. See why
-  Armstrong cabinets no longer exist and whether the quality is as good as it was.
-layout: post
-link: http://www.doorwaysmagazine.com/echelon-cabinets/
+
+title: "Echelon Cabinets Reviews: 2019 Buyer's Guide (Formerly Armstrong Cabinets)"
+date: 2018-12-03 23:17:47+00:00
+description: Read our Echelon cabinet reviews before you remodel your kitchen. See why Armstrong cabinets no longer exist and whether the quality is as good as it was.
 slug: echelon-cabinets
-title: 'Echelon Cabinets Reviews: 2017 Buyer''s Guide (Formerly Armstrong Cabinets)'
-wordpress_id: 553
-categories:
-- Kitchen Design
+
 ---
 
-[caption id="attachment_556" align="aligncenter" width="800"]![Echelon Cabinets Visualizer](http://www.doorwaysmagazine.com/wp-content/uploads/echelon-cabinets-visualizer.jpg) Photo via Echelon Cabinetry Visualizer[/caption]
+![Echelon Cabinets Visualizer](https://www.doorwaysmagazine.com/wp-content/uploads/echelon-cabinets-visualizer.jpg) 
+Photo via Echelon Cabinetry Visualizer
 
-In 2012, Armstrong Cabinets was acquired by the American Industrial Partners. The brand reinvented as Echelon Cabinetry and Advanta Cabinets.  
+In 2012, Armstrong Cabinets was acquired by the American Industrial Partners. The brand was reinvented as Echelon Cabinetry and Advanta Cabinets.  
 
-The reinvented company is popular for several reasons including a large product line and their new Echelon Cabinetry Visualizer. This tool allows customers to experiment and design their kitchen virtually to make the best decision regarding their remodel.
+The reinvented company is popular for several reasons, including a large product line and their new Echelon Cabinetry Visualizer. This tool allows customers to experiment and design their kitchen virtually to make the best decision regarding their remodel.
 
 By mixing, matching, and experimenting with this tool, homeowners can make informed choices about what they want. With their innovative space management solutions and progressive cabinetry, it is not surprising Echelon is a popular brand.
 
@@ -58,8 +53,6 @@ Decorative hardware, such as handles come in a wide selection of styles and fini
 **These styles include:**
 
 
-
-
   * Contemporary
 
 
@@ -74,8 +67,6 @@ Decorative hardware, such as handles come in a wide selection of styles and fini
 
 
 **Echelon provides 32 different door styles in six different wood species. These wood species include:**
-
-
 
 
   * Birch
@@ -97,10 +88,7 @@ Decorative hardware, such as handles come in a wide selection of styles and fini
 
 
 
-
-
 ## Common Complaints
-
 
 
 There are few complaints against Echelon Cabinets apart from their higher pricing. This can be attributed to either their high quality or the fact that the company was recently reinvented and launched in 2012.
