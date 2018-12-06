@@ -1,27 +1,21 @@
 ---
-author: editor
-comments: false
-date: 2017-01-02 20:02:36+00:00
-excerpt: Need cash? Want to know how car title loans work? Read this short guide on
-  how to get a loan from your car, truck or SUV before you apply online.
-layout: post
-link: http://www.doorwaysmagazine.com/car-title-loan-requirements/
-slug: car-title-loan-requirements
+
 title: Car Title Loan Requirements and How They Work
-wordpress_id: 13128
-categories:
-- Personal Finance
+date: 2018-11-02 20:02:36+00:00
+description: Want to know how car title loans work? Read this short guide on how to get a loan from your car, truck or SUV before you apply online.
+slug: car-title-loan-requirements
+
 ---
 
-A car title loan is a short-term, high interest loan. Your vehicle title serves as collateral for the loan. So, how do car title loans work and how much cash can you get?
+A car title loan is a short-term, high interest loan. Your vehicle title serves as collateral for the loan. 
+
+So, how do car title loans work and how much cash can you get?
 
 To qualify for a loan you must be listed as the legal owner of the vehicle on the title. The vehicle must also be lien-free. That means your vehicle must not have any outstanding loans and you must own the vehicle outright.
 
 The loan process is very simple and fast. Usually you can get cash within 30 minutes. Sound good? To get the process started, you'll need to visit a title loan office near you with your vehicle, title, government issued ID and proof of income.
 
 **What are the requirements to get a title loan?**
-
-
 
 
   * Must be at least 18 Years Old
