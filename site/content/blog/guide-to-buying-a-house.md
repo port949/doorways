@@ -1,17 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2017-01-11 02:58:03+00:00
-layout: post
-link: http://www.doorwaysmagazine.com/guide-to-buying-a-house/
-slug: guide-to-buying-a-house
 title: 'Buying a House: A Step-By-Step Guide'
-wordpress_id: 99
-categories:
-- Home Buying
+date: 2018-11-14 02:58:03+00:00
+slug: guide-to-buying-a-house
+description: Read our step by step guide on how to buy a house. This includes a growing list home buying tools and resources to help you answer any questions you have along the way.
+
 ---
 
-![Home Buying Guide](http://www.doorwaysmagazine.com/wp-content/uploads/home_buying_guide-300x200.jpg)
+![Home Buying Guide](https://www.doorwaysmagazine.com/wp-content/uploads/home_buying_guide-300x200.jpg)
 
 Tired of throwing your money away on rent every month?
 
@@ -41,10 +36,6 @@ To make this easier for you, we've put together a step by step guide on how to b
 
 
 
-
-
-
-
   * Rent vs Buy: Should you buy or continue to rent?
 
 
@@ -61,7 +52,7 @@ To make this easier for you, we've put together a step by step guide on how to b
 
 
 
-![home buying guide](http://www.doorwaysmagazine.com/wp-content/uploads/home_buying_guide-1.jpg)
+![home buying guide](https://www.doorwaysmagazine.com/wp-content/uploads/home_buying_guide-1.jpg)
 
 
 
@@ -69,7 +60,9 @@ To make this easier for you, we've put together a step by step guide on how to b
 
 
 
-![Where to find homes for sale?](http://www.doorwaysmagazine.com/wp-content/uploads/homes_for_sale-300x199.jpg)If I had a nickel for every time I've heard someone say **"paying rent is like throwing money down the drain"** I would have enough money to buy my entire neighborhood.
+![Where to find homes for sale?](https://www.doorwaysmagazine.com/wp-content/uploads/homes_for_sale-300x199.jpg)
+
+If I had a nickel for every time I've heard someone say **"paying rent is like throwing money down the drain"** I would have enough money to buy my entire neighborhood.
 
 Yes, sometimes it can feel like paying rent is a waste of money. Why spend your money renting when you can put that hard-earned cash towards a buying a house? 
 
@@ -80,8 +73,6 @@ According to an article in the [Wall Street Journal](http://www.wsj.com/news/int
 That being said, buying a home shouldn't be thought of just as an investment - it is also a lifestyle decision. Homeownership can also give you the freedom to remodel, landscape and make your home match your personality - something you have no control over in an apartment. 
 
 **Here are a few articles to help you decide whether it's better to rent or buy:**
-
-
 
 
 
@@ -222,10 +213,10 @@ It is important not to close your credit cards after you pay them off. Keep them
   * [Use Mint? Users Get Their Credit Score for Free - Mint.com](https://www.mint.com/credit-score/)
 
 
-  * [The Credit Score Range Explained - Borrow Blog](http://borrowblog.com/credit-score-range/)
+  * [The Credit Score Range Explained](https://www.doorwaysmagazine.com/credit-score-range/)
 
 
-  * [What is a Good Credit Score? - Borrow Blog](http://borrowblog.com/what-is-a-good-credit-score/)
+  * [What is a Good Credit Score?](https://www.doorwaysmagazine.com/what-is-a-good-credit-score/)
 
 
 
