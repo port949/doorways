@@ -1,19 +1,13 @@
 ---
-author: editor
-comments: false
-date: 2016-01-21 20:11:41+00:00
-excerpt: Is Home Equity Loan Interest Tax Deductible? The simple answer is yes, but
-  it's not that easy. Click here to see what the IRS doesn't want you to know.
-layout: post
-link: http://www.doorwaysmagazine.com/home-equity-loan-tax-deduction/
-slug: home-equity-loan-tax-deduction
+
 title: Is Home Equity Loan Interest Tax Deductible?
-wordpress_id: 4901
-categories:
-- Home Buying
+date: 2018-11-21 20:11:41+00:00
+description: Is Home Equity Loan Interest Tax Deductible? The simple answer is yes, but it's not that easy. Click here to see what the IRS doesn't want you to know.
+slug: home-equity-loan-tax-deduction
+
 ---
 
-![home equity loan tax deduction](http://www.doorwaysmagazine.com/wp-content/uploads/home_equity_loan_tax_deduction.jpg)
+![home equity loan tax deduction](https://www.doorwaysmagazine.com/wp-content/uploads/home_equity_loan_tax_deduction.jpg)
 
 Using home equity to pay for your next home improvement project or cover college expenses is a great way to get the money you need at low interest rates. But, the benefits of a home equity loan extends well beyond a quick buck. 
 
