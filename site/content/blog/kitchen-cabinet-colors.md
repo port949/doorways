@@ -1,19 +1,15 @@
 ---
-author: editor
-comments: false
-date: 2016-01-22 22:35:28+00:00
-excerpt: What are the most popular kitchen cabinet colors? Click here to read our
-  guide on the best colors for your kitchen cabinets - plus bonus painting tips.
-layout: post
-link: http://www.doorwaysmagazine.com/kitchen-cabinet-colors/
-slug: kitchen-cabinet-colors
 title: 5 Popular Kitchen Cabinet Colors That Are Also Timeless
-wordpress_id: 1163
-categories:
-- Kitchen Design
+date: 2018-11-22 22:35:28+00:00
+excerpt: What are the most popular kitchen cabinet colors? Click here to read our guide on the best colors for your kitchen cabinets - plus bonus painting tips.
+slug: kitchen-cabinet-colors
+
 ---
 
-[caption id="attachment_1541" align="aligncenter" width="720"]![mocha kitchen cabinets](http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_cabinet_colors_mocha.jpg) Photo via [Podesta Construction](http://www.houzz.com/pro/mpodesta/podesta-construction)[/caption]So, what timeless kitchen cabinet colors are guaranteed to look great decades later? 
+![mocha kitchen cabinets](https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_cabinet_colors_mocha.jpg) 
+Photo via [Podesta Construction](http://www.houzz.com/pro/mpodesta/podesta-construction)
+
+So, what timeless kitchen cabinet colors are guaranteed to look great decades later? 
 
 How do you avoid colors that will go out of style only a year later? 
 
@@ -33,7 +29,9 @@ You should know that I’m a big supporter of do-it-yourself-ers worldwide. But,
 
 
 
-[caption id="attachment_1536" align="aligncenter" width="720"]![white kitchen cabients](http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_cabinet_colors_white.jpg) Photo via [Photo](http://www.houzz.com/pro/oharainteriors/martha-ohara-interiors)[/caption]
+![white kitchen cabients](https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_cabinet_colors_white.jpg) 
+Photo via [Photo](http://www.houzz.com/pro/oharainteriors/martha-ohara-interiors)
+
 _One of the best kitchen cabinet colors is also the simplest._
 
 White kitchen cabinets are a popular design choice that will last for decades without going out of style or appearing outdated. Today white kitchen cabinets can be found in the most contemporary homes as well as in traditional country cottages. And they both look stunning.
@@ -50,7 +48,8 @@ Traditional kitchens can get the same benefits of white cabinets while softening
 
 
 
-[caption id="attachment_1538" align="aligncenter" width="720"]![light green kitchen cabinets](http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_cabinet_colors_light_green.jpg) Photo via [Montana Reclaimed Lumber](http://www.houzz.com/pro/montanareclaimedlumber/montana-reclaimed-lumber-co)[/caption]
+![light green kitchen cabinets](https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_cabinet_colors_light_green.jpg) 
+Photo via [Montana Reclaimed Lumber](http://www.houzz.com/pro/montanareclaimedlumber/montana-reclaimed-lumber-co)
 
 Although white kitchen cabinets are the most popular choice when painting your cabinets, there’s no reason to shy away from color. Pale green color palettes will freshen up your kitchen and give you a touch of color. 
 
@@ -64,7 +63,9 @@ Green cabinets are a great addition to a traditional kitchen or craftsman style 
 
 
 
-[caption id="attachment_1539" align="aligncenter" width="720"]![black kitchen cabinets](http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_cabinet_colors_black.jpg) Photo via [Atmosphere Interior Design](http://www.houzz.com/pro/atmosphereid/atmosphere-interior-design-inc)[/caption]
+![black kitchen cabinets](https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_cabinet_colors_black.jpg) 
+Photo via [Atmosphere Interior Design](http://www.houzz.com/pro/atmosphereid/atmosphere-interior-design-inc)
+
 When venturing beyond neutral kitchen colors, there are a few bold palettes that will satisfy the adventurer in you while still remaining timeless.
 
 A popular kitchen cabinet color in modern homes is black or mocha kitchen cabinets. Dark and bold colors will anchor the room and give a strong presence. Using contrasting colors and materials on the counters and walls will make an immediate impression on your guests.
@@ -77,7 +78,8 @@ The benefits of black kitchen cabinets is that they allow for creativity when ch
 
 
 
-[caption id="attachment_1540" align="aligncenter" width="720"]![yellow kitchen cabinets](http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_cabinet_colors_yellow.jpg) Photo via [Adeni Design](http://www.houzz.com/pro/adeeni/adeeni-design-group)[/caption]
+![yellow kitchen cabinets](https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_cabinet_colors_yellow.jpg) 
+Photo via [Adeni Design](http://www.houzz.com/pro/adeeni/adeeni-design-group)
 
 The kitchen has become the center of family activity and there’s no reason your kitchen cabinets can’t reflect this energy. A bright cabinet color palette may not be for everyone but it is sure lighten up your kitchen. 
 
@@ -90,15 +92,15 @@ How can you incorporate colors that fill you with energy at the end of the day? 
 ## Gray
 
 
-
-[caption id="attachment_1537" align="aligncenter" width="720"]![gray kitchen cabinets](http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_cabinet_colors_gray.jpg) Photo via [VP Interiors](http://www.houzz.com/pro/vpinteriors/valerie-pasquiou-interiors-design-inc)[/caption]
+![gray kitchen cabinets](https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_cabinet_colors_gray.jpg) 
+Photo via [VP Interiors](http://www.houzz.com/pro/vpinteriors/valerie-pasquiou-interiors-design-inc)
 
 Imagine capturing the essence of a New York penthouse apartment in your suburban kitchen. Using tones of gray and clean lines can give you a high-end look with only a coat of paint. 
 
 Not only can you get a designer kitchen but it may also improve your home value at the fraction of the cost of a traditional remodel. Gray kitchen cabinets work well in modern homes as well as traditional style houses that are looking for a more conservative look. 
 
-[Transforming your kitchen and increasing your home value may be as simple as a quick coat of paint.](http://www.amazon.com/gp/product/B004RX0YMU/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004RX0YMU&linkCode=as2&tag=neighborhoodenvy-20)
+Do-it-yourself homeowners love painting projects because it doesn't take the help of a professional or expensive contractors.
 
-Do-it-yourself homeowners love painting projects because it doesn't take the help of a professional or expensive contractors. Although painting your kitchen cabinets may be a straightforward project, you should take care to choose a color that is popular, yet will remain timeless. When it comes time to sell your home in 1 year or even 20 years down the road, these colors are guaranteed to help your kitchen retain its value.
+Although painting your kitchen cabinets may be a straightforward project, you should take care to choose a color that is popular, yet will remain timeless. When it comes time to sell your home in 1 year or even 20 years down the road, these colors are guaranteed to help your kitchen retain its value.
 
 **Want more kitchen design ideas delivered straight to your inbox? Join our community to receive exclusive content and videos by email.**
