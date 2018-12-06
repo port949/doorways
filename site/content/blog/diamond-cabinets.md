@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2015-11-25 00:45:58+00:00
-excerpt: In this review of Diamond Cabinets you'll learn about the construction and
-  quality. Plus, we reveal some of the top complaints customer have.
-layout: post
-link: http://www.doorwaysmagazine.com/diamond-cabinets/
+title: "Diamond Cabinets Reviews: 2019 Buyer's Guide"
+date: 2018-11-25 00:45:58+00:00
+description: In this review of Diamond Cabinets you'll learn about the construction and quality. Plus, we reveal some of the top complaints customer have.
 slug: diamond-cabinets
-title: 'Diamond Cabinets Reviews: 2017 Buyer''s Guide'
-wordpress_id: 560
-categories:
-- Kitchen Design
+
 ---
 
-[caption id="attachment_565" align="aligncenter" width="800"]![diamond cabinets review](http://www.doorwaysmagazine.com/wp-content/uploads/diamond_cabinets_review.jpg) Photo via Diamond Cabinets Catalog[/caption]
+![diamond cabinets review](http://www.doorwaysmagazine.com/wp-content/uploads/diamond_cabinets_review.jpg) Photo via Diamond Cabinets Catalog
 
 Diamond Cabinets draws customers with its designer-inspired finishes, top-notch durability, and award winning storage and organization solutions. 
 
@@ -24,30 +17,19 @@ These cabinets can be bought through various authorized retailers including Your
 ## Company Background
 
 
-
-
-
 The company first opened its doors in 1970 and has continued to transform kitchens ever since. 
 
 Today the company is a subsidiary of [MasterBrand Cabinets](http://www.masterbrand.com/), the biggest cabinet manufacturer in North America. MasterBrand is based in Jasper, IN, and the Diamond cabinet products are manufactured in the US.
 
 The company holds tight to its FourEver Promise, which promises beauty, function, strength, and performance in every Diamond cabinetry product. 
 
-
-
 ## Construction Quality
-
-
 
 Diamond cabinets are built with a load-bearing back using a 3/8” thick back panel covering both the width and the height of their box.  This construction ensures that the cabinet will last for many years to come. 
 
 This unique construction method sets Diamond cabinets apart from other brands that have an obstructing center divider.
 
 **Wood Options include:**
-
-
-
-
 
   * Alder
 
@@ -66,9 +48,6 @@ This unique construction method sets Diamond cabinets apart from other brands th
 
 
 **The standard cabinet box features the following construction features:**
-
-
-
 
 
   * 1/2” board sides and bottom support
@@ -97,9 +76,7 @@ Standard drawer features include an integrated hydraulic cylinder for a smoother
 Other unique features offered by Diamond Cabinets include roll trays and standard pullouts for pantry and waste basket needs. 
 
 
-
 ## Common Complaints
-
 
 
 After consulting with our readers some said they experienced inconsistencies in the stain. A large majority also voiced that the customer support was very poor. 
