@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2017-06-20 22:50:47+00:00
-excerpt: In this article we break down the most common Craigslist rental scams and
-  how to avoid getting ripped off in the process. See exactly what scammers...
-layout: post
-link: http://www.doorwaysmagazine.com/craigslist-rental-scams/
-slug: craigslist-rental-scams
 title: 3 Craigslist Rental Scams to Watch Out For
-wordpress_id: 14873
-categories:
-- Personal Finance
+date: 2018-11-20 22:50:47+00:00
+description: In this article we break down the most common Craigslist rental scams and how to avoid getting ripped off in the process. See exactly what scammers...
+slug: craigslist-rental-scams
+
 ---
 
-![craigslist rental scams social](http://www.doorwaysmagazine.com/wp-content/uploads/craigslist_rental_scams_social-1024x512.png)
+![craigslist rental scams social](https://www.doorwaysmagazine.com/wp-content/uploads/craigslist_rental_scams_social-1024x512.png)
 
 Having a difficult time finding a great apartment or rental house on Craigslist?
  
@@ -110,7 +103,7 @@ Interested in legitimate ways to make money from home? Bookmark these articles:
  
 The "Out-of-Town Landlord" scam is also quite common, but is a little bit easier to spot.
  
-In fact, one of my friends that owns a [rental property](http://www.doorwaysmagazine.com/real-estate-investing-101/) has had this exact thing happen to her.
+In fact, one of my friends that owns a [rental property](https://www.doorwaysmagazine.com/real-estate-investing-101/) has had this exact thing happen to her.
  
 Here's how it works. Lazy scammers will clone or copy legitimate rental ads but reduce the price and change the contact information.
  
@@ -164,4 +157,4 @@ It can take some amateur detective work to find this information out, but it is 
  
 **If you have any experience with Craigslist rental scams please feel free to share your story in the comments below.**
 
-![craigslist rental scams pinterest](http://www.doorwaysmagazine.com/wp-content/uploads/craigslist_rental_scams_pinterest.png)
+![craigslist rental scams pinterest](https://www.doorwaysmagazine.com/wp-content/uploads/craigslist_rental_scams_pinterest.png)
