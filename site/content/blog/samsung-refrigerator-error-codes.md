@@ -1,23 +1,16 @@
 ---
-author: editor
-comments: false
-date: 2017-01-14 00:51:02+00:00
-excerpt: We've collected the 29 most common Samsung refrigerator error codes you might
-  encounter. See our top trick for fixing the most frequent error codes...
-layout: post
-link: http://www.doorwaysmagazine.com/samsung-refrigerator-error-codes/
-slug: samsung-refrigerator-error-codes
 title: 29 Common Samsung Refrigerator Error Codes
-wordpress_id: 12165
-categories:
-- Appliances
+date: 2018-11-14 00:51:02+00:00
+description: We've collected the 29 most common Samsung refrigerator error codes you might encounter. See our top trick for fixing the most frequent fault codes...
+slug: samsung-refrigerator-error-codes
+
 ---
 
 When your refrigerator randomly starts flashing strange letters and numbers it can be a frustrating experience. 
 
 You might be thinking _"What is my refrigerator trying to tell me and how do I make it stop?"_
 
-The good news is that Samsung refrigerator error codes are designed to help you solve most problems without calling a technician. Unlike other kitchen appliances [that don't have error codes](http://www.doorwaysmagazine.com/garbage-disposal-humming-but-not-working/), Samsung makes it easy to figure out which part has failed.
+The good news is that Samsung refrigerator error codes are designed to help you solve most problems without calling a technician. Unlike other kitchen appliances [that don't have error codes](https://www.doorwaysmagazine.com/garbage-disposal-humming-but-not-working/), Samsung makes it easy to figure out which part has failed.
 
 **Below we've collected the 29 most common error codes you might encounter with a Samsung refrigerator to help you diagnose the problem.**
 
