@@ -1,13 +1,20 @@
 # Redirect default Netlify subdomain to primary domain
-
 http://doorwaysmagazine.com/* https://www.doorwaysmagazine.com/:splat 301!
 
 # Article URL Changes
-http://www.doorwaysmagazine.com/how-to-design-your-own-house  https://www.doorwaysmagazine.com/design-your-own-house/ 301
-https://www.doorwaysmagazine.com/uploads/kitchen_paint_colors_with_oak_cabinets_02.jpg  https://www.doorwaysmagazine.com/kitchen-paint-colors-with-oak-cabinets/  301
+/how-to-design-your-own-house  /design-your-own-house/ 301
+/uploads/kitchen_paint_colors_with_oak_cabinets_02.jpg  /kitchen-paint-colors-with-oak-cabinets/  301
+/kitchen-backsplash-ideas /10-classic-kitchen-backsplash-ideas/ 301
+/inspection-checklist  /home-inspection-checklist/ 301
+/reviews/hampton-bay-cabinets  /hampton-bay-cabinets-reviews/  301
+/reviews/merillat-cabinets /merillat-cabinets-reviews/ 301
+/sputnik-chandeliers /13-iconic-sputnik-chandeliers/ 301
+/bedroom-paint-color-ideas /popular-bedroom-paint-color-ideas/ 301
+/kitchen-islands-with-seating /design-ideas-kitchen-islands-with-seating/ 301
+/exterior-paint-colors  /exterior-paint-color-ideas/  301
 
 # Old Site Links
-http://www.doorwaysmagazine.com/e107_plugins/forum/forum_viewforum.php  https://www.doorwaysmagazine.com  301
-http://www.doorwaysmagazine.com/productDetail.php  https://www.doorwaysmagazine.com  301
-http://www.doorwaysmagazine.com/e107_plugins/forum/forum.php  https://www.doorwaysmagazine.com  301
-http://www.doorwaysmagazine.com/news.php  https://www.doorwaysmagazine.com  301
+/e107_plugins/forum/forum_viewforum.php  /  301
+/productDetail.php  /  301
+/e107_plugins/forum/forum.php  /  301
+/news.php  /  301
