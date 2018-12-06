@@ -163,18 +163,8 @@ As you can see there is a wide variety of mortgages available. All you need is a
 Today, lenders have much higher restrictions on mortgages, so not all options may be available to you depending on your credit rating and available down payment.
 
 
+## Conclusion
 
-## Try Our Free Mortgage Calculator!
-
-
-
-Want to take this to the next level? Check out my free mortgage calculator to find out how much mortgage you can afford.
-
-Using the calculator you can adjust your home purchase price, down payment amount, interest rate, and loan term. 
-
-**Don’t forget to calculate your front-end and back-end ratios before you get started!**
-
-If you know your debt-to-income ratios before you step in the bank there will be no sudden surprises after they run the numbers.
 
 While I tried to help you answer the question: “how much mortgage can I afford?” - we really just scratched the surface. Check back for more home buying tips and daily mortgage interest rate updates.
 
