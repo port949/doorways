@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2016-02-02 08:31:05+00:00
-excerpt: Can you cash a personal check at Walmart? That's what I wanted to know before
-  I cashed my check. See what I found out about Walmart Check Cashing.
-layout: post
-link: http://www.doorwaysmagazine.com/does-walmart-cash-personal-checks/
-slug: does-walmart-cash-personal-checks
 title: Does Walmart Cash Personal Checks?
-wordpress_id: 5228
-categories:
-- Personal Finance
+date: 2018-12-02 08:31:05+00:00
+description: Can you cash a personal check at Walmart? That's what I wanted to know before I cashed my check. See what I found out about Walmart Check Cashing.
+slug: does-walmart-cash-personal-checks
+
 ---
 
-![walmart check cashing](http://www.doorwaysmagazine.com/wp-content/uploads/walmart_check_cashing.jpg)
+![walmart check cashing](https://www.doorwaysmagazine.com/wp-content/uploads/walmart_check_cashing.jpg)
 
 **Need to cash a personal check?** You’re not alone. On my commute I pass countless check cashing stores that will cash payroll, tax refund and even personal checks.
 
