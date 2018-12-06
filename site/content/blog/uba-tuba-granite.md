@@ -1,19 +1,14 @@
 ---
-author: editor
-comments: false
-date: 2015-11-14 22:31:12+00:00
-excerpt: Read the Uba Tuba Grantie countertop guide before you go anywhere else. See
+title: 'Uba Tuba Granite Countertops: Cost, Colors, and Care Guide'
+date: 2018-11-14 22:31:12+00:00
+description: Read our Uba Tuba Grantie countertop guide before you go anywhere else. See
   granite prices and color combinations for your kitchen remodel.
-layout: post
-link: http://www.doorwaysmagazine.com/uba-tuba-granite/
 slug: uba-tuba-granite
-title: 'Uba Tuba Granite Countertops: 2017 Cost Guide'
-wordpress_id: 506
-categories:
-- Kitchen Design
+
 ---
 
-[caption id="attachment_508" align="aligncenter" width="843"]![kitchen with uba tuba granite countertops](http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_uba_tuba_granite_countertops.jpg) Photo via [Eurotech Cabinetry Inc.](http://www.houzz.com/photos/2075795/Beaded-Inset-Traditional-Kitchen-traditional-kitchen-other-metro)[/caption]
+![kitchen with uba tuba granite countertops](https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_uba_tuba_granite_countertops.jpg) 
+Photo via [Eurotech Cabinetry Inc.](http://www.houzz.com/photos/2075795/Beaded-Inset-Traditional-Kitchen-traditional-kitchen-other-metro)
 
 You might be asking yourself, what is Uba Tuba? As unique as the name sounds, it is one of the most frequently used granites for kitchen countertops due to its luxurious look and affordable price. 
 
@@ -27,7 +22,7 @@ Uba Tuba's glimmering appearance, long-lasting durability, and design options co
 
 
 
-## Design Ideas
+## Color and Design Ideas
 
 
 
@@ -41,7 +36,7 @@ Also, Uba Tuba is highly versatile and can be complemented with almost any color
 
 
 
-## Maintenance
+## Care and Maintenance
 
 
 
@@ -60,6 +55,8 @@ Walking into a kitchen with Uba Tuba countertops, many would expect the exotic a
 Typically, this natural stone is available in three ways. The highest quality, custom installed, Uba Tuba slab granite ranges from an average of $40 to $80 per square foot depending on edge choice and cut-out. For those seeking prefabricated Uba Tuba slabs prices range from $15 to $25 per square foot with a $200 to $400 installation fee. 
 
 The least expensive option and a popular choice for DIY'ers, Uba Tuba tiles are available for as little as $6 to $10 per square foot. Keep in mind, swatch samples may not best represent the slab of granite, before purchasing it is important that the buyer is satisfied with the entire piece of Uba Tuba. 
+
+## Conclusion
 
 From its glass-like luxurious appearance to its value and durability, it is with good reason that Uba Tuba Granite ranks high on both builders and homeowners lists. Whether you are looking to compliment a light, airy space or create a dark, marble-like ambiance, the versatile characteristics of Uba Tuba make this stone easy to design around. 
 
