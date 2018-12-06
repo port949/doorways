@@ -13,6 +13,9 @@ http://doorwaysmagazine.com/* https://www.doorwaysmagazine.com/:splat 301!
 /kitchen-islands-with-seating /design-ideas-kitchen-islands-with-seating/ 301
 /exterior-paint-colors  /exterior-paint-color-ideas/  301
 
+# Affiliate Link Catchall
+/product/*  https://www.amazon.com/dp/:splat?tag=doorways-20  301
+
 # Old Site Links
 /e107_plugins/forum/forum_viewforum.php  /  301
 /productDetail.php  /  301
