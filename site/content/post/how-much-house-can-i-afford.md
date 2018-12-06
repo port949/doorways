@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2016-02-02 18:55:06+00:00
-excerpt: How much mortgage can you afford? It might be less than you think. See what
-  most home buyers don't know about getting a home mortgage.
-layout: post
-link: http://www.doorwaysmagazine.com/how-much-house-can-i-afford/
-slug: how-much-house-can-i-afford
 title: How Much House Can I Afford?
-wordpress_id: 1766
-categories:
-- Home Buying
+date: 2018-12-02 18:55:06+00:00
+description: How much house can you afford? It might be less than you think. See what most home buyers don't know about getting a home mortgage.
+slug: how-much-house-can-i-afford
+
 ---
 
-![make home affordable](http://www.doorwaysmagazine.com/wp-content/uploads/make_home_affordable.jpg)
+![make home affordable](https://www.doorwaysmagazine.com/wp-content/uploads/make_home_affordable.jpg)
 
 First-time home buyers always want to know “How much house can I afford?” - but the real question they should be asking themselves is **“How much mortgage can I afford?”**
 
@@ -35,7 +28,9 @@ Banks typically use two **Debt-to-income ratios** (DTI) to determine how much th
 
 
 
-![young family first home](http://www.doorwaysmagazine.com/wp-content/uploads/young_family_first_home-300x219.jpg)When you apply for a loan the bank will require **proof of income**. This is a key ingredient in their formula. 
+![young family first home](https://www.doorwaysmagazine.com/wp-content/uploads/young_family_first_home-300x219.jpg)
+
+When you apply for a loan the bank will require **proof of income**. This is a key ingredient in their formula. 
 
 **Most lenders agree that your monthly housing expenses should not exceed 28 percent of your gross monthly income.** 
 
@@ -71,7 +66,9 @@ These extra payments usually add up to around 15 percent of your monthly housing
 
 
 
-![woman shopping credit card](http://www.doorwaysmagazine.com/wp-content/uploads/woman_shopping_credit_card-300x200.jpg)Another area that your lender will carefully look at is your _total monthly debt service_. This includes your monthly housing expenses plus all other outstanding monthly debt payments. 
+![woman shopping credit card](https://www.doorwaysmagazine.com/wp-content/uploads/woman_shopping_credit_card-300x200.jpg)
+
+Another area that your lender will carefully look at is your _total monthly debt service_. This includes your monthly housing expenses plus all other outstanding monthly debt payments. 
 
 These include credit card minimum payments, car loans, installment loans, as well as child support and alimony.
 
