@@ -1,27 +1,17 @@
 ---
-author: editor
-comments: false
-date: 2016-02-01 20:28:35+00:00
-layout: post
-link: http://www.doorwaysmagazine.com/good-credit-score-range/
+title: What is a Good Credit Score? VantageScore vs FICO Range
+date: 2018-12-01 20:28:35+00:00
 slug: good-credit-score-range
-title: What is a Good Credit Score? VantageScore vs FICO
-wordpress_id: 4905
-categories:
-- Personal Finance
+description: What is a good credit score and why does it matter? Well, if you want to buy the house of your dreams, get an auto loan or finally buy that engagement ring you’ve been saving up for, I’d suggest you listen up.
+
 ---
 
-![what is a good credit score](http://www.doorwaysmagazine.com/wp-content/uploads/what_is_a_good_credit_score-300x200.jpg)
+![what is a good credit score](https://www.doorwaysmagazine.com/wp-content/uploads/what_is_a_good_credit_score-300x200.jpg)
 
 What is a good credit score and why does it matter? Well, if you want to buy the house of your dreams, get an auto loan or finally buy that engagement ring you’ve been saving up for, I’d suggest you listen up.
 
 
-
-
-
 The difference between a great credit score and a bad one could save you thousands over the life of a loan. But that’s not all. A lackluster credit score could even keep you from getting your dream job!
-
-
 
 
 
@@ -29,12 +19,7 @@ Before I reveal what is a good credit score and how to get there, I need to conf
 
 
 
-
-
 If there’s a game being played, I want to win. If there’s a high score to beat, I won’t stop until I get there. 
-
-
-
 
 
 So, in my early days as an ambitious young adult, I wanted an excellent credit score and I wanted it fast. Anything under 800 wouldn’t cut it. But, there were many obstacles standing in my way. Many of which you will have to conquer as well, including tempting credit card limits, a short credit history and limited types of credit available to me. 
@@ -53,7 +38,7 @@ Countless people before you have asked the same question in search of a clear an
 
 Below are some guidelines as to what is a good credit score and what is not. If you find yourself with a bad credit score, have no fear. I carefully outline simple ways to improve your credit score over time and manage your credit effectively.
 
-![good credit score guide](http://www.doorwaysmagazine.com/wp-content/uploads/good_credit_score_guide.jpg)
+![good credit score guide](https://www.doorwaysmagazine.com/wp-content/uploads/good_credit_score_guide.jpg)
 
 
 
