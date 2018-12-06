@@ -1,14 +1,13 @@
 ---
-title: 7 Reasons Pachira Aquatica is the Perfect Indoor Plant
-date: 2016-12-20T00:45:06.000Z
+title: "7 Benefits of Owning a Pachira Aquatica (Money Tree) Plant"
+date: 2018-11-20T00:45:06.000Z
 slug: 7-reasons-pachira-aquatica-is-the-perfect-indoor-plant
 description: >-
-  Hoping for some good financial fortune this year? Maybe the Pachira Aquatica
-  or _Money Tree Plant_, as many like to call it, would be the perfect addition
-  to your home.
+  Hoping for some good financial fortune this year? Maybe the Pachira Aquatica or Money Tree Plant, as many like to call it, would be the perfect addition to your home.
+  
 ---
 
-![pachira aquatic money tree](http://www.doorwaysmagazine.com/wp-content/uploads/pachira_aquatic_money_tree-300x300.jpg)
+![pachira aquatic money tree](https://www.doorwaysmagazine.com/wp-content/uploads/pachira_aquatic_money_tree-300x300.jpg)
 
 Hoping for some good financial fortune this year? Maybe the _Pachira Aquatica_ or _Money Tree Plant_, as many like to call it, would be the perfect addition to your home.
 
