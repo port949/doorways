@@ -6,7 +6,6 @@ slug: merillat-cabinet-reviews
 
 ---
 
-![merillat cabinets review](https://www.doorwaysmagazine.com/wp-content/uploads/merillat_cabinets_review-150x150.jpg)
 
 Merillat had humble beginnings as a small 2,400 square foot workshop in Adrian, Michigan. Founded in 1946 by Orville and Ruth Merillat, the company has since become the #1 builder preferred brand.
 
