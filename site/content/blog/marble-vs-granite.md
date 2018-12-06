@@ -1,19 +1,13 @@
 ---
-author: editor
-comments: false
-date: 2015-11-04 19:54:37+00:00
-excerpt: Granite or marble countertops - which is best? See what we discovered about
-  these kitchen countertop materials. Plus, we reveal the top pros and cons.
-layout: post
-link: http://www.doorwaysmagazine.com/marble-vs-granite/
+title: Marble vs Granite Countertops Pros and Cons: Cost, Colors, and Care
+date: 2018-11-04 19:54:37+00:00
+description: Granite or marble countertops - which is best? See what we discovered about these kitchen countertop materials. Plus, we reveal the top pros and cons.
 slug: marble-vs-granite
-title: The Pros and Cons of Marble vs Granite Countertops
-wordpress_id: 141
-categories:
-- Kitchen Design
+
 ---
 
-[caption id="attachment_144" align="aligncenter" width="800"]![marble countertops dark cabinets](http://www.doorwaysmagazine.com/wp-content/uploads/marble_countertops_dark_cabinets.jpg) Photo via [Insidesign](http://www.houzz.com/photos/1639482/Insidesign-Project-6-traditional-kitchen-atlanta)[/caption]
+![marble countertops dark cabinets](https://www.doorwaysmagazine.com/wp-content/uploads/marble_countertops_dark_cabinets.jpg) 
+Photo via [Insidesign](http://www.houzz.com/photos/1639482/Insidesign-Project-6-traditional-kitchen-atlanta)
 
 Marble and granite are quite similar kitchen or bathroom countertop materials, because they are both natural stones. However, their strengths and weaknesses differ quite considerably. 
 
@@ -29,7 +23,8 @@ Now we will compare the two types of stone in terms of their countertop advantag
 
 
 
-[caption id="attachment_143" align="aligncenter" width="800"]![marble countertops white cabinets](http://www.doorwaysmagazine.com/wp-content/uploads/marble_countertops_white_cabinets.jpg) Photo via [Dijeau Poage Construction](http://www.houzz.com/photos/46005/San-Francisco-Kitchen-and-Bath-traditional-kitchen-san-francisco)[/caption]
+![marble countertops white cabinets](https://www.doorwaysmagazine.com/wp-content/uploads/marble_countertops_white_cabinets.jpg) 
+Photo via [Dijeau Poage Construction](http://www.houzz.com/photos/46005/San-Francisco-Kitchen-and-Bath-traditional-kitchen-san-francisco)
 
 Marble is often referred to as historic favorite in kitchens that adds unmatchable charm and character to any kind of design. It is a tough material that is not prone to dents or chips, and is also heat resistant; a useful characteristic in any kitchen. 
 
@@ -43,7 +38,8 @@ On the down side, marble is porous and therefore needs to be sealed, and also sc
 
 
 
-[caption id="attachment_142" align="aligncenter" width="800"]![granite countertops white cabinets](http://www.doorwaysmagazine.com/wp-content/uploads/granite_countertops_white_cabinets.jpg) Photo via [Great Spaces](http://www.houzz.com/photos/2238377/The-Great-Spaces-Kitchen-traditional-kitchen-atlanta)[/caption]
+![granite countertops white cabinets](https://www.doorwaysmagazine.com/wp-content/uploads/granite_countertops_white_cabinets.jpg) 
+Photo via [Great Spaces](http://www.houzz.com/photos/2238377/The-Great-Spaces-Kitchen-traditional-kitchen-atlanta)
 
 Granite is often the countertop material of choice for those who want a high-end look for their homes. It is just as beautiful as marble and often makes an attractive and unique centerpiece. 
 
@@ -62,6 +58,8 @@ Although it cannot offer the wide range of colors that synthetic materials can, 
 Marble prices can vary between $125 and $250 per square foot, and may depend greatly upon the demand and availability of the material. Some shades and patterns may be more readily available, and therefore less expensive, or for a small job, you can find leftovers from other installations that are less pricey. Factors that determine price also include the thickness of the slab and the installation complexity. 
 
 Granite is similar in price, ranging between $100 and $250 per square foot. There are various grades available, including designer, premium, builders and closeout/clearance grades. The type you choose will definitely affect the price you pay. 
+
+## Conclusion
 
 It can be difficult to choose between marble and granite because they are so similar in their characteristics. The main thing to consider is the degree of maintenance required. Marble definitely needs quick cleaning to prevent stains and surfaces should be protected from scratches, whereas granite is more stain-resistant and less susceptible to scratching. 
 
