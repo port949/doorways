@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2015-12-14 21:28:01+00:00
-excerpt: See why granite countertops are top choice of homeowners nationwide. Before
-  you order new kitchen countertops, read our granite cost and maintenance tips guide.
-layout: post
-link: http://www.doorwaysmagazine.com/complete-granite-countertops-guide/
+title: "The Comple Granite Countertops Buyer's Guide (2019)"
+date: 2018-12-04 21:28:01+00:00
+description: See why granite countertops are top choice of homeowners nationwide. Before you order new kitchen countertops, read our granite cost and maintenance tips guide.
 slug: complete-granite-countertops-guide
-title: The Comple Granite Countertops Buyer's Guide
-wordpress_id: 1008
-categories:
-- Kitchen Design
+
 ---
 
-![traditional kitchen with granite countertops](http://www.doorwaysmagazine.com/wp-content/uploads/traditional_kitchen_granite_countertops.jpg)
+![traditional kitchen with granite countertops](https://www.doorwaysmagazine.com/wp-content/uploads/traditional_kitchen_granite_countertops.jpg)
 
 Granite countertops frequently hit the top of buyer's wish lists for good reason. This is because it will give you that natural stone look and compliment a wide range of cabinet colors. 
 
@@ -21,7 +14,7 @@ If you don't want your countertops to look just like your neighbors, there's goo
 
 That means that after you pick out a color, you'll need to visit a granite distributor to choose an exact slab. This is an important step since the granite composition could dramatically change the look of your kitchen.
 
-(**Editor’s Note:** _Need help finding your dream countertops? Download a copy of The Complete Guide to Incredible Countertops!_ Click here to claim your copy)
+(**Editor’s Note:** _Need help finding your dream countertops? Check out our new guide called The Complete Guide to Incredible Countertops!_ )
 
 
 
@@ -47,7 +40,8 @@ Looking for a straightforward estimate on how much granite costs? Well, many hom
 
 When putting together your budget you should expect to pay $75 per square foot or above to have granite countertops installed in your kitchen. Don't forget to include additional costs for edging, sink cutouts and sealing.
 
-[caption id="attachment_1012" align="aligncenter" width="800"]![granite quarry saw blade](http://www.doorwaysmagazine.com/wp-content/uploads/granite_quarry_saw_blade.jpg) Granite Quarry, Switzerland[/caption]
+![granite quarry saw blade](https://www.doorwaysmagazine.com/wp-content/uploads/granite_quarry_saw_blade.jpg) 
+Granite Quarry in Switzerland
 
 
 
@@ -55,10 +49,10 @@ When putting together your budget you should expect to pay $75 per square foot o
 
 
 
-Granite is available in thousands of named colors. A few popular colors include: [Black Galaxy](http://www.doorwaysmagazine.com/black-galaxy-granite/), [Kashmire White](http://www.doorwaysmagazine.com/kashmir-white-granite/), [River White](http://www.doorwaysmagazine.com/river-white-granite/), [Uba Tuba](http://www.doorwaysmagazine.com/uba-tuba-granite/) and [Venetian Gold](http://www.doorwaysmagazine.com/venetian-gold-granite/). 
+Granite is available in thousands of named colors. A few popular colors include: [Black Galaxy](https://www.doorwaysmagazine.com/black-galaxy-granite/), [Kashmire White](https://www.doorwaysmagazine.com/kashmir-white-granite/), [River White](https://www.doorwaysmagazine.com/river-white-granite/), [Uba Tuba](https://www.doorwaysmagazine.com/uba-tuba-granite/) and [Venetian Gold](https://www.doorwaysmagazine.com/venetian-gold-granite/). 
 
 To make your shopping experience easier, you should first consider what basic color would compliment your cabinets. Then, you can start to look at granite color variations and patterns that best match your kitchen.
 
 Other factors to consider include the availability and price of your favorite colors. If you start your search for granite online, don't be surprised if not all colors are available in your area.
 
-**P.S.** _Need help finding your dream countertops? Download a copy of The Complete Guide to Incredible Countertops!_ Click here to claim your copy
+**P.S.** _Need help finding your dream countertops? Download a copy of The Complete Guide to Incredible Countertops!_ 
