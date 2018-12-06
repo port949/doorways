@@ -1,23 +1,17 @@
 ---
-author: editor
-comments: false
-date: 2017-06-27 07:22:22+00:00
-excerpt: Try these surprising Mr. Clean Magic Eraser uses throughout your home. You
-  might be shocked about how many different things you can clean without chemicals.
-layout: post
-link: http://www.doorwaysmagazine.com/magic-eraser-uses/
-slug: magic-eraser-uses
+
 title: 27 Surprising Magic Eraser Uses That Actually Work!
-wordpress_id: 468
-categories:
-- Cleaning
+date: 2018-11-27 07:22:22+00:00
+description: Try these surprising Mr. Clean Magic Eraser uses throughout your home. You might be shocked about how many different things you can clean without chemicals.
+slug: magic-eraser-uses
+
 ---
 
 ![magic eraser uses](https://www.doorwaysmagazine.com/wp-content/uploads/magic_eraser_uses.jpg)
 
 Constant home maintenance and cleaning is probably one of the worst parts of homeownership. That's why I've been collecting new cleaning shortcuts to help you get your chores done faster and your home looking better than ever. 
 
-So far we've covered tips like how to clean grout easily, but today we're going to talk about the [Mr. Clean Magic Eraser](https://www.amazon.com/dp/B001339ZMW/?tag=doorways-20) - **your new secret cleaning weapon**.
+So far we've covered tips like how to clean grout easily, but today we're going to talk about the <a href="https://www.amazon.com/dp/B001339ZMW/?tag=doorways-20" target="_blank" rel="nofollow">Mr. Clean Magic Eraser</a> - **your new secret cleaning weapon**.
 
 It turns out these inexpensive foam pads can practically clean your entire house (and car) without any special chemical cleaners. Talk about green cleaning!
 
@@ -33,7 +27,7 @@ What makes it different from other cleaners is that the foam is very hard and ac
 
 
 
-It's no secret that some of the most stubborn stains are found in the kitchen. Grease, grime, coffee stains and spills are everywhere. If you're ready to get your kitchen back to the way it was when it was brand new, [then a Magic Eraser just might do the trick.](https://www.amazon.com/dp/B001339ZMW/?tag=doorways-20)
+It's no secret that some of the most stubborn stains are found in the kitchen. Grease, grime, coffee stains and spills are everywhere. If you're ready to get your kitchen back to the way it was when it was brand new, <a href="https://www.amazon.com/dp/B001339ZMW/?tag=doorways-20" target="_blank" rel="nofollow">then a Magic Eraser just might do the trick.</a>
 
 You can use a Mr. Clean Magic Eraser to clean all of your appliances including the fridge, microwave, oven and stove top. It is especially good at cleaning glass stove tops that have burnt on food stains. 
 
@@ -191,5 +185,5 @@ In wet climates (especially here in Seattle), Algae seems to stick to everything
 
 As you can see, there are countless ways to use a Magic Eraser to keep your home looking great. However, I didn't even mention how it can be used to clean shoes, cars or even leather.
 
-Ready to try these out for yourself? [Here's the best deal I could find online](https://www.amazon.com/dp/B001339ZMW/?tag=doorways-20)
+Ready to try these out for yourself? <a href="https://www.amazon.com/dp/B001339ZMW/?tag=doorways-20" target="_blank" rel="nofollow">Here's the best deal I could find online</a>
 
