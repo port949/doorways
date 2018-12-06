@@ -6,7 +6,7 @@ slug: best-handheld-shower-head
 
 ---
 
-![love your shower](http://www.doorwaysmagazine.com/wp-content/uploads/love_your_shower-300x200.jpg)
+![love your shower](https://www.doorwaysmagazine.com/wp-content/uploads/love_your_shower-300x200.jpg)
 
 Other than maybe a cup of java, there is hardly anything more refreshing in the morning than a crisp shower. 
 
@@ -23,16 +23,16 @@ This style of showerhead is also ideal for using to bathe children or even pets.
 <table style="width:100%" >
 <tr >
 
-<td >![delta in2ition handheld shower head](http://www.doorwaysmagazine.com/wp-content/uploads/delta_in2ition_handheld_shower_head-150x150.jpg)
+<td >![delta in2ition handheld shower head](https://www.doorwaysmagazine.com/wp-content/uploads/delta_in2ition_handheld_shower_head-150x150.jpg)
 </td>
 
-<td >![niagara 2gpm handheld shower head](http://www.doorwaysmagazine.com/wp-content/uploads/niagara_2gpm_handheld_shower_head-1-150x150.jpg)
+<td >![niagara 2gpm handheld shower head](https://www.doorwaysmagazine.com/wp-content/uploads/niagara_2gpm_handheld_shower_head-1-150x150.jpg)
 </td>
 
-<td >![zenfresh filtration shower head](http://www.doorwaysmagazine.com/wp-content/uploads/zenfresh_filtration_shower_head-150x150.jpg)
+<td >![zenfresh filtration shower head](https://www.doorwaysmagazine.com/wp-content/uploads/zenfresh_filtration_shower_head-150x150.jpg)
 </td>
 
-<td >![ana bath dual shower head](http://www.doorwaysmagazine.com/wp-content/uploads/ana_bath_dual_shower_head-150x150.jpg)
+<td >![ana bath dual shower head](https://www.doorwaysmagazine.com/wp-content/uploads/ana_bath_dual_shower_head-150x150.jpg)
 </td>
 </tr>
 <tr >
@@ -72,16 +72,16 @@ If you have a shower with no tub, a 60-inch hose length or smaller is probably a
 <table >
 <tr >
 
-<td >![delta 59inch shower hose](http://www.doorwaysmagazine.com/wp-content/uploads/delta_59inch_shower_hose-150x150.jpg)
+<td >![delta 59inch shower hose](https://www.doorwaysmagazine.com/wp-content/uploads/delta_59inch_shower_hose-150x150.jpg)
 </td>
 
-<td >![inox 78inch shower hose](http://www.doorwaysmagazine.com/wp-content/uploads/inox_78inch_shower_hose-150x150.jpg)
+<td >![inox 78inch shower hose](https://www.doorwaysmagazine.com/wp-content/uploads/inox_78inch_shower_hose-150x150.jpg)
 </td>
 
-<td >![inox 100inch shower hose](http://www.doorwaysmagazine.com/wp-content/uploads/inox_100inch_shower_hose-150x150.jpg)
+<td >![inox 100inch shower hose](https://www.doorwaysmagazine.com/wp-content/uploads/inox_100inch_shower_hose-150x150.jpg)
 </td>
 
-<td >![kes extra long replacement shower hose](http://www.doorwaysmagazine.com/wp-content/uploads/kes_extra_long_replacement_shower_hose-150x150.jpg)
+<td >![kes extra long replacement shower hose](https://www.doorwaysmagazine.com/wp-content/uploads/kes_extra_long_replacement_shower_hose-150x150.jpg)
 </td>
 </tr>
 <tr >
@@ -100,7 +100,7 @@ If you have a shower with no tub, a 60-inch hose length or smaller is probably a
 </tr>
 </table>
 
-The showerhead itself comes in a variety of attractive finishes and typically includes multiple spray settings so you can get that perfect [spa-like experience](http://spas.about.com/od/choosingaspa/a/goodspa.htm).
+The showerhead itself comes in a variety of attractive finishes and typically includes multiple spray settings so you can get that perfect spa-like experience.
 
 Handheld showerheads come in many different styles and finishes. There are models with single or dual heads, ones that have special anti-clog or self-cleaning features, and even models that have LED lights that change the appearance of the water color according to the temperature setting. 
 
@@ -120,7 +120,7 @@ If you are unsure of what types of handheld showerheads are available, here are 
 
 
 
-![niagara 2gpm handheld shower head](http://www.doorwaysmagazine.com/wp-content/uploads/niagara_2gpm_handheld_shower_head-1-150x150.jpg)This attractive chrome showerhead is at the top of the best seller list. It offers a 2-gallon per minute water dispersal rate which gives you the ability to save up to 20 percent in water usage over standard handheld showerhead models. It also includes a massage setting that is great for bringing relief to sore muscles.
+![niagara 2gpm handheld shower head](https://www.doorwaysmagazine.com/wp-content/uploads/niagara_2gpm_handheld_shower_head-1-300x300.jpg)This attractive chrome showerhead is at the top of the best seller list. It offers a 2-gallon per minute water dispersal rate which gives you the ability to save up to 20 percent in water usage over standard handheld showerhead models. It also includes a massage setting that is great for bringing relief to sore muscles.
 
 Although this is a low-flow showerhead, it provides enough water pressure to keep you satisfied in the shower. Whether you have a small shower or even a small hot water heater, the Niagara Massage model has everything you need. 
 
@@ -130,7 +130,7 @@ Although this is a low-flow showerhead, it provides enough water pressure to kee
 
 
 
-![zenfresh filtration shower head](http://www.doorwaysmagazine.com/wp-content/uploads/zenfresh_filtration_shower_head-300x300.jpg)
+![zenfresh filtration shower head](https://www.doorwaysmagazine.com/wp-content/uploads/zenfresh_filtration_shower_head-300x300.jpg)
 
 The filtration system in this unit helps to remove unwanted chemicals from the water that contribute to drying out skin and hair. It offers great water pressure and a steady flow while also reducing water consumption.
 
