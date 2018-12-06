@@ -1,19 +1,13 @@
 ---
-author: editor
-comments: false
-date: 2015-11-25 23:02:16+00:00
-excerpt: Comparing Quartz vs Granite countertops? Read this pros and cons guide on
-  selecting timeless kitchen countertop materials. Plus, cost estimates and more.
-layout: post
-link: http://www.doorwaysmagazine.com/quartz-vs-granite-countertops/
+title: 'Quartz vs Granite Countertops Pros and Cons: Everything You Need to Know'
+date: 2018-11-25 23:02:16+00:00
+description: Comparing Quartz vs Granite countertops? Read this pros and cons guide on selecting timeless kitchen countertop materials. Plus, cost estimates and more.
 slug: quartz-vs-granite-countertops
-title: 'Quartz vs Granite Countertops: Everything You Need to Know'
-wordpress_id: 514
-categories:
-- Kitchen Design
+
+
 ---
 
-![white kitchen quartz countertops](http://www.doorwaysmagazine.com/wp-content/uploads/white_kitchen_quartz_countertops.jpg)
+![white kitchen quartz countertops](https://www.doorwaysmagazine.com/wp-content/uploads/white_kitchen_quartz_countertops.jpg)
 
 I was recently in a design showroom comparing kitchen countertops for an upcoming remodeling project. Just like you may be wondering about whether Quartz or Granite is better, I too was having the same dilemna.
 
@@ -158,7 +152,7 @@ On the other hand, if you are worried about stains and the maintenance Granite r
 
 
 
-![incredible countertops](http://neighborhoodenvy.com/uploads/incredible_countertops_cover_square-300x300.jpg)Whenever someone joins my email list, I always ask them what projects are on their to-do list. To my surprise, the most common response I get is "new kitchen countertops." 
+Whenever someone joins my email list, I always ask them what projects are on their to-do list. To my surprise, the most common response I get is "new kitchen countertops." 
 
 If new countertops are on your list too, then I have good news. In my new book, _The Complete Guide to Incredible Countertops_, I answer the most frequently asked questions I've received from my readers. 
 
