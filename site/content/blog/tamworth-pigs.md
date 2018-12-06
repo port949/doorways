@@ -1,19 +1,13 @@
 ---
-author: editor
-comments: false
-date: 2017-03-06 23:52:09+00:00
-excerpt: Tamworth pigs are often overlooked as a possible addition to family farms
-  - however, we think this is a big mistake. Here's why...
-layout: post
-link: http://www.doorwaysmagazine.com/tamworth-pigs/
+title: 7 Characteristics of Tamworth Pigs That Make Them Great for Family Farms
+date: 2018-08-06 23:52:09+00:00
+description: Here are the top 7 characteristics of Tamworth pigs that make this breed is a great addition to most family farms.
 slug: tamworth-pigs
-title: 7 Reasons Tamworth Pigs Are a Great Addition to Family Farms
-wordpress_id: 13215
-categories:
-- Farming
+
 ---
 
-[caption id="attachment_13217" align="alignright" width="300"]![photo of tamworth pig photo](https://www.doorwaysmagazine.com/wp-content/uploads/tamworth_pig_photo-300x225.jpg) Tamworth Pig / [Caroline Ford](https://commons.wikimedia.org/wiki/File%3AMudchute_farm_pig_side.jpg) / CC-BY-SA-3.0[/caption]
+![photo of tamworth pig photo](https://www.doorwaysmagazine.com/wp-content/uploads/tamworth_pig_photo.jpg) 
+Tamworth Pig / [Caroline Ford](https://commons.wikimedia.org/wiki/File%3AMudchute_farm_pig_side.jpg) / CC-BY-SA-3.0
 
 Tamworth pigs are often overlooked as a possible addition to family farms - however, we think this is a big mistake.
 
@@ -39,7 +33,7 @@ What if there was a pig that offered great tasting, lean meat and was practicall
 
 
 
-Here are the top 7 reasons we think this breed is a great addition to most family farms.
+Here are the top 7 characteristics of Tamworth pigs that make this breed is a great addition to most family farms.
 
 
 
