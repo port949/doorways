@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2016-01-22 19:43:24+00:00
-excerpt: According to a study the most expensive kitchen design mistakes are making
-  changes after work had started. On average, these late changes cost $1,500!
-layout: post
-link: http://www.doorwaysmagazine.com/kitchen-design-mistakes/
+title: "These Kitchen Design Mistakes Could Cost You $1500 or More"
+date: 2018-11-22 19:43:24+00:00
+description: "According to a study the most expensive kitchen design mistakes are making changes after work had started. On average, these late changes cost $1,500!"
 slug: kitchen-design-mistakes
-title: This Kitchen Design Mistake Could Cost You $1500
-wordpress_id: 1158
-categories:
-- Kitchen Design
+
 ---
 
-![country kitchen with stained cabinets](http://www.doorwaysmagazine.com/wp-content/uploads/country_kitchen_stained_cabinets-300x225.jpg)
+![country kitchen with stained cabinets](https://www.doorwaysmagazine.com/wp-content/uploads/country_kitchen_stained_cabinets.jpg)
 
 It was an honest mistake. Just a slight change here and a different cabinet over there - that’s all. But, it ended in an abrupt shouting and crying mess. 
 
@@ -103,4 +96,6 @@ Well, the good news is that you’re in the right place at the right time. I’m
 
 If you’re interested in learning more I would encourage you to hop on the waiting list: click here to sign up for free.
 
-Do you have any kitchen remodeling advice to share with our community? If so, please sign up below to join in on the conversation with other homeowners just like you!
+Do you have any kitchen remodeling advice to share with our community? 
+
+If so, please leave a comment below to join in on the conversation with other homeowners just like you!
