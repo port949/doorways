@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2017-07-07 00:56:53+00:00
-excerpt: See our complete list of Travertine tile pros and cons here. Inside you'll
-  discover why this durable and inexpensive stone tile is so popular.
-layout: post
-link: http://www.doorwaysmagazine.com/travertine-tile-pros-and-cons/
+title: 'Travertine Tile Pros and Cons: Price, Colors and Maintenance'
+date: 2018-11-07 00:56:53+00:00
+description: See our complete list of Travertine tile pros and cons here. Inside you'll discover why this durable and inexpensive stone tile is so popular.
 slug: travertine-tile-pros-and-cons
-title: 'Travertine Tile Pros and Cons: Buyer Beware?'
-wordpress_id: 15205
-categories:
-- Flooring
+
 ---
 
-![contemporary living room travertine](http://www.doorwaysmagazine.com/wp-content/uploads/contemporary_living_room_travertine-300x200.jpg)Looking for an inexpensive, yet durable tile?
+![contemporary living room travertine](https://www.doorwaysmagazine.com/wp-content/uploads/contemporary_living_room_travertine-300x200.jpg)Looking for an inexpensive, yet durable tile?
 
 At this point in your search, you may be ready to give up on your hopes of an affordable stone tile floor and settle for vinyl. 
 
@@ -95,17 +88,17 @@ To clarify, tiles that are larger than 12x12 are usually sold as price per squar
 As you can see below, you'll need to calculate the total square footage of each tile before you can calculate the cost of each tile. It is not necessary to calculate this cost, but it can be helpful when comparing your options.
 
 <table >
-
+<thead>
 <tr >
-<td >Tile Size
-</td>
+<th>Tile Size
+</th>
 <td >Tile Area
-</td>
-<td >Price per sq ft
-</td>
-<td >Price per tile
-</td></tr>
-
+</th>
+<th>Price per sq ft
+</th>
+<th>Price per tile
+</th></tr>
+</thead>
 <tbody >
 <tr >
 <td >12x12
