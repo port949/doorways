@@ -1,21 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2017-04-12 08:00:12+00:00
-excerpt: How much does it cost to build a house? That's one of the top questions I
-  get from readers every week. Discover the truth about home building costs here!
-layout: post
-link: http://www.doorwaysmagazine.com/cost-to-build-a-house/
-slug: cost-to-build-a-house
 title: How Much Does it Cost to Build a House?
-wordpress_id: 1136
-categories:
-- Home Design
+date: 2018-11-12 08:00:12+00:00
+description: How much does it cost to build a house? That's one of the top questions I get from readers every week. Discover the truth about home building costs here!
+slug: cost-to-build-a-house
+
 ---
 
-[thrive_leads id='11546']
-
-![custom home 3 car garage](http://www.doorwaysmagazine.com/wp-content/uploads/custom_home_3_car_garage-300x200.jpg)
+![custom home 3 car garage](https://www.doorwaysmagazine.com/wp-content/uploads/custom_home_3_car_garage.jpg)
 
 How much does it cost to build a house? That's one of the top questions I get from readers every week. They say, _"I want to design my own house - how much will it cost?"_
 
@@ -45,7 +36,7 @@ vWant to follow in their footsteps and build your dream home, too? Great! Let's 
 
 
 
-![home building cost guide](http://www.doorwaysmagazine.com/wp-content/uploads/home_building_cost_guide.jpg)
+![home building cost guide](https://www.doorwaysmagazine.com/wp-content/uploads/home_building_cost_guide.jpg)
 
 
 
@@ -53,7 +44,7 @@ vWant to follow in their footsteps and build your dream home, too? Great! Let's 
 
 
 
-Before you start [designing your dream home](http://www.doorwaysmagazine.com/how-to-design-your-own-house/), it’s important to know how much it’s going to cost you. If you’ve spent anytime looking for estimates to these cost questions online - it’s clear that there are many different answers. What is the right answer?
+Before you start [designing your dream home](https://www.doorwaysmagazine.com/how-to-design-your-own-house/), it’s important to know how much it’s going to cost you. If you’ve spent anytime looking for estimates to these cost questions online - it’s clear that there are many different answers. What is the right answer?
 
 Most of the confusion about construction costs is caused by ambiguous "cost per square foot" figures. Seems pretty simple, right? Total cost divided by total square feet? 
 
@@ -89,7 +80,7 @@ Tired of all the explanations? Just want a hard and fast estimate to get you sta
 
 
 
-![custom home construction](http://www.doorwaysmagazine.com/wp-content/uploads/custom_home_construction.jpg)
+![custom home construction](https://www.doorwaysmagazine.com/wp-content/uploads/custom_home_construction.jpg)
 
 As I mentioned earlier, our cost per square foot estimate is helpful, but it doesn't paint the whole picture. In fact, there is still half of the picture missing.
 
