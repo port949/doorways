@@ -1,17 +1,13 @@
 ---
-author: editor
-comments: false
+title: "TimberTech vs Trex Composite Decking: Colors, Prices and Problems"
 date: 2018-09-06 07:01:24+00:00
-layout: post
-link: http://www.doorwaysmagazine.com/timbertech-vs-trex/
+description: Shopping for composite decking material like TimberTech or Trex? Read our comparison of the leading brands to see which is the best composite decking.
 slug: timbertech-vs-trex
-title: TimberTech vs Trex Composite Decking
-wordpress_id: 12398
-categories:
-- Decks
+
 ---
 
-[caption id="attachment_12465" align="alignright" width="300"]![trex composite decking](http://www.doorwaysmagazine.com/wp-content/uploads/trex_composite_decking-300x206.jpg) Trex Decking - Photo by Peter Alfred Hess, CC[/caption]
+![trex composite decking](https://www.doorwaysmagazine.com/wp-content/uploads/trex_composite_decking.jpg) 
+Trex Decking - Photo by Peter Alfred Hess, CC
 
 Tired of sanding and staining your wood deck every year?
 
@@ -62,9 +58,9 @@ Trex decking is available in three different tiers from least to most expensive:
 The price of one 16 foot long Trex board ranges from $43 to $68 depending on the quality level. Prices also vary by the length of the board. Trex is available in 8 to 20 foot board lengths to meet your unique project needs.
 
 <table >
-
-<tr >ModelLengthPrice per Board</tr>
-
+<thead>
+<tr ><th>Model</th><th>Length</th><th>Price per Board</th></tr>
+</thead>
 <tbody >
 <tr >
 <td >Trex Select
@@ -90,8 +86,7 @@ The price of one 16 foot long Trex board ranges from $43 to $68 depending on the
 </tbody>
 </table>
 
-[Source of price estimates](http://www.thedeckstoreonline.com/)
-
+Source of price estimates: thedeckstoreonline.com
 
 
 ### TimberTech Prices
@@ -103,9 +98,9 @@ TimberTech decking is also available in three different tiers from least to most
 TimberTech pricing is slightly higher than that of similar Trex products. Prices range from $65 to $91 for a 16 foot long board.
 
 <table >
-
-<tr >ModelLengthPrice per Board</tr>
-
+<thead>
+<tr ><th>Model</th><th>Length</th><th>Price per Board</th></tr>
+</thead>
 <tbody >
 <tr >
 <td >Timbertech Terrain
@@ -131,7 +126,7 @@ TimberTech pricing is slightly higher than that of similar Trex products. Prices
 </tbody>
 </table>
 
-[Source of price estimates](http://www.thedeckstoreonline.com/)
+Source of price estimates: thedeckstoreonline.com
 
 
 
@@ -239,7 +234,8 @@ Well, [Delta E](https://en.wikipedia.org/wiki/International_Commission_on_Illumi
 
 Looking at the colors below, a board that has been faded by 5 Delta E is very noticeable. Although Trex and TimberTech offer a fade warranty, it is likely that your deck will noticeably fade and will still not meet the limits described in the warranty.
 
-[caption id="attachment_12436" align="aligncenter" width="800"]![5 delta e comparison](http://www.doorwaysmagazine.com/wp-content/uploads/5-delta-e-comparison-1.jpg) Colors with a difference of 5 Delta E[/caption]
+![5 delta e comparison](https://www.doorwaysmagazine.com/wp-content/uploads/5-delta-e-comparison-1.jpg) 
+Colors with a difference of 5 Delta E
 
 Another common complaint about composite decking is that it can grow mold and mildew. 
 
@@ -258,7 +254,9 @@ Another important point to notice about both warranties is that they are on a gr
 **Trex Warranty Coverage**
 
 <table >
-<tr >Year of ClaimRecovery</tr>
+<thead>
+<tr ><th>Year of Claim</th><th>Recovery</th>/tr>
+</thead>
 <tbody >
 <tr >
 <td >1-10
@@ -346,7 +344,10 @@ Another important point to notice about both warranties is that they are on a gr
 **TimberTech Warranty Coverage**
 
 <table >
-<tr >Year of ClaimRecovery</tr>
+ <thead>
+<tr ><th>Year of Claim</th><th>Recovery</th>/tr>
+</thead>
+
 <tbody >
 <tr >
 <td >1-10
