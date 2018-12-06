@@ -1,12 +1,13 @@
 ---
-title: 'KraftMaid Cabinets Reviews: 2018 Buyer''s Guide'
-date: 2018-09-13T21:26:34.129Z
+title: "KraftMaid Cabinets Reviews: 2019 Buyer's Guide"
+date: 2018-11-13T21:26:34.129Z
 slug: kraftmaid-cabinets
 description: >-
-  Read our KraftMaid Cabinet reviews before you remodel your kitchen. You might
-  be surprised what we discovered about the quality and customer service.
+  Read our KraftMaid Cabinet reviews before you remodel your kitchen. You might be surprised what we discovered about the quality and customer service.
+  
 ---
-<img src="http://www.doorwaysmagazine.com/wp-content/uploads/kraftmaid_cabinets_review.jpg" alt="kraftmaid cabinets review" width="300" height="218" class="size-medium wp-image-1519" /> Photo via <a href="http://www.kraftmaid.com/imagine/photo-gallery/" target="_blank">KraftMaid Photo Gallery</a>
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/kraftmaid_cabinets_review.jpg" alt="kraftmaid cabinets review"  /> 
+Photo via <a href="http://www.kraftmaid.com/imagine/photo-gallery/" target="_blank">KraftMaid Photo Gallery</a>
 
 If you are planning to remodel your kitchen, KraftMaid Cabinets offer a great selection of semi-custom cabinets and door styles. 
 
