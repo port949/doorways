@@ -3,12 +3,12 @@ title: 'Design Your Own House: A Step-by-Step Guide'
 date: 2018-09-13T19:46:34.864Z
 slug: design-your-own-house
 description: >-
-  Learn how to design your own house this weekend with our simple home design
-  tips. Before you think about building a custom home, read this guide first!
+  Learn how to design your own house this weekend with our simple home design tips. Before you think about building a custom home, read this guide first!
+  
 ---
 <strong>Follow this step-by-step guide to learn how to design your own house. No need to learn complex 3D software or hire an expensive architect. There's a better way...</strong>
 
-<img src="https://www.doorwaysmagazine.com/wp-content/uploads/design_your_own_house_guide.jpg" alt="design your own house guide" width="300" class="alignright size-full wp-image-12761"><strong>Have a burning desire to design your own house? I completely understand!</strong>
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/design_your_own_house_guide.jpg" alt="design your own house guide" ><strong>Have a burning desire to design your own house? I completely understand!</strong>
 
 Over the last few years I've connected with thousands of homeowners online - <em>just like you</em> - that want to design and build their own home.
 
@@ -34,7 +34,7 @@ To make the process as simple as possible I’ve put together my best tips on ho
 
 <h2>Why Building Your Own Home is Easier Than it Sounds</h2>
 
-<img src="https://www.doorwaysmagazine.com/wp-content/uploads/design_your_own_home.jpg" alt="design your own home" width="800" height="533" class="aligncenter size-full wp-image-1124">
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/design_your_own_home.jpg" alt="design your own home" >
 
 Designing your dream home can be both fun and rewarding. However, the entire home design process is much more enjoyable when you know what to expect.
 
@@ -48,7 +48,6 @@ As an ambitious designer, you may not care about the industry jargon, but when y
 
 <ul>
 
-```
 <li>Programming</li>
 
 <li>Schematic Design</li>
@@ -62,13 +61,14 @@ As an ambitious designer, you may not care about the industry jargon, but when y
 <li>Construction</li>
 
 <li>Occupancy</li>
-```
 
 </ul>
 
 <h2>Phase 1: Programming</h2>
 
-<img src="https://www.doorwaysmagazine.com/wp-content/uploads/pen_paper_draw-300x200.jpg" alt="grab your pen and paper" width="300" height="200" class="alignright size-medium wp-image-11254"><p>In the first phase of the home design process, we’ll need to identify your needs, find place to build your home and outline a budget. I realize that these steps are not as fun as jumping into your favorite home design software and running wild.</p>
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/pen_paper_draw-300x200.jpg" alt="grab your pen and paper" >
+
+<p>In the first phase of the home design process, we’ll need to identify your needs, find place to build your home and outline a budget. I realize that these steps are not as fun as jumping into your favorite home design software and running wild.</p>
 
 <p>In my opinion, these first few steps are the most important parts of the home design process.</p>
 
@@ -80,7 +80,6 @@ As an ambitious designer, you may not care about the industry jargon, but when y
 
 <ul>
 
-```
 <li>Identify Your Needs</li>
 
 <li>Select Your Site</li>
@@ -90,7 +89,6 @@ As an ambitious designer, you may not care about the industry jargon, but when y
 <li>Outline Your Budget</li>
 
 <li>Create a Room Diagram</li>
-```
 
 </ul>
 
@@ -106,7 +104,7 @@ Feel free to go wild with your wants list, after all this will be your dream hom
 
 <h2>Step 2: Select Your Site</h2>
 
-<img src="https://www.doorwaysmagazine.com/wp-content/uploads/dream_house_property.jpg" alt="dream house property" width="600" height="400" class="aligncenter size-full wp-image-11391">
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/dream_house_property.jpg" alt="dream house property">
 
 If you haven’t already, you need to find somewhere to build your dream home. This may be on your current lot, waterfront property or on the top of a mountain. 
 
@@ -118,7 +116,7 @@ Which brings us to the next step: <strong>identify potential obstacles</strong>.
 
 <h2>Step 3: Identify Potential Obstacles</h2>
 
-\[caption id="attachment_11386" align="aligncenter" width="800"]<img src="https://www.doorwaysmagazine.com/wp-content/uploads/fallingwater-kaufmann-residence-frank-lloyd-wright.jpg" alt="Fallingwater (Kaufmann Residence) by Frank Lloyd Wright" width="800" height="533" class="size-full wp-image-11386"> Fallingwater (Kaufmann Residence) by Frank Lloyd Wright / CC0\[/caption]
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/fallingwater-kaufmann-residence-frank-lloyd-wright.jpg" alt="Fallingwater (Kaufmann Residence) by Frank Lloyd Wright" > Fallingwater (Kaufmann Residence) by Frank Lloyd Wright
 
 In order to make the design and construction process as smooth as possible, we’ll need to identify any potential obstacles. These are usually spotted by having a site survey and soil studies completed. 
 
@@ -144,7 +142,7 @@ One reason we chose your building site and identified potential obstacles first,
 
 <h2>Step 5: Create a Room Diagram</h2>
 
-<img src="https://www.doorwaysmagazine.com/wp-content/uploads/floor-plan-bubble-diagram-example.jpg" alt="floor plan bubble diagram example" width="866" height="726" class="aligncenter size-full wp-image-11230">
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/floor-plan-bubble-diagram-example.jpg" alt="floor plan bubble diagram example">
 
 Finally, we get to start designing your dream home. So far, we’ve identified your wants and needs, completed an in-depth site investigation and outlined your budget. We’ll use all of these pieces to create a few simple room diagrams.
 
@@ -164,7 +162,6 @@ When you start designing your house, you’ll likely start with the basics. Thes
 
 <ul>
 
-```
 <li>Kitchen</li>
 
 <li>Dining Room</li>
@@ -176,7 +173,6 @@ When you start designing your house, you’ll likely start with the basics. Thes
 <li>Bedrooms</li>
 
 <li>Bathrooms</li>
-```
 
 </ul>
 
@@ -188,7 +184,6 @@ Now that you have the basics laid out, it’s time to go wild. After all, it’s
 
 <ul>
 
-```
 <li>Mastersuite</li>
 
 <li>Walk-in Closets</li>
@@ -214,7 +209,6 @@ Now that you have the basics laid out, it’s time to go wild. After all, it’s
 <li>Attic</li>
 
 <li>Basement</li>
-```
 
 </ul>
 
@@ -228,7 +222,6 @@ I can’t tell you how many homeowners I’ve talked to that wished they could s
 
 <ul>
 
-```
 <li>Entry Door</li>
 
 <li>Interior Door Locations</li>
@@ -268,13 +261,12 @@ I can’t tell you how many homeowners I’ve talked to that wished they could s
 <li>Water Heater Location</li>
 
 <li>Radiant Heating</li>
-```
 
 </ul>
 
 <h2>Phase 2: Schematic Design</h2>
 
-<img src="https://www.doorwaysmagazine.com/wp-content/uploads/white_kitchen_cabinets_black_marble_countertops.jpg" alt="white kitchen cabinets black marble countertops" width="720" height="480" class="aligncenter size-full wp-image-1730">
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/white_kitchen_cabinets_black_marble_countertops.jpg" alt="white kitchen cabinets black marble countertops" >
 
 In the second phase we will take your ideas to the next level. Once you have a few basic bubble diagrams we will need to add more detail. At this point you will start to refine your ideas and start to draw your plans with more precision.
 
@@ -302,13 +294,11 @@ If you still need some ideas on what style your home will be, I’d suggest look
 
 <ul>
 
-```
 <li>Craftsman</li>
 
 <li>Modern</li>
 
 <li>Traditional</li>
-```
 
 </ul>
 
@@ -318,13 +308,11 @@ These style decisions will also affect how your home looks on the outside as wel
 
 <ul>
 
-```
 <li>Add Details</li>
 
 <li>Choose a Style</li>
 
 <li>Design the Exterior</li>
-```
 
 </ul>
 
@@ -356,13 +344,11 @@ Don’t forget to calculate potential material costs in respect to your budget.
 
 <ul>
 
-```
 <li>Create Floorplans</li>
 
 <li>Select Materials</li>
 
 <li>Design Interior Elevations</li>
-```
 
 </ul>
 
@@ -378,7 +364,6 @@ After you have all the required pieces in place and have complete plans of your 
 
 <ul>
 
-```
 <li>Site Plan</li>
 
 <li>Floor Plans</li>
@@ -402,7 +387,6 @@ After you have all the required pieces in place and have complete plans of your 
 <li>Window Schedule</li>
 
 <li>Complete Material Specifications</li>
-```
 
 </ul>
 
@@ -410,13 +394,11 @@ After you have all the required pieces in place and have complete plans of your 
 
 <ul>
 
-```
 <li>Develop Document for Construction</li>
 
 <li>Create Building Specifications</li>
 
 <li>Apply for Building Permit</li>
-```
 
 </ul>
 
@@ -432,13 +414,11 @@ The contractors you select will be able to look at your construction plans and s
 
 <ul>
 
-```
 <li>Interview Home Builders</li>
 
 <li>Get Contractor Bids</li>
 
 <li>Outline Construction Schedule</li>
-```
 
 </ul>
 
@@ -460,13 +440,11 @@ After windows and doors are installed, the contractor will begin working on the 
 
 <ul>
 
-```
 <li>Site Prep and Foundation</li>
 
 <li>Framing and Exterior</li>
 
 <li>Interior and Finishes</li>
-```
 
 </ul>
 
@@ -476,13 +454,11 @@ After windows and doors are installed, the contractor will begin working on the 
 
 <ul>
 
-```
 <li>Punch List</li>
 
 <li>Final Payments</li>
 
 <li>Move In</li>
-```
 
 </ul>
 
@@ -495,5 +471,3 @@ After you finish this list it will become part of your contract documents. The c
 Once the punch list is complete you can finally move into your dream home! If you were beginning to doubt that this day would come, you can finally relax. It’s time to move in and enjoy the fruits of your labor. 
 
 No more long days of phone calls, emails and saw dust. Sit back and relax in your new living room, or start from the beginning again and design your next dream home!
-
-\##
