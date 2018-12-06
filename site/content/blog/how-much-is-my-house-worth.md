@@ -1,20 +1,14 @@
 ---
-author: editor
-comments: false
-date: 2016-01-28 02:11:24+00:00
-excerpt: If you’re thinking about selling you probably want to know "how much is my
-  house worth?" But, before I let you in on my home value secrets, I need to tell
-  you something important.
-layout: post
-link: http://www.doorwaysmagazine.com/how-much-is-my-house-worth/
+title: How Much is My House Worth? 
+date: 2018-11-28 02:11:24+00:00
+description: If you’re thinking about selling you probably want to know "how much is my house worth?" But, before I let you in on my home value secrets, I need to tell you something important.
 slug: how-much-is-my-house-worth
-title: How Much is My House Worth?
-wordpress_id: 1636
-categories:
-- Home Buying
+
 ---
 
-![how much is my house worth](http://www.doorwaysmagazine.com/wp-content/uploads/how_much_is_my_house_worth-300x200.jpg)Signs are pointing to another great year for home sellers, according to real estate experts. If you’re thinking about selling you probably want to know **"how much is my house worth?"**
+![how much is my house worth](https://www.doorwaysmagazine.com/wp-content/uploads/how_much_is_my_house_worth-300x200.jpg)
+
+Signs are pointing to another great year for home sellers, according to real estate experts. If you’re thinking about selling you probably want to know **"how much is my house worth?"**
 
 But, before I let you in on my home value secrets, I need to tell you something important. **Your house might not be worth what you think.** 
 
@@ -32,7 +26,7 @@ If you use these tips you will have a better idea of what your home is worth bef
 
 The real value of your house is what someone is willing to pay for it today - not what you think it’s worth, or what a home value estimator tells you. 
 
-Your [real estate agent](http://www.doorwaysmagazine.com/how-to-become-a-real-estate-agent/) will probably tell you that your home value is based on location, location, and location. While this is true, there are a few big factors that influence what a buyer is willing to pay for your home. Let’s jump into it.
+Your [real estate agent](https://www.doorwaysmagazine.com/how-to-become-a-real-estate-agent/) will probably tell you that your home value is based on location, location, and location. While this is true, there are a few big factors that influence what a buyer is willing to pay for your home. Let’s jump into it.
 
 
 
