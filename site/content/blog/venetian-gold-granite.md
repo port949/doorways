@@ -1,21 +1,15 @@
 ---
-author: editor
-comments: false
-date: 2015-11-06 20:11:43+00:00
-excerpt: Our Venetian Gold Granite guide is finally here. See why this kitchen countertop
-  material is so popular and how you can get it in your home, too.
-layout: post
-link: http://www.doorwaysmagazine.com/venetian-gold-granite/
+title: 'Venetian Gold Granite Pros and Cons: Cost, Colors and Maintenance'
+date: 2018-11-06 20:11:43+00:00
+description: Thinking about Venetian Gold Granite countertops? See why this kitchen countertop material is so popular and how you can get it in your home, too.
 slug: venetian-gold-granite
-title: 'Venetian Gold Granite: Here''s What You Need to Know'
-wordpress_id: 200
-categories:
-- Kitchen Design
+
 ---
 
-[caption id="attachment_202" align="aligncenter" width="952"]![venetian gold granite countertops](http://www.doorwaysmagazine.com/wp-content/uploads/venetian_gold_granite_countertops.jpg) Photo via [Oakley Home Builders](http://www.houzz.com/photos/87710/Oakley-Home-Builders-traditional-kitchen-chicago)[/caption]
+![venetian gold granite countertops](https://www.doorwaysmagazine.com/wp-content/uploads/venetian_gold_granite_countertops.jpg) 
+Photo via [Oakley Home Builders](http://www.houzz.com/photos/87710/Oakley-Home-Builders-traditional-kitchen-chicago)
 
-San Tropez, Brazilian Gold, Vecchia Oro or the granite most commonly known as Venetian Gold ranks amongst one of the most desired light colored granites in the market. Despite the name, Venetian Gold has [no relation to Italy](http://en.wikipedia.org/wiki/Venice); the stone originates from bedrock quarries throughout parts of Brazil. 
+San Tropez, Brazilian Gold, Vecchia Oro or the granite most commonly known as Venetian Gold ranks amongst one of the most desired light colored granites in the market. Despite the name, Venetian Gold has no relation to Italy; the stone originates from bedrock quarries throughout parts of Brazil. 
 
 Venetian Gold granite is present in so many kitchens for its one of a kind appearance, versatile color scheme, durable qualities and affordable, mid-range price.
 
@@ -66,6 +60,8 @@ Manufacturers offer large, prefabricated slabs that already have cut-outs and a 
 For the DIY'ers, tile granite costs on average $5 to $10 per square foot plus material costs for installation. 
 
 Venetian Gold is considered a mid-range priced granite. Comparable materials such as Colonial Cream and Golden Beach are typically $10 to $20 more per square foot. On the other hand, Giallo Ornamental is a less expensive alternative. 
+
+## Conclusion
 
 The choices are endless for countertop materials - marble, stainless steel, wood, and laminate - however, these choices are typically narrowed down to granite for several reasons. 
 
