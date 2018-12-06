@@ -1,19 +1,13 @@
 ---
-author: editor
-comments: false
-date: 2016-02-02 19:17:12+00:00
-excerpt: What paint colors make small homes look bigger? Click here to find out. Don't
-  pick up that paintbrush until you read these house painting tips!
-layout: post
-link: http://www.doorwaysmagazine.com/exterior-paint-color-ideas/
-slug: exterior-paint-color-ideas
 title: Exterior Paint Colors That Make Your House Look Bigger
-wordpress_id: 1167
-categories:
-- Painting
+date: 2018-12-02 19:17:12+00:00
+description: What paint colors make small homes look bigger? Click here to find out. Don't pick up that paintbrush until you read these house painting tips!
+slug: exterior-paint-color-ideas
+
 ---
 
-[caption id="attachment_1776" align="aligncenter" width="500"]![best exterior house colors](http://www.doorwaysmagazine.com/wp-content/uploads/best_exterior_house_colors.jpg) Exterior Paint Colors Are More Important Than Ever / Photo via [Houzz](http://www.houzz.com/photos/382962/Connecting-spaces-upstairs-traditional-exterior-other-metro)[/caption]
+![best exterior house colors](https://www.doorwaysmagazine.com/wp-content/uploads/best_exterior_house_colors.jpg) 
+Exterior Paint Colors Are More Important Than Ever / Photo via [Houzz](http://www.houzz.com/photos/382962/Connecting-spaces-upstairs-traditional-exterior-other-metro)
 
 Just because there are thousands of house colors and paint combinations to choose from doesn't mean they’re all available to you. In fact, most should be forbidden to any well-meaning homeowner. 
 
@@ -34,8 +28,8 @@ However, choosing the wrong paint colors could cost you thousands of dollars in 
 ## How to Pick the Best Exterior House Colors
 
 
-
-[caption id="attachment_1775" align="aligncenter" width="500"]![traditional exterior paint colors](http://www.doorwaysmagazine.com/wp-content/uploads/traditional_exterior_paint_colors.jpg) Light Colors Will Always Make Your House Look Larger / Photo via [Houzz](http://www.houzz.com/photos/352356/Front-Exterior-traditional-exterior-minneapolis)[/caption]
+![traditional exterior paint colors](https://www.doorwaysmagazine.com/wp-content/uploads/traditional_exterior_paint_colors.jpg) 
+Light Colors Will Always Make Your House Look Larger / Photo via [Houzz](http://www.houzz.com/photos/352356/Front-Exterior-traditional-exterior-minneapolis)
 
 How can choosing paint colors make a home look bigger and improve curb appeal? 
 
@@ -45,7 +39,7 @@ In our DIY era more homeowners are taking critical design decisions into their o
 
 Making smart, well-educated house color decisions will help your home stand out from the rest, while still giving you the opportunity to do it yourself and have fun along the way.
 
-It’s no secret that today [curb appeal is at a premium](http://www.doorwaysmagazine.com/how-much-is-my-house-worth/). 
+It’s no secret that today [curb appeal is at a premium](https://www.doorwaysmagazine.com/how-much-is-my-house-worth/). 
 
 With an overwhelming number of homes on the market and many of them available at extremely affordable prices, anything you can do to maintain or improve home value is critical. 
 
@@ -67,7 +61,8 @@ Creating an outcome that you will look back on 10 years down the road and be tha
 
 
 
-[caption id="attachment_1774" align="aligncenter" width="500"]![traditional exterior house colors](http://www.doorwaysmagazine.com/wp-content/uploads/traditional_exterior_house_colors.jpg) Evaluate Surrounding Elements and Features for Contrast / Photo via [Houzz](http://www.houzz.com/photos/372807/Menlo-Oaks-Residence-traditional-exterior-san-francisco)[/caption]
+![traditional exterior house colors](https://www.doorwaysmagazine.com/wp-content/uploads/traditional_exterior_house_colors.jpg) 
+Evaluate Surrounding Elements and Features for Contrast / Photo via [Houzz](http://www.houzz.com/photos/372807/Menlo-Oaks-Residence-traditional-exterior-san-francisco)[/caption]
 
 When choosing the perfect house color it’s important to acknowledge and respect the surrounding environment of your home. Stand outside your house and take a step back to see the larger picture.
 
@@ -83,7 +78,8 @@ This same strategy must be applied to homes on property or those with elaborate 
 
 
 
-[caption id="attachment_1773" align="aligncenter" width="500"]![Classic white house with white trim](http://www.doorwaysmagazine.com/wp-content/uploads/best_exterior_paint_colors.jpg) Use Base, Trim and Accent Colors to Bring All Elements Together Photo via [Houzz](http://www.houzz.com/photos/477460/Newport-Beach-Custom-Home-01-traditional-exterior-orange-county)[/caption]
+![Classic white house with white trim](https://www.doorwaysmagazine.com/wp-content/uploads/best_exterior_paint_colors.jpg) 
+Use Base, Trim and Accent Colors to Bring All Elements Together Photo via [Houzz](http://www.houzz.com/photos/477460/Newport-Beach-Custom-Home-01-traditional-exterior-orange-county)
 
 The next step in choosing the best house color is to pay close attention to trim and accent colors. They can make or break the perfect paint scheme. In fact, I believe they are the secret ingredient in the house painting process. 
 
@@ -104,6 +100,8 @@ After selecting the appropriate main body, accent and trim colors the next step 
 The decision on which sheen to choose will also be influenced by the condition of the existing surface as well as the desired durability. For example, flat paints are best for use on large areas. Due to the nature of flat paints they are perfect for hiding any surface imperfections that occur on exterior wood or metal surfaces. 
 
 Semi-gloss and gloss paints are preferred for accent and trim applications. The higher sheen makes window frames and doors easier to clean. Glossy paints also tend to give trim and accents a professional, finished look.
+
+## Conclusion
 
 With all of these elements in mind, the key to choosing the best paint colors is simply not to go overboard. 
 
