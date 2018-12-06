@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2017-06-21 21:12:44+00:00
-excerpt: 'Last week I received an email from a reader with the subject line: "a Craigslist
-  scammer has my address - should I be worried?" Here''s my response...'
-layout: post
-link: http://www.doorwaysmagazine.com/craigslist-scammer-has-my-address/
-slug: craigslist-scammer-has-my-address
 title: 'A Craigslist Scammer Has My Address: Should I Be Worried?'
-wordpress_id: 14896
-categories:
-- Personal Finance
+date: 2018-06-21 21:12:44+00:00
+description: 'Last week I received an email from a reader with the subject line: "a Craigslist scammer has my address - should I be worried?" Here's my response...'
+slug: craigslist-scammer-has-my-address
+
 ---
 
-![](https://www.doorwaysmagazine.com/wp-content/uploads/craigslist_scammer_social.png)
+![watch out for these craigslist scammers](https://www.doorwaysmagazine.com/wp-content/uploads/craigslist_scammer_social.png)
 
 Last week I received an email from a reader with the subject line: _"a Craigslist scammer has my address - should I be worried?"_ and wanted to share my response with you.
  
@@ -34,10 +27,6 @@ Thanks to technology, they can pretend to live near you even though they are on 
 **The less people know about them, the less likely they will get caught.**
  
 And to be honest, most of your personal contact information can be found on websites like [whitepages.com](http://www.whitepages.com/) or [peoplefinder.com](http://www.peoplefinder.com/).
- 
-Just take a look at this screenshot from the White Pages website: 
-
-![white pages example](http://www.doorwaysmagazine.com/wp-content/uploads/white-pages-example.jpg)
 
 In a simple search by name, I can find a person's age, phone number, address, previous locations and names of their family members. You can also see the contact information of their family members as well.
  
@@ -93,4 +82,4 @@ Always deal in cash when possible, and do not send money via Western Union to pe
  
 **Do you have any experience with Craigslist scams? Leave us a comment below and share your story with our community. You could help prevent others from getting scammed as well.**
 
-![craigslist scammer pinterest](http://www.doorwaysmagazine.com/wp-content/uploads/craigslist_scammer_pinterest.png)
+![craigslist scammer pinterest](https://www.doorwaysmagazine.com/wp-content/uploads/craigslist_scammer_pinterest.png)
