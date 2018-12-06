@@ -1,16 +1,10 @@
 ---
-author: editor
-comments: false
-date: 2017-06-22 07:27:05+00:00
-excerpt: Learn how to build a log cabin from start to finish. Discover what others
-  don't tell you about using log cabin kits to build your own house - start here.
-layout: post
-link: http://www.doorwaysmagazine.com/build-a-log-cabin/
-slug: build-a-log-cabin
+
 title: How to Build a Log Cabin from Scratch
-wordpress_id: 1154
-categories:
-- Home Design
+date: 2018-11-22 07:27:05+00:00
+description: Learn how to build a log cabin from start to finish. Discover what others don't tell you about using log cabin kits to build your own house - start here.
+slug: build-a-log-cabin
+
 ---
 
 OK, I'm going to get right to the point - if you've been searching for tips online about how to build a log cabin, there's a good chance you are missing the information you need to get started.
@@ -25,7 +19,7 @@ In this article I'm going to cover the two main ways to build a log home to help
 
 The first option is to buy a log cabin kit from a builder. The second option is to design your own floor plans and find a log manufacturer to source and cut the logs to size. Below I'll dive deeper into each option and outline the pros and cons as well.
 
-![build log cabin guide](http://www.doorwaysmagazine.com/wp-content/uploads/build_log_cabin_guide.jpg)
+![build log cabin guide](https://www.doorwaysmagazine.com/wp-content/uploads/build_log_cabin_guide.jpg)
 
 
 
@@ -35,7 +29,7 @@ The first option is to buy a log cabin kit from a builder. The second option is 
 
 One of the most popular ways to build a log cabin is with a kit. These kits are produced by log home manufacturers with decades of experience designing and building log cabins. When you purchase a kit, you'll be able to sleep well at night knowing all the pieces will fit together easily and without any major complications.
 
-In a recent article I covered the [total cost of buying and building a log cabin using a kit](http://www.doorwaysmagazine.com/log-cabin-kits/). If you don't get a chance to read that article, here is the most important point you should write down: 
+In a recent article I covered the [total cost of buying and building a log cabin using a kit](https://www.doorwaysmagazine.com/log-cabin-kits/). If you don't get a chance to read that article, here is the most important point you should write down: 
 
 
 
@@ -79,10 +73,10 @@ Instead of cutting down all of the trees in your backyard, a better option is to
 
 
 
-![log home living room](http://www.doorwaysmagazine.com/wp-content/uploads/log_home_living_room.jpg)
+![log home living room](https://www.doorwaysmagazine.com/wp-content/uploads/log_home_living_room.jpg)
  
 In this article my goal was to give you a starting point before you decide to build your own log cabin. As you can see there are many steps I've left out such as financing, permits and construction schedules. Plus, I didn't even mention the wide variety of log notch styles - which are a heated issue among log home builders.
 
 If you would like to learn more about building a log home I'd encourage you to sign up for my online course called the Log Home Master Class.
 
-What questions do you have about log home construction? Feel free to send me an email or connect with us on Twitter.
+What questions do you have about log home construction? Please leave a comment below.
