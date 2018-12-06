@@ -1,19 +1,14 @@
 ---
-author: editor
-comments: false
-date: 2016-01-29 22:08:18+00:00
-excerpt: What is the cost of a home inspection? Who pays for the fees, the buyer or
-  seller? Find out here. Plus, get our new home inspection checklist.
-layout: post
-link: http://www.doorwaysmagazine.com/home-inspection-cost/
-slug: home-inspection-cost
 title: How Much Does a Home Inspection Cost?
-wordpress_id: 1682
-categories:
-- Home Buying
+date: 2018-11-29 22:08:18+00:00
+description: What is the cost of a home inspection? Who pays for the fees, the buyer or seller? Find out here.
+slug: home-inspection-cost
+
 ---
 
-![home inspection cost guide](http://www.doorwaysmagazine.com/wp-content/uploads/home_inspection_cost_guide-300x199.jpg)Your mortgage company, real estate agent or friends may have recommendations for the best home inspector in your neighborhood. 
+![home inspection cost guide](https://www.doorwaysmagazine.com/wp-content/uploads/home_inspection_cost_guide.jpg)
+
+Your mortgage company, real estate agent or friends may have recommendations for the best home inspector in your neighborhood. 
 
 Usually these referrals are spot on. However, before hiring the first inspector you call, there are a few things to keep in mind. 
 
@@ -45,7 +40,7 @@ We go into more detail about each below and reveal the average home inspection c
 
 You may have noticed that the list of requirements did not include cost of home inspection. **There’s a good reason for that.**
 
-[ **Editor's Note:** Download our home inspection checklist before you hire a home inspector. You'll be glad you did! [Click here for instant access](http://www.doorwaysmagazine.com/home-inspection-checklist/) ]
+**Editor's Note:** Download our home inspection checklist before you hire a home inspector. You'll be glad you did! [Click here for instant access](https://www.doorwaysmagazine.com/home-inspection-checklist/) ]
 
 
 
@@ -109,4 +104,4 @@ The inspector’s job is to identify existing problems and they are typically th
 
 Keep in mind that the more you can find out about the condition of the home, the more informed decision you’ll be able to make when putting together an offer on your new home.
 
-Download our [inspection checklist](http://www.doorwaysmagazine.com/home-inspection-checklist/) before you hire a home inspector. You'll be glad you did!
+Download our [inspection checklist](https://www.doorwaysmagazine.com/home-inspection-checklist/) before you hire a home inspector. You'll be glad you did!
