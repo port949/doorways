@@ -3,13 +3,10 @@ title: 141-Point Home Inspection Checklist
 date: 2018-09-13T18:19:06.640Z
 slug: home-inspection-checklist
 description: >-
-  Many homeowners I've worked with are aware of the importance of a home
-  inspection. After all it’s one of the easiest ways to find out if a home has
-  any hidden secrets or serious maintenance issues. So, what exactly is a home
-  inspection checklist and why do you need one?
+  Print our home inspection checklist before you get ready to buy or sell a home. Inside you'll discover exactly what home inspectors are looking for so you know what to fix before they arrive.
+  
 ---
-<img src="http://www.doorwaysmagazine.com/wp-content/uploads/home_inspection_checklist_banner.png" alt="home inspection checklist" width="800" height="451" class="aligncenter size-full wp-image-1189">
-
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/home_inspection_checklist_banner.png" alt="home inspection checklist" >
 
 
 Many homeowners I've worked with are aware of the importance of a home inspection. After all it’s one of the easiest ways to find out if a home has any hidden secrets or serious maintenance issues. 
@@ -44,7 +41,7 @@ After making inspections of <em>"readily accessible, visually observable, instal
 
 
 
-If you're <a href="http://www.doorwaysmagazine.com/guide-to-buying-a-house/" target="_blank">getting ready to buy a home</a> (even if it’s brand new), my checklist will help you prepare questions to ask the home inspector both before and after the inspection.
+If you're <a href="https://www.doorwaysmagazine.com/guide-to-buying-a-house/" target="_blank">getting ready to buy a home</a> (even if it’s brand new), my checklist will help you prepare questions to ask the home inspector both before and after the inspection.
 
 
 
