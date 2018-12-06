@@ -1,19 +1,13 @@
 ---
-author: editor
-comments: false
-date: 2015-11-25 20:40:31+00:00
-excerpt: Are River White Granite countertops perfect for your kitchen? Read this countertop
-  buyer's guide before you go anywhere else. See prices and color combos.
-layout: post
-link: http://www.doorwaysmagazine.com/river-white-granite/
+title: 'River White Granite: Colors, Cost and Maintenance'
+date: 2018-11-25 20:40:31+00:00
+description: Are River White Granite countertops perfect for your kitchen? Read this countertop buyer's guide before you go anywhere else. See prices and color combos.
 slug: river-white-granite
-title: 'River White Granite: A Countertop Buyer''s Guide'
-wordpress_id: 493
-categories:
-- Kitchen Design
+
 ---
 
-[caption id="attachment_494" align="aligncenter" width="950"]![river white granite countertops](http://www.doorwaysmagazine.com/wp-content/uploads/river_white_granite_countertops.jpg) Photo via [Hutton Bielmann Design Inc.](http://www.houzz.com/photos/2931402/12-0104-S-Kitchen-contemporary-kitchen-london)[/caption]
+![river white granite countertops](https://www.doorwaysmagazine.com/wp-content/uploads/river_white_granite_countertops.jpg) 
+Photo via [Hutton Bielmann Design Inc.](http://www.houzz.com/photos/2931402/12-0104-S-Kitchen-contemporary-kitchen-london)[/caption]
 
 When searching for a light colored granite, River White will consistently rank amongst the best stones. Not known by other names in the market, River White originates in large quantities from bedrock quarries in India. 
 
@@ -65,7 +59,7 @@ River White is a medium to high priced granite and is more commonly available in
 
 Including installation, a 2cm thick slab costs an average of $30 to $45 per square foot, and a 3cm thick piece costs an average of $50 to $70 per square foot. Specific cut-outs for the sink, faucets, and appliances can range from $100-$200 each, plus any decorative edging. 
 
-Other white granites such as Ivory Fantasy, [Kashmir White](http://www.doorwaysmagazine.com/kashmir-white-granite/), and Moon White are less expensive; however there is little to no comparison to the quality and clean, sophisticated appearance of River White. 
+Other white granites such as Ivory Fantasy, [Kashmir White](https://www.doorwaysmagazine.com/kashmir-white-granite/), and Moon White are less expensive; however there is little to no comparison to the quality and clean, sophisticated appearance of River White. 
 
 
 
