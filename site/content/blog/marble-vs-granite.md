@@ -1,7 +1,7 @@
 ---
-title: Marble vs Granite Countertops Pros and Cons: Cost, Colors, and Care
+title: "Marble vs Granite Countertops Pros and Cons: Cost, Colors, and Care"
 date: 2018-11-04 19:54:37+00:00
-description: Granite or marble countertops - which is best? See what we discovered about these kitchen countertop materials. Plus, we reveal the top pros and cons.
+description: "Granite or marble countertops - which is best? See what we discovered about these kitchen countertop materials. Plus, we reveal the top pros and cons."
 slug: marble-vs-granite
 
 ---
