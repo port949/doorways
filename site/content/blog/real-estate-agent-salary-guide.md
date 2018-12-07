@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2015-11-17 22:20:11+00:00
-excerpt: The average real estate agent salary is $55,530 per year. But how much commission
-  do Realtors make on each home they sell? See what we discovered.
-layout: post
-link: http://www.doorwaysmagazine.com/real-estate-agent-salary-guide/
-slug: real-estate-agent-salary-guide
 title: The Complete Real Estate Agent Salary Guide
-wordpress_id: 278
-categories:
-- Realtors
+date: 2018-11-17 22:20:11+00:00
+description: "The average real estate agent salary is $55k per year. But how much commission do Realtors make on each home they sell? See what we discovered."
+slug: real-estate-agent-salary-guide
+
 ---
 
-![successful real estate agent](http://www.doorwaysmagazine.com/wp-content/uploads/successful_real_estate_agent.jpg)
+![successful real estate agent](https://www.doorwaysmagazine.com/wp-content/uploads/successful_real_estate_agent.jpg)
 
 How much do real estate agents make? That is the first question our readers want to know when considering a career in real estate.
 
@@ -57,7 +50,7 @@ Compare that to the average annual salary nationwide for all occupations which i
 
 
 
-Making over $50,000 per year with only a high school diploma and some [pre-licensing education](http://www.doorwaysmagazine.com/how-to-become-a-real-estate-agent/) sounds pretty good to me. How about you?
+Making over $50,000 per year with only a high school diploma and some [pre-licensing education](https://www.doorwaysmagazine.com/how-to-become-a-real-estate-agent/) sounds pretty good to me. How about you?
 
 
 
@@ -148,7 +141,7 @@ If your broker takes 30% of this commission, you'll have $4659.90 left to put in
 
 Based on our math, how many homes do you need to sell each month to make $40,990 each year? 
 
-`$40,990 (Median Salary) / $4659.90 (Typical Commision) = 8.8 homes each year`
+<blockquote>$40,990 (Median Salary) / $4659.90 (Typical Commision) = 8.8 homes each year</blockquote>
 
 You'll need to sell only 8 or 9 median priced homes each year to make the median agent salary. 
 
@@ -199,4 +192,4 @@ When evaluating how much money you could earn as a real estate agent, you'll wan
 
 Are homes selling for less than $221,900? If so, you may have a hard time earning the median salary. You may need to branch out into other communities or sell more homes to make up for the difference.
 
-If a career in real estate sounds exciting we encourage you to read our guide on [how to become a real estate agent](http://www.doorwaysmagazine.com/how-to-become-a-real-estate-agent/). We explain the process from start to finish.
+If a career in real estate sounds exciting we encourage you to read our guide on [how to become a real estate agent](https://www.doorwaysmagazine.com/how-to-become-a-real-estate-agent/). We explain the process from start to finish.
