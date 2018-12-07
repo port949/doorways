@@ -1,7 +1,7 @@
 ---
-title: Marble Countertops: Colors, Cost, and Care Guide
+title: "Marble Countertops: Colors, Cost, and Care Guide"
 date: 2018-11-28 00:40:27+00:00
-description: See what we discovered about the cost of marble countertops and care required.
+description: "See what we discovered about the cost of marble countertops and care required."
 slug: complete-guide-marble-countertops
 
 ---
