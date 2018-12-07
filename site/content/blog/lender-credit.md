@@ -1,17 +1,14 @@
 ---
-author: editor
-comments: false
-date: 2016-05-21 19:44:23+00:00
-layout: post
-link: http://www.doorwaysmagazine.com/lender-credit/
+title: Should You Use a Lender Credit for Closing Costs?
+date: 2018-10-21 19:44:23+00:00
 slug: lender-credit
-title: What is a Lender Credit?
-wordpress_id: 4911
-categories:
-- Home Buying
+description: "Thinking about using a lender credit for closing costs? You might want to think again."
+
 ---
 
-![lender credit explained](http://www.doorwaysmagazine.com/wp-content/uploads/lender_credit_explained-300x199.jpg)Thinking about using a **lender credit** for closing costs? You might want to think again. 
+![lender credit explained](https://www.doorwaysmagazine.com/wp-content/uploads/lender_credit_explained.jpg)
+
+Thinking about using a **lender credit** for closing costs? You might want to think again. 
 
 If you are deciding whether to pay points or not there are a few things you need to know first. This is one area where homeowners make mistakes without realizing it.
 
