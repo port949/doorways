@@ -1,19 +1,13 @@
 ---
-author: editor
-comments: false
-date: 2016-01-22 20:09:58+00:00
-excerpt: Want to learn how to install carpet? We asked the installation experts and
-  discovered the best way to tackle this job. See what tools you'll need and more.
-layout: post
-link: http://www.doorwaysmagazine.com/how-to-install-carpet/
+title: 'DIY Guide: How to Install Wall-to-Wall Carpet'
+date: 2018-11-22 20:09:58+00:00
+description: Want to learn how to install carpet? We asked the installation experts and discovered the best way to tackle this job. See what tools you'll need and more.
 slug: how-to-install-carpet
-title: 'DIY Guide: How to Install Carpet'
-wordpress_id: 1047
-categories:
-- Flooring
+
 ---
 
-[caption id="attachment_1050" align="aligncenter" width="950"]![contemporary living room with large windows](http://www.doorwaysmagazine.com/wp-content/uploads/contemporary_living_room_large_windows.jpg) Photo via [Michael Abraham Architecture](http://www.houzz.com/photos/2067760/County-Line-transitional-family-room-other-metro)[/caption]
+![contemporary living room with large windows](https://www.doorwaysmagazine.com/wp-content/uploads/contemporary_living_room_large_windows.jpg) 
+Photo via [Michael Abraham Architecture](http://www.houzz.com/photos/2067760/County-Line-transitional-family-room-other-metro)
 
 More and more people are bypassing the high costs of a paid contractor and going the do-it-yourself route.  Installing carpet yourself isn’t overly complicated. It just takes a bit of muscle and some preparation.  
 
