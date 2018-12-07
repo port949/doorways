@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2016-01-22 19:10:25+00:00
-excerpt: Inside discover what's included in log cabin kits and how much it costs to
-  build a log home. See what most modular home builders won't tell you.
-layout: post
-link: http://www.doorwaysmagazine.com/log-cabin-kits/
+title: "Log Cabin Kits: The Complete Buyer's Guide"
+date: 2018-11-22 19:10:25+00:00
+description: 'Inside discover what's included in log cabin kits and how much it costs to build a log home. See what most modular home builders won't tell you.'
 slug: log-cabin-kits
-title: The Complete Log Cabin Kit Buyer's Guide
-wordpress_id: 1180
-categories:
-- Home Design
+
 ---
 
-![log cabin with view](http://www.doorwaysmagazine.com/wp-content/uploads/log_cabin_with_view.jpg)
+![log cabin with view](https://www.doorwaysmagazine.com/wp-content/uploads/log_cabin_with_view.jpg)
 
 When I was growing up, it was my parents dream to live in a log home they built themselves. They wanted a big piece of property with a great view to call home. 
 
@@ -184,6 +177,4 @@ So, far I've given you a great place to start when shopping for log cabin kits o
 
 In the next few weeks, I'll be posting more tips and articles on log home design. If you want to know when these are published, be sure to sign up for my newsletter to get instant access.
 
-As always, if you have any questions feel free to connect with us on Facebook
-
-**Want to know when the next Log Home Master Class opens?** Click here to sign up now
+As always, if you have any questions feel free to connect with us on Facebook.
