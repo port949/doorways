@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2016-01-30 00:14:59+00:00
-excerpt: Use these kitchen layout ideas to WOW your friends and take all the credit.
-  Exclusive tips from expert designers to create your dream kitchen floor plans.
-layout: post
-link: http://www.doorwaysmagazine.com/kitchen-layout-design-ideas/
+title: 5 Inspiring Kitchen Layout Ideas for DIY Designers
+date: 2018-11-30 00:14:59+00:00
+description: Use these kitchen layout ideas to WOW your friends and take all the credit. Exclusive tips from expert designers to create your dream kitchen floor plans.
 slug: kitchen-layout-design-ideas
-title: 5 Kitchen Layout Ideas for Non Designers
-wordpress_id: 1728
-categories:
-- Kitchen Design
+
 ---
 
-![white kitchen cabinets black marble countertops](http://www.doorwaysmagazine.com/wp-content/uploads/white_kitchen_cabinets_black_marble_countertops.jpg)
+![white kitchen cabinets black marble countertops](https://www.doorwaysmagazine.com/wp-content/uploads/white_kitchen_cabinets_black_marble_countertops.jpg)
 
 Before you jump into a remodeling project it’s essential to start with a few simple kitchen layouts and guidelines. The worlds greatest architects and interior designers use these ideas to create stunning kitchens. 
 
@@ -88,20 +81,9 @@ In this configuration the kitchen does not have to deal with traffic problems th
 
 As kitchens have become the center of most homes today, they’re now being designed to meet multiple needs and functions. This had led to the open plan design.
 
-An open plan usually features a large standalone island that can be used for additional workspace and seating. Because these types of kitchens are larger than most, the work flow is also different. Keep this in mind if thinking about expanding your kitchen beyond its current layout. When dealing with an open plan the “Chef Samba” workflow must be extended to meet these needs. For example, you may need to consider having two work areas instead of just one. 
+An open plan usually features a large standalone island that can be used for additional workspace and seating. Because these types of kitchens are larger than most, the work flow is also different. Keep this in mind if thinking about expanding your kitchen beyond its current layout. 
 
+When dealing with an open plan the “Chef Samba” workflow must be extended to meet these needs. For example, you may need to consider having two work areas instead of just one. 
 
-
-## The Simple Way to Design Your Dream Kitchen
-
-
-
-If you’re like most of my clients, you are excited to design and build your dream kitchen. The process is both fun and rewarding. But, you might be starting to realize that there’s more than meets the eye when it comes to kitchen remodeling.
-
-From layouts and floor plans to materials and contractors. Frankly, there’s a lot to learn if you’re trying to design your kitchen on your own. 
-
-That’s why I’ve taken everything I know about kitchen remodeling and packaged it into a 6 week course on DIY kitchen design. It’s called [Dream Kitchen Academy](http://dreamkitchenacademy.com/).
-
-The only problem is that our growing community is missing your voice. [Click here to join now](http://dreamkitchenacademy.com/).
 
 **Do you have a friend that wants to remodel their kitchen? Share this article about kitchen layouts with them so they don’t make a costly design mistake.**
