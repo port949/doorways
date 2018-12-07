@@ -1,4 +1,5 @@
 # Redirect default Netlify subdomain to primary domain
+https://doorwaysmag.netlify.com/* https://www.doorwaysmagazine.com/:splat 301!
 http://doorwaysmagazine.com/* https://www.doorwaysmagazine.com/:splat 301!
 
 # Article URL Changes
@@ -14,7 +15,7 @@ http://doorwaysmagazine.com/* https://www.doorwaysmagazine.com/:splat 301!
 /exterior-paint-colors  /exterior-paint-color-ideas/  301
 
 # Affiliate Link Catchall
-/product/*  https://www.amazon.com/dp/:splat?tag=doorways-20  301
+/product/*  https://www.amazon.com/  301
 
 # Old Site Links
 /e107_plugins/forum/forum_viewforum.php  /  301
