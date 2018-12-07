@@ -9,12 +9,7 @@ slug: design-ideas-kitchen-islands-with-seating
 <div id="attachment_1741" style="width: 510px" class="wp-caption aligncenter"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_islands_with_seating.jpg" alt="kitchen islands with seating" width="500" height="334" class="size-full wp-image-1741" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_islands_with_seating.jpg 500w, https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_islands_with_seating-300x200.jpg 300w" sizes="(max-width: 500px) 100vw, 500px"><p class="wp-caption-text">Kitchen Islands with Seating – <a href="http://www.houzz.com/photos/567250/Fox-Run-13-contemporary-kitchen-denver" target="_blank" rel="nofollow">Photo</a></p></div>
 <p>Have you ever found yourself stuck in a crowded kitchen during a dinner party? Me too. </p>
 <p>The kitchen is like a magnet for lingering people and the hub for most social activities in our homes.</p>
-<p>How can you make the most of this space and accommodate your guests at the same time? </p><div class="doorw-middle-content" style="float: left; " id="doorw-123052445"><div class="advads-edit-bar advads-edit-appear">
-<a href="https://www.doorwaysmagazine.com/wp-admin/post.php?post=5855&amp;action=edit" class="advads-edit-button" title="300x250 Middle Content"><span class="dashicons dashicons-edit"></span></a>
-</div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px;" data-ad-client="ca-pub-8708113587991923" data-ad-slot="4498597582"></ins>
-<script> 
-(adsbygoogle = window.adsbygoogle || []).push({}); 
-</script></div><br style="clear: both; display: block; float: none;">
+<p>How can you make the most of this space and accommodate your guests at the same time? </p>
 <p><strong>Maybe it’s time to look at a few kitchen islands with seating.</strong></p>
 <p>Before you throw a few bar stools into your kitchen, there are a few design features you need to be aware of. </p>
 <p>First, islands need to have cantilevered countertops or an overhang to allow for a comfortable seating area.</p>
