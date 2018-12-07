@@ -1,228 +1,61 @@
 ---
-author: editor
-comments: false
-date: 2015-12-08 23:09:06+00:00
-excerpt: See our round up of the best rain chain designs before you look anywhere
-  else. This article also includes a bonus DIY installation video and tips.
-layout: post
-link: http://www.doorwaysmagazine.com/our-favorite-copper-rain-chains/
-slug: our-favorite-copper-rain-chains
 title: 10 Copper Rain Chain Ideas to Upgrade Your Downspouts
-wordpress_id: 629
-categories:
-- Landscaping
+date: 2018-11-08 23:09:06+00:00
+description: See our round up of the best rain chain designs before you look anywhere else. This article also includes a bonus DIY installation video and tips.
+slug: our-favorite-copper-rain-chains
+
 ---
 
-Tired of looking at your ugly downspouts? The good news is that I've rounded up 10 rain chains you'll love looking at every time it rains.
-
-[![copper rain chains pinterest](http://www.doorwaysmagazine.com/wp-content/uploads/copper_rain_chains_pinterest.jpg)](http://www.doorwaysmagazine.com/our-favorite-copper-rain-chains/2/)
-
-**Why are they so popular, anyway?** 
-
-Rain chains are decorative replacements for your ugly downspouts. Every time it rains you'll have a natural water feature hanging from your eaves. 
-
-Install them on your front patio, back porch or outside your kitchen window. 
-
-The best part is that they look great whether it's raining or not. You can order an entire matching set or mix and match to your heart's desire.
-
-**What do they do?**
-
-Instead of the rain from your gutters being sent down a standard aluminum downspout, it runs beautifully down the rain chain. Along the way it bounces and splashes against the chain or gets funneled through small copper cups. 
-
-**Want to install your own DIY rain chains? Here's what you'll need to get started:**
-
-<table >
-<tr >
-
-<td >[easyazon_link asin="B001LQWUSC" locale="US" tag="doorways-20"]![rain chain gutter adapter](http://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-150x150.jpg)[/easyazon_link]
-</td>
-
-<td >[easyazon_link asin="B001LNOQH8" locale="US" tag="doorways-20"]![copper hammer cup](http://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-150x150.jpg)[/easyazon_link]
-</td>
-
-<td >[easyazon_link asin="B001LNOQI2" locale="US" tag="doorways-20"]![anchor basin](http://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-150x150.jpg)[/easyazon_link]
-</td>
-</tr>
-<tr >
-
-<td >[easyazon_link asin="B001LQWUSC" locale="US" tag="doorways-20"]Gutter Adapter[/easyazon_link]
-</td>
-
-<td >[easyazon_link asin="B001LNOQH8" locale="US" tag="doorways-20"]Rain Chain[/easyazon_link]
-</td>
-
-<td >[easyazon_link asin="B001LNOQI2" locale="US" tag="doorways-20"]Anchoring Basin[/easyazon_link]
-</td>
-</tr>
-</table>
-
-_Note: If you are replacing downspouts that drain near the foundation of your house, you'll need a way to redirect the water down and away from this area. Standing water around your home can cause damage to the foundation or lead to other nasty problems (think rot and mildew)._
-
-I should also mention that most rain chains made of copper. Copper is unique because it develops a greenish blue patina as it is exposed to the elements. This is due to the metal reacting the the [oxidation process](https://en.wikipedia.org/wiki/Copper) - it's completely natural. 
-
-If you decide to order rain chains for your home they will look bright and shiny when you first install them. But don't get too attached to the shiny chain because their appearance will change over time.
-
-**Now that we've covered our bases, I present 10 copper rain chains you'll love...**
-
-
-
-
-
-### 1. Butterflies
-
-
-
-[easyazon_link asin="B002OSWW4I" locale="US" tag="doorways-20"]![copper butterfly rain chain](http://www.doorwaysmagazine.com/wp-content/uploads/copper_butterfly_rain_chain_800s.jpg)[/easyazon_link]
-
-
-
-
-
-### 2. Hammered Cup
-
-
-
-[easyazon_link asin="B001LNOQH8" locale="US" tag="doorways-20"]![copper hammer cup](http://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain.jpg)[/easyazon_link]
-
-
-
-
-
-### 3. Bell Shaped
-
-
-
-[easyazon_link asin="B000IG47C8" locale="US" tag="doorways-20"]![bell shaped rain chain](http://www.doorwaysmagazine.com/wp-content/uploads/bell_shaped_rain_chain.jpg)[/easyazon_link]
-
-
-
-
-
-### 4. Cascading Leaves
-
-
-
-[easyazon_link asin="B0063QEJAW" locale="US" tag="doorways-20"]![cascading leaves](http://www.doorwaysmagazine.com/wp-content/uploads/cascading_leaves_rain_chain.jpg)[/easyazon_link]
-
-
-
-
-
-### 5. Lotus
-
-
-
-[easyazon_link asin="B001UE7RJW" locale="US" tag="doorways-20"]![copper lotus](http://www.doorwaysmagazine.com/wp-content/uploads/copper_lotus_rain_chain.jpg)[/easyazon_link]
-
-
-
-
-
-### 6. Bamboo
-
-
-
-[easyazon_link asin="B001UE7RG0" locale="US" tag="doorways-20"]![copper bamboo rain chain](http://www.doorwaysmagazine.com/wp-content/uploads/copper_bamboo_rain_chain.jpg)[/easyazon_link]
-
-
-
-
-
-### 7. Mizoko
-
-
-
-[easyazon_link asin="B002AQT6UW" locale="US" tag="doorways-20"]![copper mizoko rain chain](http://www.doorwaysmagazine.com/wp-content/uploads/copper_mizoko_rain_chain.jpg)[/easyazon_link]
-
-
-
-
-
-### 8. Tulip Flower Blossom
-
-
-
-[easyazon_link asin="B000BTO60A" locale="US" tag="doorways-20"]![tulip flower rain chain](http://www.doorwaysmagazine.com/wp-content/uploads/tulip_flower_rain_chain.jpg)[/easyazon_link]
-
-
-
-
-
-### 9. Midori
-
-
-
-[easyazon_link asin="B0052K1AEI" locale="US" tag="doorways-20"]![copper midori rain chain](http://www.doorwaysmagazine.com/wp-content/uploads/copper_midori_rain_chain.jpg)[/easyazon_link]
-
-
-
-
-
-### 10. Eastern Style Hammered Cup
-
-
-
-[easyazon_link asin="B002OSWW4S" locale="US" tag="doorways-20"]![eastern hammered cup](http://www.doorwaysmagazine.com/wp-content/uploads/eastern_hammered_cup_rain_chain.jpg)[/easyazon_link]
-
-
-
-
-
-### (BONUS) 11. Sundrop
-
-
-
-[easyazon_link asin="B000BTQR3Y" locale="US" tag="doorways-20"]![sundrop](http://www.doorwaysmagazine.com/wp-content/uploads/sundrop_rain_chain.jpg)[/easyazon_link]
-
-
-
-
-
-### (BONUS) 12. Chain Link
-
-
-
-[easyazon_link asin="B002LE6U9I" locale="US" tag="doorways-20"]![chain link](http://www.doorwaysmagazine.com/wp-content/uploads/chain_link_rain_chain.jpg)[/easyazon_link]
-
-As you can see there are many different styles of rain chains available online. These were just a few of my top picks. 
-
-Now it's your turn. **Which one was your favorite? If you buy more than one, will you get a matching set or mix and match styles?**
-
-Also, don't forget to buy a [easyazon_link asin="B001LQWUSC" locale="US" tag="doorways-20"]Gutter Adapter[/easyazon_link] and [easyazon_link asin="B001LNOQI2" locale="US" tag="doorways-20"]Anchoring Basin[/easyazon_link] for each downspout. Good luck and let me know how they turn out.
-
-<table >
-<tr >
-
-<td >[easyazon_link asin="B001LQWUSC" locale="US" tag="doorways-20"]![rain chain gutter adapter](http://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-150x150.jpg)[/easyazon_link]
-</td>
-
-<td >[easyazon_link asin="B001LNOQH8" locale="US" tag="doorways-20"]![copper hammer cup](http://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-150x150.jpg)[/easyazon_link]
-</td>
-
-<td >[easyazon_link asin="B001LNOQI2" locale="US" tag="doorways-20"]![anchor basin](http://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-150x150.jpg)[/easyazon_link]
-</td>
-</tr>
-<tr >
-
-<td >[easyazon_link asin="B001LQWUSC" locale="US" tag="doorways-20"]Gutter Adapter[/easyazon_link]
-</td>
-
-<td >[easyazon_link asin="B001LNOQH8" locale="US" tag="doorways-20"]Rain Chain[/easyazon_link]
-</td>
-
-<td >[easyazon_link asin="B001LNOQI2" locale="US" tag="doorways-20"]Anchoring Basin[/easyazon_link]
-</td>
-</tr>
-</table>
-
-**See the next slide for a bonus installation video...**
-
-
-
-
-
-## Bonus Installation Video: How to Install a Rain Chain
-
-
-
-
+<p>Tired of looking at your ugly downspouts? The good news is that I’ve rounded up 10 rain chains you’ll love looking at every time it rains.</p>
+<p><a href="https://www.doorwaysmagazine.com/our-favorite-copper-rain-chains/2/"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/copper_rain_chains_pinterest.jpg" alt="copper rain chains pinterest" width="735" height="1102" class="aligncenter size-full wp-image-654" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/copper_rain_chains_pinterest.jpg 735w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_rain_chains_pinterest-510x765.jpg 510w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_rain_chains_pinterest-200x300.jpg 200w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_rain_chains_pinterest-683x1024.jpg 683w" sizes="(max-width: 735px) 100vw, 735px"></a></p>
+<p><strong>Why are they so popular, anyway?</strong> </p>
+<p>Rain chains are decorative replacements for your ugly downspouts. Every time it rains you’ll have a natural water feature hanging from your eaves. </p>
+<p>Install them on your front patio, back porch or outside your kitchen window. </p>
+<p>The best part is that they look great whether it’s raining or not. You can order an entire matching set or mix and match to your heart’s desire.</p>
+<p><strong>What do they do?</strong></p>
+<p>Instead of the rain from your gutters being sent down a standard aluminum downspout, it runs beautifully down the rain chain. Along the way it bounces and splashes against the chain or gets funneled through small copper cups. </p>
+<p><strong>Want to install your own DIY rain chains? Here’s what you’ll need to get started:</strong></p>
+<table><tr><td><a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001LQWUSC" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001LQWUSC/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-150x150.jpg" alt="rain chain gutter adapter" width="150" height="150" class="aligncenter size-thumbnail wp-image-646" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-320x320.jpg 320w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter.jpg 500w" sizes="(max-width: 150px) 100vw, 150px"></a></td>
+<td><a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001LNOQH8" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001LNOQH8/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-150x150.jpg" alt="copper hammer cup" width="150" height="150" class="aligncenter size-thumbnail wp-image-645" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-320x320.jpg 320w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain.jpg 500w" sizes="(max-width: 150px) 100vw, 150px"></a></td>
+<td><a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001LNOQI2" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001LNOQI2/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-150x150.jpg" alt="anchor basin" width="150" height="150" class="aligncenter size-thumbnail wp-image-644" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-320x320.jpg 320w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin.jpg 500w" sizes="(max-width: 150px) 100vw, 150px"></a></td>
+</tr><tr><td><a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001LQWUSC" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001LQWUSC/US/doorways-20/" rel="nofollow" target="_blank">Gutter Adapter</a></td>
+<td><a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001LNOQH8" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001LNOQH8/US/doorways-20/" rel="nofollow" target="_blank">Rain Chain</a></td>
+<td><a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001LNOQI2" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001LNOQI2/US/doorways-20/" rel="nofollow" target="_blank">Anchoring Basin</a></td>
+</tr></table><p><em>Note: If you are replacing downspouts that drain near the foundation of your house, you’ll need a way to redirect the water down and away from this area. Standing water around your home can cause damage to the foundation or lead to other nasty problems (think rot and mildew).</em></p>
+<p>I should also mention that most rain chains made of copper. Copper is unique because it develops a greenish blue patina as it is exposed to the elements. This is due to the metal reacting the the <a href="https://en.wikipedia.org/wiki/Copper" target="_blank">oxidation process</a> – it’s completely natural. </p>
+<p>If you decide to order rain chains for your home they will look bright and shiny when you first install them. But don’t get too attached to the shiny chain because their appearance will change over time.</p>
+<p><strong>Now that we’ve covered our bases, I present 10 copper rain chains you’ll love…</strong></p>
+<h3>1. Butterflies</h3>
+<a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B002OSWW4I" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B002OSWW4I/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/copper_butterfly_rain_chain_800s.jpg" alt="copper butterfly rain chain" width="800" height="800" class="aligncenter size-full wp-image-643" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/copper_butterfly_rain_chain_800s.jpg 800w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_butterfly_rain_chain_800s-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_butterfly_rain_chain_800s-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_butterfly_rain_chain_800s-510x510.jpg 510w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_butterfly_rain_chain_800s-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_butterfly_rain_chain_800s-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_butterfly_rain_chain_800s-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_butterfly_rain_chain_800s-320x320.jpg 320w" sizes="(max-width: 800px) 100vw, 800px"></a>
+<h3>2. Hammered Cup</h3>
+<a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001LNOQH8" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001LNOQH8/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain.jpg" alt="copper hammer cup" width="500" height="500" class="aligncenter size-full wp-image-645" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain.jpg 500w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-320x320.jpg 320w" sizes="(max-width: 500px) 100vw, 500px"></a>
+<h3>3. Bell Shaped</h3>
+<a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B000IG47C8" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B000IG47C8/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/bell_shaped_rain_chain.jpg" alt="bell shaped rain chain" width="500" height="500" class="aligncenter size-full wp-image-642" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/bell_shaped_rain_chain.jpg 500w, https://www.doorwaysmagazine.com/wp-content/uploads/bell_shaped_rain_chain-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/bell_shaped_rain_chain-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/bell_shaped_rain_chain-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/bell_shaped_rain_chain-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/bell_shaped_rain_chain-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/bell_shaped_rain_chain-320x320.jpg 320w" sizes="(max-width: 500px) 100vw, 500px"></a>
+<h3>4. Cascading Leaves</h3>
+<a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B0063QEJAW" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B0063QEJAW/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/cascading_leaves_rain_chain.jpg" alt="cascading leaves" width="500" height="500" class="aligncenter size-full wp-image-641" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/cascading_leaves_rain_chain.jpg 500w, https://www.doorwaysmagazine.com/wp-content/uploads/cascading_leaves_rain_chain-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/cascading_leaves_rain_chain-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/cascading_leaves_rain_chain-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/cascading_leaves_rain_chain-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/cascading_leaves_rain_chain-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/cascading_leaves_rain_chain-320x320.jpg 320w" sizes="(max-width: 500px) 100vw, 500px"></a>
+<h3>5. Lotus</h3>
+<a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001UE7RJW" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001UE7RJW/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/copper_lotus_rain_chain.jpg" alt="copper lotus" width="500" height="500" class="aligncenter size-full wp-image-640" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/copper_lotus_rain_chain.jpg 500w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_lotus_rain_chain-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_lotus_rain_chain-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_lotus_rain_chain-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_lotus_rain_chain-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_lotus_rain_chain-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_lotus_rain_chain-320x320.jpg 320w" sizes="(max-width: 500px) 100vw, 500px"></a>
+<h3>6. Bamboo</h3>
+<a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001UE7RG0" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001UE7RG0/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/copper_bamboo_rain_chain.jpg" alt="copper bamboo rain chain" width="500" height="500" class="aligncenter size-full wp-image-639" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/copper_bamboo_rain_chain.jpg 500w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_bamboo_rain_chain-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_bamboo_rain_chain-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_bamboo_rain_chain-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_bamboo_rain_chain-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_bamboo_rain_chain-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_bamboo_rain_chain-320x320.jpg 320w" sizes="(max-width: 500px) 100vw, 500px"></a>
+<h3>7. Mizoko</h3>
+<a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B002AQT6UW" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B002AQT6UW/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/copper_mizoko_rain_chain.jpg" alt="copper mizoko rain chain" width="500" height="500" class="aligncenter size-full wp-image-638" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/copper_mizoko_rain_chain.jpg 500w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_mizoko_rain_chain-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_mizoko_rain_chain-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_mizoko_rain_chain-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_mizoko_rain_chain-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_mizoko_rain_chain-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_mizoko_rain_chain-320x320.jpg 320w" sizes="(max-width: 500px) 100vw, 500px"></a>
+<h3>8. Tulip Flower Blossom</h3>
+<a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B000BTO60A" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B000BTO60A/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/tulip_flower_rain_chain.jpg" alt="tulip flower rain chain" width="500" height="500" class="aligncenter size-full wp-image-637" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/tulip_flower_rain_chain.jpg 500w, https://www.doorwaysmagazine.com/wp-content/uploads/tulip_flower_rain_chain-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/tulip_flower_rain_chain-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/tulip_flower_rain_chain-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/tulip_flower_rain_chain-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/tulip_flower_rain_chain-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/tulip_flower_rain_chain-320x320.jpg 320w" sizes="(max-width: 500px) 100vw, 500px"></a>
+<h3>9. Midori</h3>
+<a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B0052K1AEI" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B0052K1AEI/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/copper_midori_rain_chain.jpg" alt="copper midori rain chain" width="500" height="500" class="aligncenter size-full wp-image-636" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/copper_midori_rain_chain.jpg 500w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_midori_rain_chain-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_midori_rain_chain-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_midori_rain_chain-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_midori_rain_chain-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_midori_rain_chain-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_midori_rain_chain-320x320.jpg 320w" sizes="(max-width: 500px) 100vw, 500px"></a>
+<h3>10. Eastern Style Hammered Cup</h3>
+<a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B002OSWW4S" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B002OSWW4S/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/eastern_hammered_cup_rain_chain.jpg" alt="eastern hammered cup" width="500" height="500" class="aligncenter size-full wp-image-635" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/eastern_hammered_cup_rain_chain.jpg 500w, https://www.doorwaysmagazine.com/wp-content/uploads/eastern_hammered_cup_rain_chain-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/eastern_hammered_cup_rain_chain-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/eastern_hammered_cup_rain_chain-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/eastern_hammered_cup_rain_chain-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/eastern_hammered_cup_rain_chain-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/eastern_hammered_cup_rain_chain-320x320.jpg 320w" sizes="(max-width: 500px) 100vw, 500px"></a>
+<h3>(BONUS) 11. Sundrop</h3>
+<a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B000BTQR3Y" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B000BTQR3Y/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/sundrop_rain_chain.jpg" alt="sundrop" width="500" height="500" class="aligncenter size-full wp-image-634" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/sundrop_rain_chain.jpg 500w, https://www.doorwaysmagazine.com/wp-content/uploads/sundrop_rain_chain-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/sundrop_rain_chain-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/sundrop_rain_chain-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/sundrop_rain_chain-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/sundrop_rain_chain-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/sundrop_rain_chain-320x320.jpg 320w" sizes="(max-width: 500px) 100vw, 500px"></a>
+<h3>(BONUS) 12. Chain Link</h3>
+<a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B002LE6U9I" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B002LE6U9I/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/chain_link_rain_chain.jpg" alt="chain link" width="500" height="500" class="aligncenter size-full wp-image-633" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/chain_link_rain_chain.jpg 500w, https://www.doorwaysmagazine.com/wp-content/uploads/chain_link_rain_chain-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/chain_link_rain_chain-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/chain_link_rain_chain-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/chain_link_rain_chain-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/chain_link_rain_chain-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/chain_link_rain_chain-320x320.jpg 320w" sizes="(max-width: 500px) 100vw, 500px"></a>
+<p>As you can see there are many different styles of rain chains available online. These were just a few of my top picks. </p>
+<p>Now it’s your turn. <strong>Which one was your favorite? If you buy more than one, will you get a matching set or mix and match styles?</strong></p>
+<p>Also, don’t forget to buy a <a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001LQWUSC" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001LQWUSC/US/doorways-20/" rel="nofollow" target="_blank">Gutter Adapter</a> and <a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001LNOQI2" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001LNOQI2/US/doorways-20/" rel="nofollow" target="_blank">Anchoring Basin</a> for each downspout. Good luck and let me know how they turn out.</p>
+<table><tr><td><a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001LQWUSC" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001LQWUSC/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-150x150.jpg" alt="rain chain gutter adapter" width="150" height="150" class="aligncenter size-thumbnail wp-image-646" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter-320x320.jpg 320w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_gutter_adapter.jpg 500w" sizes="(max-width: 150px) 100vw, 150px"></a></td>
+<td><a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001LNOQH8" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001LNOQH8/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-150x150.jpg" alt="copper hammer cup" width="150" height="150" class="aligncenter size-thumbnail wp-image-645" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain-320x320.jpg 320w, https://www.doorwaysmagazine.com/wp-content/uploads/copper_hammer_cup_rain_chain.jpg 500w" sizes="(max-width: 150px) 100vw, 150px"></a></td>
+<td><a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001LNOQI2" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001LNOQI2/US/doorways-20/" rel="nofollow" target="_blank"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-150x150.jpg" alt="anchor basin" width="150" height="150" class="aligncenter size-thumbnail wp-image-644" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-150x150.jpg 150w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-400x400.jpg 400w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-100x100.jpg 100w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-300x300.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-160x160.jpg 160w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin-320x320.jpg 320w, https://www.doorwaysmagazine.com/wp-content/uploads/rain_chain_basin.jpg 500w" sizes="(max-width: 150px) 100vw, 150px"></a></td>
+</tr><tr><td><a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001LQWUSC" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001LQWUSC/US/doorways-20/" rel="nofollow" target="_blank">Gutter Adapter</a></td>
+<td><a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001LNOQH8" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001LNOQH8/US/doorways-20/" rel="nofollow" target="_blank">Rain Chain</a></td>
+<td><a class="easyazon-link" data-cart="n" data-cloak="y" data-identifier="B001LNOQI2" data-locale="US" data-localize="y" data-popups="n" data-tag="doorways-20" href="https://www.doorwaysmagazine.com/product/B001LNOQI2/US/doorways-20/" rel="nofollow" target="_blank">Anchoring Basin</a></td>
+</tr></table>
