@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2015-11-21 19:55:50+00:00
-excerpt: Learn how to install hardwood flooring in your home. Use these pro tips to
-  get a great looking result without paying a fortune. Avoid costly mistakes.
-layout: post
-link: http://www.doorwaysmagazine.com/install-hardwood-floors/
-slug: install-hardwood-floors
 title: How To Install Hardwood Floors the Easy Way
-wordpress_id: 484
-categories:
-- Flooring
+date: 2018-11-21 19:55:50+00:00
+description: Learn how to install hardwood flooring in your home. Use these pro tips to get a great looking result without paying a fortune. Avoid costly mistakes.
+slug: install-hardwood-floors
+
 ---
 
-![kitchen with dark cabinets and hardwood floors](http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_dark_cabinets_hardwood_floors.jpg)
+![kitchen with dark cabinets and hardwood floors](https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_dark_cabinets_hardwood_floors.jpg)
 
 If you’ve decided to install new hardwood floors by yourself, know that you aren’t trying to accomplish the impossible.  
 
