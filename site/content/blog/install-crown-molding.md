@@ -1,19 +1,13 @@
 ---
-author: editor
-comments: false
-date: 2015-11-25 19:41:45+00:00
-excerpt: Learn how to install crown molding here. Think installation it's too complicated?
-  Think again. Read this before you tackle a molding project in your home.
-layout: post
-link: http://www.doorwaysmagazine.com/install-crown-molding/
+title: How To Install Crown Molding: Step-by-Step Guide
+date: 2018-11-25 19:41:45+00:00
+description: Learn how to install crown molding here. Think installation it's too complicated? Think again. Read this before you tackle a molding project in your home.
 slug: install-crown-molding
-title: How To Install Crown Molding
-wordpress_id: 481
-categories:
-- Decorating Ideas
+
 ---
 
-[caption id="attachment_482" align="aligncenter" width="910"]![living room with crown molding](http://www.doorwaysmagazine.com/wp-content/uploads/living_room_crown_molding.jpg) Photo via [Sutton Suzuki Architects](http://www.houzz.com/photos/64771/Marina-Residence-contemporary-living-room-san-francisco)[/caption]
+![living room with crown molding](https://www.doorwaysmagazine.com/wp-content/uploads/living_room_crown_molding.jpg) 
+Photo via [Sutton Suzuki Architects](http://www.houzz.com/photos/64771/Marina-Residence-contemporary-living-room-san-francisco)
 
 New homes are often built without many of the details that imbue them with lasting charm.  Crown molding is one such feature.  You can save a lot of money by installing molding yourself, but many novice carpenters are hesitant. Getting it right requires some skill and patience.  
 
