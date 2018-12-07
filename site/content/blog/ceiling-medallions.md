@@ -9,12 +9,7 @@ slug: 25-decorative-ceiling-medallions
 <div id="attachment_980" style="width: 810px" class="wp-caption aligncenter"><img src="https://www.doorwaysmagazine.com/wp-content/uploads/classic_dining_room_ceiling_medallion.jpg" alt="classic dining room ceiling medallion" width="800" height="535" class="size-full wp-image-980" srcset="https://www.doorwaysmagazine.com/wp-content/uploads/classic_dining_room_ceiling_medallion.jpg 800w, https://www.doorwaysmagazine.com/wp-content/uploads/classic_dining_room_ceiling_medallion-510x341.jpg 510w, https://www.doorwaysmagazine.com/wp-content/uploads/classic_dining_room_ceiling_medallion-300x201.jpg 300w, https://www.doorwaysmagazine.com/wp-content/uploads/classic_dining_room_ceiling_medallion-768x514.jpg 768w" sizes="(max-width: 800px) 100vw, 800px"><p class="wp-caption-text">Photo via <a href="http://www.houzz.com/photos/2012177/Penthouse-Apartment-traditional-dining-room-new-york" target="_blank">In-Site Interior Design</a></p></div>
 <p>Want a dining room that looks like it belongs in Architectural Digest?</p>
 <p><strong>A ceiling medallion might be the answer.</strong></p>
-<p>For centuries, architects and interior designers have used medallions and decorative finishes on the ceiling as an integral part of their design. </p><div class="doorw-middle-content" style="float: left; " id="doorw-1910756555"><div class="advads-edit-bar advads-edit-appear">
-<a href="https://www.doorwaysmagazine.com/wp-admin/post.php?post=5855&amp;action=edit" class="advads-edit-button" title="300x250 Middle Content"><span class="dashicons dashicons-edit"></span></a>
-</div><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px;" data-ad-client="ca-pub-8708113587991923" data-ad-slot="4498597582"></ins>
-<script> 
-(adsbygoogle = window.adsbygoogle || []).push({}); 
-</script></div><br style="clear: both; display: block; float: none;">
+<p>For centuries, architects and interior designers have used medallions and decorative finishes on the ceiling as an integral part of their design. </p>
 <p>However, recently the ceiling has been forgotten by DIY decorators and even professional interior designers.</p>
 <p>Not only would designers during the Italian Renaissance decorate the ceiling, they would spend lavishly on the best painters they could find. </p>
 <p>Have you seen the Sistine Chapel? This is a great example of the effort that was put into designing this space we rarely think about any more.</p>
