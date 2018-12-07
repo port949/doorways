@@ -1,7 +1,7 @@
 ---
-title: Merillat Cabinet Reviews: Prices, Quality, and Complaints
+title: "Merillat Cabinet Reviews: Prices, Quality, and Complaints"
 date: 2018-11-17 23:49:10+00:00
-description: Read our Merillat cabinet review to get the facts about semi-custom kitchen cabinets. You'll discover why we think Merillat cabinets are the great for most people.
+description: "Read our Merillat cabinet review to get the facts about semi-custom kitchen cabinets. You'll discover why we think Merillat cabinets are the great for most people."
 slug: merillat-cabinet-reviews
 
 ---
