@@ -1,21 +1,13 @@
 ---
-author: editor
-comments: false
-date: 2017-01-02 19:22:55+00:00
-excerpt: 'How are you supposed to make ends meet while you wait up to 6 weeks to get
-  your tax refund check? Well, taxpayers were previously able to take advantage of
-  a Tax Refund Anticipation loan from an income tax preparation office. But not this
-  year. '
-layout: post
-link: http://www.doorwaysmagazine.com/refund-anticipation-loans/
-slug: refund-anticipation-loans
 title: 3 Tax Refund Anticipation Loan Alternatives
-wordpress_id: 13116
-categories:
-- Personal Finance
+date: 2018-09-02 19:22:55+00:00
+description: 'Taxpayers were previously able to take advantage of a Tax Refund Anticipation loan from an income tax preparation office. But not this year.'
+slug: refund-anticipation-loans
+
 ---
 
-[caption id="attachment_13117" align="alignright" width="300"]![tax refunds](http://www.doorwaysmagazine.com/wp-content/uploads/tax_refund_anticipation_loan-300x225.jpg) [Photo](http://www.flickr.com/photos/68751915@N05/6757821397/)[/caption]
+![tax refunds](https://www.doorwaysmagazine.com/wp-content/uploads/tax_refund_anticipation_loan.jpg) 
+[Photo](http://www.flickr.com/photos/68751915@N05/6757821397/)
 
 If you're hoping to get a Tax Refund Anticipation loan this year, think again.
 
