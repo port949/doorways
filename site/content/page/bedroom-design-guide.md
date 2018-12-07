@@ -2,9 +2,8 @@
 title: The Complete Bedroom Design Guide
 date: 2018-09-13T20:13:02.013Z
 slug: bedroom-design-guide
-description: >-
-  Whether you like your bedroom to be warm and cozy or clean and bright, I will
-  guide you through the bedroom design process step-by-step.
+description: Whether you like your bedroom to be warm and cozy or clean and bright, I will guide you through the bedroom design process step-by-step.
+
 ---
 Bedroom design is a very personal and intimate subject. As an experienced home designer, I can testify that no two bedrooms are alike.
 
@@ -48,7 +47,7 @@ However, the actual size of your bedroom should reflect the size of your bed. Yo
 
 
 
-<a href="http://www.doorwaysmagazine.com/average-bedroom-size/">Read More About Average Bedroom Sizes and Dimensions</a>
+<a href="https://www.doorwaysmagazine.com/average-bedroom-size/">Read More About Average Bedroom Sizes and Dimensions</a>
 
 
 
@@ -202,7 +201,7 @@ Learn more: <a href="https://www.doorwaysmagazine.com/popular-bedroom-paint-colo
 
 
 
-<img src="http://www.doorwaysmagazine.com/wp-content/uploads/walkin_closet_design_ideas.jpg" alt="walkin closet design ideas" width="800" height="533" class="aligncenter size-full wp-image-13937">
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/walkin_closet_design_ideas.jpg" alt="walkin closet design ideas" >
 
 
 
