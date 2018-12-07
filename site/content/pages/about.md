@@ -66,7 +66,9 @@ With degrees in both design and construction from a top 10 architecture school i
 
 
 
-\[caption id="attachment_13472" align="alignright" width="300"]<img src="http://www.doorwaysmagazine.com/wp-content/uploads/particular_skills-300x180.jpg" alt="" width="300" height="180" class="size-medium wp-image-13472"> (h/t <a href="https://www.youtube.com/watch?v=jZOywn1qArI" target="_blank">Taken</a>)\[/caption]<em>Very particular set of skills.</em> 
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/particular_skills-300x180.jpg" alt="Taken" >
+
+<em>Very particular set of skills.</em> 
 
 
 
