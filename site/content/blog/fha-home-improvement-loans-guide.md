@@ -1,12 +1,12 @@
 ---
-title: FHA Home Improvement Loans Guide
-date: 2018-09-13T19:50:08.576Z
+title: FHA Home Improvement Loan Requirements Explained
+date: 2018-01-13T19:50:08.576Z
 slug: fha-home-improvement-loans
-description: >-
-  FHA home improvement loans provide funding in order to "protect or improve the
-  basic livability of the property." See all the requirements here.
+description: FHA home improvement loans provide funding in order to "protect or improve the basic livability of the property." See all the requirements here.
+
 ---
-<img src="http://www.doorwaysmagazine.com/wp-content/uploads/home_loans_photo-300x283.jpg" alt="home loans photo" width="300" height="283" class="alignright size-medium wp-image-13132" /><p>The Federal Housing Administration offers home improvement loans to borrowers that meet certain criteria.</p> 
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/home_loans_photo.jpg" alt="home loans photo" />
+<p>The Federal Housing Administration offers home improvement loans to borrowers that meet certain criteria.</p> 
 
 
 
