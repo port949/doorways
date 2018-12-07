@@ -2,12 +2,11 @@
 title: The Complete Kitchen Design and Remodeling Guide
 date: 2018-09-13T20:33:48.346Z
 slug: kitchen-remodeling-guide
-description: >-
-  Dreaming about a kitchen remodel? Use this step-by-step guide on kitchen
-  design. We'll show you where to find affordable materials and stay under
-  budget.
+description: Dreaming about a kitchen remodel? Use this step-by-step guide on kitchen design. We'll show you where to find affordable materials and stay under budget.
 ---
-<img src="http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_remodel_white_cabinets-300x200.jpg" alt="" width="300" height="200" class="alignright size-medium wp-image-12985">Think it might be fun to tackle a kitchen remodel? Well, you are in the right place!
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_remodel_white_cabinets-300x200.jpg" alt="" >
+
+Think it might be fun to tackle a kitchen remodel? Well, you are in the right place!
 
 
 
@@ -39,7 +38,7 @@ Don't worry, it won't be that difficult if you follow our tips. In fact, it migh
 
 
 
-<img src="http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_remodeling_guide.jpg" alt="kitchen remodeling guide" width="800" height="1199" class="aligncenter size-full wp-image-12984">
+<img src="https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_remodeling_guide.jpg" alt="kitchen remodeling guide" width="800" height="1199" class="aligncenter size-full wp-image-12984">
 
 
 
