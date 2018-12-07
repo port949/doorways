@@ -1,7 +1,7 @@
 ---
 title: "Log Cabin Kits: The Complete Buyer's Guide"
 date: 2018-11-22 19:10:25+00:00
-description: 'Inside discover what's included in log cabin kits and how much it costs to build a log home. See what most modular home builders won't tell you.'
+description: "Inside discover what's included in log cabin kits and how much it costs to build a log home. See what most modular home builders won't tell you."
 slug: log-cabin-kits
 
 ---
