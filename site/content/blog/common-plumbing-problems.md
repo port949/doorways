@@ -1,16 +1,9 @@
 ---
-author: editor
-comments: false
-date: 2017-01-17 23:23:07+00:00
-excerpt: Pipes break. Drains clog. Plumbing problems are inevitable at home and around
-  the office. What are the most common plumbing problems you've encountered?
-layout: post
-link: http://www.doorwaysmagazine.com/common-plumbing-problems/
+title: 5 Surprisingly Common Plumbing Problems and Solutions
+date: 2018-10-17 23:23:07+00:00
+description: Pipes break. Drains clog. Plumbing problems are inevitable at home and around the office. What are the most common plumbing problems you've encountered?
 slug: common-plumbing-problems
-title: 5 Surprisingly Common Plumbing Problems
-wordpress_id: 12221
-categories:
-- Plumbing
+
 ---
 
 Pipes break. Drains clog. Plumbing problems are inevitable at home and around the office.
