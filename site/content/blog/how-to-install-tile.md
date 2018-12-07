@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2015-11-05 23:41:51+00:00
-excerpt: Ready to install tile in your kitchen or bathroom? Learn how to complete
-  this project in one weekend with the right tools and installation tips from pros.
-layout: post
-link: http://www.doorwaysmagazine.com/how-to-install-tile/
+title: 'How to Install Tile in Your Kitchen or Bathroom: We Did It and You Can Too!'
+date: 2018-11-05 23:41:51+00:00
+description: Ready to install tile in your kitchen or bathroom? Learn how to complete this project in one weekend with the right tools and installation tips from pros.
 slug: how-to-install-tile
-title: 'How to Install Tile: We Did It and You Can Too!'
-wordpress_id: 185
-categories:
-- Bathroom Design
+
 ---
 
-![tile installation guide](http://www.doorwaysmagazine.com/wp-content/uploads/tile_installation_guide.jpg)
+![tile installation guide](https://www.doorwaysmagazine.com/wp-content/uploads/tile_installation_guide.jpg)
 
 As with any project, there is a little prep work needed before you can install tile in your home. Good planning is essential when laying tile. Use water-resistant backer board and have a clean subfloor---a floor that is level, free of bumps and completely plumb.  
 
