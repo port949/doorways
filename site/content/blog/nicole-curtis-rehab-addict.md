@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2016-01-29 23:42:21+00:00
-excerpt: Fans of Rehab Addict on the DIY Network hosted by Nicole Curtis, know she's
-  full of remodeling wisdom. Here are my top 5 favorite renovation tips.
-layout: post
-link: http://www.doorwaysmagazine.com/nicole-curtis-rehab-addict/
-slug: nicole-curtis-rehab-addict
 title: What Rehab Addict, Nicole Curtis, Taught Me About Remodeling
-wordpress_id: 1712
-categories:
-- Remodeling
+date: 2018-10-29 23:42:21+00:00
+excerpt: Fans of Rehab Addict on the DIY Network hosted by Nicole Curtis, know she's full of remodeling wisdom. Here are my top 5 favorite renovation tips.
+slug: nicole-curtis-rehab-addict
+
 ---
 
-![nicole_curtis_quote_06](http://www.doorwaysmagazine.com/wp-content/uploads/nicole_curtis_quote_06.png)
+![nicole_curtis_quote_06](https://www.doorwaysmagazine.com/wp-content/uploads/nicole_curtis_quote_06.png)
 
 If you've ever watched Rehab Addict on the DIY Network hosted by Nicole Curtis, you'll know she's full of remodeling wisdom. Over the past few years she has made a name for herself by restoring old homes to their former glory. 
 
@@ -27,7 +20,7 @@ Below are my top home remodeling tips from Rehab Addict, Nicole Curtis. Don't fo
 
 
 
-![nicole_curtis_quote_01](http://www.doorwaysmagazine.com/wp-content/uploads/nicole_curtis_quote_01.png)
+![nicole_curtis_quote_01](https://www.doorwaysmagazine.com/wp-content/uploads/nicole_curtis_quote_01.png)
 
 Taking on a major home renovation can be an overwhelming and even stressful process. You'd think a pro like Nicole would only get excited about finishing big projects now that she has so much experience under her belt, but that's not the case. Her advice to DIY homeowners is to celebrate their progress each step of the way.
 
@@ -47,9 +40,9 @@ I love this tip because it applies to both novice and expert home remodelers. Ev
 
 
 
-![nicole_curtis_quote_02](http://www.doorwaysmagazine.com/wp-content/uploads/nicole_curtis_quote_02.png)
+![nicole_curtis_quote_02](https://www.doorwaysmagazine.com/wp-content/uploads/nicole_curtis_quote_02.png)
 
-It is no secret that we are living in one of the most energy conscious periods of our lifetimes. While this new enthusiasm for efficiency is great for our future, it's created a new set of problems. More specifically, its created huge opportunities for new businesses to sell you replacement windows, [low-flow faucets](http://www.doorwaysmagazine.com/best-kitchen-faucets/) and energy efficient appliances.
+It is no secret that we are living in one of the most energy conscious periods of our lifetimes. While this new enthusiasm for efficiency is great for our future, it's created a new set of problems. More specifically, its created huge opportunities for new businesses to sell you replacement windows, low-flow faucets and energy efficient appliances.
 
 However, Nicole Curtis has a different perspective on conserving energy. In a recent interview she said:
 
@@ -69,7 +62,7 @@ Instead, she suggests giving the windows in your home a little TLC to bring them
 
 
 
-![nicole_curtis_quote_03](http://www.doorwaysmagazine.com/wp-content/uploads/nicole_curtis_quote_03.png)
+![nicole_curtis_quote_03](https://www.doorwaysmagazine.com/wp-content/uploads/nicole_curtis_quote_03.png)
 
 Unlike other home improvement shows on TV, Nicole Curtis focuses exclusively on old homes. It has become her mission to save these historical landmarks that would otherwise be torn down to build cheap _McMansions_.
 
@@ -91,7 +84,7 @@ Lately, everyone has been talking about open concept floor plans. She firmly bel
 
 
 
-![nicole_curtis_quote_04](http://www.doorwaysmagazine.com/wp-content/uploads/nicole_curtis_quote_04.png)
+![nicole_curtis_quote_04](https://www.doorwaysmagazine.com/wp-content/uploads/nicole_curtis_quote_04.png)
 
 I constantly get emails from my readers asking about the average remodeling costs so they can budget accordingly. Unfortunately, average costs vary greatly and this can scare off many ambitious homeowners from remodeling their home.
 
@@ -111,7 +104,7 @@ Nicole believes there are more budget friendly ways to update your home.
 
 
 
-![nicole_curtis_quote_05](http://www.doorwaysmagazine.com/wp-content/uploads/nicole_curtis_quote_05.png)
+![nicole_curtis_quote_05](https://www.doorwaysmagazine.com/wp-content/uploads/nicole_curtis_quote_05.png)
 
 While I was in architecture school there was one design philosophy that surfaced in every project I worked on: **constraints were what made great design**. 
 
