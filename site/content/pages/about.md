@@ -3,9 +3,8 @@ title: About
 date: 2018-09-13T18:46:05.762Z
 slug: about
 description: >-
-  Going through the remodeling process alone could cost you thousands in
-  expensive mistakes and put your home at risk. I don't want to let that happen
-  to you.
+  Going through the remodeling process alone could cost you thousands in expensive mistakes and put your home at risk. I don't want to let that happen to you.
+  
 ---
 Are you a homeowner or thinking about buying a house?
 
