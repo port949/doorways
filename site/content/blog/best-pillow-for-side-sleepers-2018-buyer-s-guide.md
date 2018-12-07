@@ -1,11 +1,9 @@
 ---
-title: Best Pillow for Side Sleepers - 2018 Buyer's Guide
+title: "Best Pillow for Side Sleepers - 2019 Buyer's Guide"
 date: 2018-09-13T18:54:13.694Z
 slug: best-pillow-side-sleepers
-description: >-
-  What is the best pillow for side sleepers? We reviewed a dozen pillows
-  designed for people that sleep on their side with natural and foam
-  materials...
+description: >- "What is the best pillow for side sleepers? We reviewed a dozen pillows designed for people that sleep on their side with natural and foam materials."
+
 ---
 If you are a side sleeper, not just any pillow will do. In fact, if you use a pillow that does not have enough support for your head you could end up serious neck and back pain.
 
