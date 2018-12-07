@@ -1,19 +1,13 @@
 ---
-author: editor
-comments: false
-date: 2016-01-29 23:50:53+00:00
-excerpt: Painting your kitchen cabinets white is an easy way to transform your kitchen
-  without spending a fortune. But, before you start painting read this first!
-layout: post
-link: http://www.doorwaysmagazine.com/painting-kitchen-cabinets-white/
+title: Painting Kitchen Cabinets White Step-by-Step
+date: 2018-10-29 23:50:53+00:00
+description: Painting your kitchen cabinets white is an easy way to transform your kitchen without spending a fortune. But, before you start painting read this first!
 slug: painting-kitchen-cabinets-white
-title: Before Painting Kitchen Cabinets White Read This
-wordpress_id: 1723
-categories:
-- Kitchen Cabinets
+
 ---
 
-[caption id="attachment_1724" align="aligncenter" width="500"]![Painting kitchen cabinets white](http://www.doorwaysmagazine.com/wp-content/uploads/kitchen_paint_colors_white_cabinets_01.jpg) Yes, your cabinets can look like this – [Photo](http://www.houzz.com/photos/210661/Casa-Verde-Design-traditional-kitchen-minneapolis)[/caption]
+![Painting kitchen cabinets white](https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_paint_colors_white_cabinets_01.jpg) 
+Yes, your cabinets can look like this – [Photo](http://www.houzz.com/photos/210661/Casa-Verde-Design-traditional-kitchen-minneapolis)
 
 Painting your kitchen cabinets white is an easy way to transform your kitchen without spending a fortune. But, before you start painting your cabinets there are a few things you need to know.
 
@@ -33,7 +27,7 @@ One of the most common kitchen remodeling projects my clients like to take on is
 
 Why is white one of the most popular cabinet colors? Because it’s both contemporary and timeless at the same time. A coat of white paint can transform a dated and dull kitchen into a bright and energetic space to cook. 
 
-[See more timeless kitchen cabinet colors here](http://www.doorwaysmagazine.com/kitchen-cabinet-colors/)
+[See more timeless kitchen cabinet colors here](https://www.doorwaysmagazine.com/kitchen-cabinet-colors/)
 
 
 
