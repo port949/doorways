@@ -1,7 +1,7 @@
 ---
-title: 'A Craigslist Scammer Has My Address: Should I Be Worried?'
+title: "A Craigslist Scammer Has My Address: Should I Be Worried?"
 date: 2018-06-21 21:12:44+00:00
-description: 'Last week I received an email from a reader with the subject line: "a Craigslist scammer has my address - should I be worried?" Here's my response...'
+description: "Last week I received an email from a reader with the subject line: a Craigslist scammer has my address - should I be worried? Here's my response..."
 slug: craigslist-scammer-has-my-address
 
 ---
