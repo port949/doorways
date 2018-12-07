@@ -6,7 +6,7 @@ slug: diamond-cabinets
 
 ---
 
-![diamond cabinets review](http://www.doorwaysmagazine.com/wp-content/uploads/diamond_cabinets_review.jpg) Photo via Diamond Cabinets Catalog
+![diamond cabinets review](https://www.doorwaysmagazine.com/wp-content/uploads/diamond_cabinets_review.jpg) Photo via Diamond Cabinets Catalog
 
 Diamond Cabinets draws customers with its designer-inspired finishes, top-notch durability, and award winning storage and organization solutions. 
 
