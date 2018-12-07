@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2016-01-28 00:22:36+00:00
-excerpt: For those who wish to remodel without shelling out too much cash, Ikea cabinets
-  are a great option. See what we discovered about IKEA Kitchen cabinets.
-layout: post
-link: http://www.doorwaysmagazine.com/ikea-cabinets/
+title: 'IKEA Cabinets Review: Great Value or Just Cheap?'
+date: 2018-01-28 00:22:36+00:00
+description: For those who wish to remodel without shelling out too much cash, Ikea cabinets are a great option. See what we discovered about IKEA Kitchen cabinets.
 slug: ikea-cabinets
-title: 'IKEA Cabinets: Great Value or Just Cheap?'
-wordpress_id: 546
-categories:
-- Kitchen Design
+
 ---
 
-![ikea cabinets review](http://www.doorwaysmagazine.com/wp-content/uploads/ikea_cabinets_review.jpg)
+![ikea cabinets review](https://www.doorwaysmagazine.com/wp-content/uploads/ikea_cabinets_review.jpg)
 
 IKEA is one of the world’s largest furniture retailers specializing in ready to assemble furniture and home accessories. The company's aim is to provide affordable solutions for better living. Their affordable cabinet prices attract many customers, making it a popular destination for home-remodel shopping.
 
