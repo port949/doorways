@@ -6,7 +6,8 @@ slug: property-brothers
 
 ---
 
-![property brothers](https://www.doorwaysmagazine.com/wp-content/uploads/property_brothers-300x300.jpg) Property Brothers, Drew and Jonathan Scott via [HGTV](http://www.hgtv.com/decorating-basics/room-transformations-from-the-property-brothers/pictures/index.html)
+![property brothers](https://www.doorwaysmagazine.com/wp-content/uploads/property_brothers-300x300.jpg) 
+Property Brothers, Drew and Jonathan Scott via [HGTV](http://www.hgtv.com/decorating-basics/room-transformations-from-the-property-brothers/pictures/index.html)
 
 **The Property Brothers**, Drew and Jonathan Scott, are known for taking extreme fixer-uppers and turning them into the ultimate dream home. 
 
@@ -26,7 +27,8 @@ The key to turning an average house into your dream home is using creativity and
 
 The Property Brothers are known for using 3D renderings to show homeowners their remodeling plans. Although homeowners might not be able to use high-tech tools to plan and design their improvement projects, there are options available.
 
-![property brothers bathroom remodel](http://www.doorwaysmagazine.com/wp-content/uploads/property_brothers_bathroom_after.jpg) New Terrazzo tile floors and a custom vanity with his & hers sinks via [HGTV](http://www.hgtv.com/decorating-basics/room-transformations-from-the-property-brothers/pictures/index.html)
+![property brothers bathroom remodel](http://www.doorwaysmagazine.com/wp-content/uploads/property_brothers_bathroom_after.jpg) 
+New Terrazzo tile floors and a custom vanity with his & hers sinks via [HGTV](http://www.hgtv.com/decorating-basics/room-transformations-from-the-property-brothers/pictures/index.html)
 
 A short consultation with an interior designer or architect may produce a new perspective on your renovation project. A local designer may be able to provide some basic renderings at a low cost, too. Not only will you get professional advice, but you may end up rethinking your design strategy all together.
 
@@ -38,7 +40,8 @@ For DIY designers looking to not spend a fortune on professional help there are 
 
 
 
-![property brothers kitchen remodel](https://www.doorwaysmagazine.com/wp-content/uploads/property_brothers_kitchen_after_02.jpg) Property Brothers Kitchen Renovation via [HGTV](http://www.hgtv.com/decorating-basics/room-transformations-from-the-property-brothers/pictures/index.html)
+![property brothers kitchen remodel](https://www.doorwaysmagazine.com/wp-content/uploads/property_brothers_kitchen_after_02.jpg) 
+Property Brothers Kitchen Renovation via [HGTV](http://www.hgtv.com/decorating-basics/room-transformations-from-the-property-brothers/pictures/index.html)
 
 Even though the Property Brothers are famous for taking extreme fixer-uppers and turning them into beautiful homes, they warn that you shouldn’t over renovate. Undertaking a major renovation project can be costly. 
 
@@ -60,7 +63,8 @@ Make smart decisions when starting a remodeling project by looking at popular ho
 
 
 
-![Property Brothers Living Room Renovation](https://www.doorwaysmagazine.com/wp-content/uploads/property_brothers_living_after.jpg) Property Brothers Living Room Renovation via [HGTV](http://www.hgtv.com/decorating-basics/room-transformations-from-the-property-brothers/pictures/index.html)
+![Property Brothers Living Room Renovation](https://www.doorwaysmagazine.com/wp-content/uploads/property_brothers_living_after.jpg) 
+Property Brothers Living Room Renovation via [HGTV](http://www.hgtv.com/decorating-basics/room-transformations-from-the-property-brothers/pictures/index.html)
 
 The DIY home improvement movement has exploded in recent years. Thanks to an abundance of design websites, TV shows and magazines everyone seems to be an expert. 
 
@@ -84,7 +88,8 @@ But, the help of a professional will usually provide long-term value and save yo
 
 
 
-![Property Brothers Kitchen Renovation](https://www.doorwaysmagazine.com/wp-content/uploads/property_brothers_kitchen_after.jpg) Property Brothers Kitchen Renovation via [HGTV](http://www.hgtv.com/decorating-basics/room-transformations-from-the-property-brothers/pictures/index.html)
+![Property Brothers Kitchen Renovation](https://www.doorwaysmagazine.com/wp-content/uploads/property_brothers_kitchen_after.jpg) 
+Property Brothers Kitchen Renovation via [HGTV](http://www.hgtv.com/decorating-basics/room-transformations-from-the-property-brothers/pictures/index.html)
 
 Not all contractors are created equal. Especially when you’re looking at local contractors there is often a wide range of quality available. Your neighbors may have recommendations for a great contractor or horror stories from a remodel gone wrong. Use these opinions to narrow down your choices but make sure you get multiple estimates before moving forward.
 
