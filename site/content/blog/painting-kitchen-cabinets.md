@@ -1,19 +1,12 @@
 ---
-author: editor
-comments: false
-date: 2016-01-28 01:56:26+00:00
-excerpt: Want a kitchen makeover without spending a fortune? In this guide I’ll show
-  you how to paint kitchen cabinets on a budget.
-layout: post
-link: http://www.doorwaysmagazine.com/painting-kitchen-cabinets/
+title: How to Paint Kitchen Cabinets Step-by-Step
+date: 2018-11-28 01:56:26+00:00
+description: Want a kitchen makeover without spending a fortune? In this guide I’ll show you how to paint kitchen cabinets on a budget.
 slug: painting-kitchen-cabinets
-title: Step-by-Step Guide on How to Paint Kitchen Cabinets
-wordpress_id: 1143
-categories:
-- Kitchen Design
+
 ---
 
-![painting kitchen cabinets guide](http://www.doorwaysmagazine.com/wp-content/uploads/painting_kitchen_cabinets_guide.jpg)
+![painting kitchen cabinets guide](https://www.doorwaysmagazine.com/wp-content/uploads/painting_kitchen_cabinets_guide.jpg)
 
 Want a kitchen makeover without spending a fortune? In this guide I’ll show you how to paint kitchen cabinets on a budget.
 
@@ -206,5 +199,3 @@ Want to keep your cabinets looking great for years to come? Make sure you wipe t
 This is a quick overview of how to paint kitchen cabinets over a few weekends. Obviously, everyone will face different challenges while painting their cabinets. If you have specific questions, feel free to reach out on Facebook.
 
 Don't forget to download my free shopping list before you head to the home improvement store.
-
-#
