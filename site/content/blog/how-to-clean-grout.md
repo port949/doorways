@@ -88,7 +88,7 @@ I would recommend starting with only one section at a time to avoid overwhelm an
 
 
 
-[![doterra clove oil](https://www.doorwaysmagazine.com/wp-content/uploads/doterra_clove_oil-300x300.jpg)
+![doterra clove oil](https://www.doorwaysmagazine.com/wp-content/uploads/doterra_clove_oil-300x300.jpg)
 
 Looking for a natural alternative to baking soda or bleach? Why not try Clove oil.
 
