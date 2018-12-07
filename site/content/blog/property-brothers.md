@@ -27,7 +27,7 @@ The key to turning an average house into your dream home is using creativity and
 
 The Property Brothers are known for using 3D renderings to show homeowners their remodeling plans. Although homeowners might not be able to use high-tech tools to plan and design their improvement projects, there are options available.
 
-![property brothers bathroom remodel](http://www.doorwaysmagazine.com/wp-content/uploads/property_brothers_bathroom_after.jpg) 
+![property brothers bathroom remodel](https://www.doorwaysmagazine.com/wp-content/uploads/property_brothers_bathroom_after.jpg) 
 New Terrazzo tile floors and a custom vanity with his & hers sinks via [HGTV](http://www.hgtv.com/decorating-basics/room-transformations-from-the-property-brothers/pictures/index.html)
 
 A short consultation with an interior designer or architect may produce a new perspective on your renovation project. A local designer may be able to provide some basic renderings at a low cost, too. Not only will you get professional advice, but you may end up rethinking your design strategy all together.
