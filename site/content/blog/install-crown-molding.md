@@ -1,7 +1,7 @@
 ---
-title: How To Install Crown Molding: Step-by-Step Guide
+title: "How To Install Crown Molding: Step-by-Step Guide"
 date: 2018-11-25 19:41:45+00:00
-description: Learn how to install crown molding here. Think installation it's too complicated? Think again. Read this before you tackle a molding project in your home.
+description: "Learn how to install crown molding here. Think installation it's too complicated? Think again. Read this before you tackle a molding project in your home."
 slug: install-crown-molding
 
 ---
