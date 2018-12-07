@@ -7,7 +7,7 @@ slug: 61-classic-house-names
 
 ---
 
-![Suburban House](http://www.doorwaysmagazine.com/wp-content/uploads/suburban_house-300x225.jpg)
+![Suburban House](http://www.doorwaysmagazine.com/wp-content/uploads/suburban_house.jpg)
 
 **Trying to decide on the perfect name for your new home? No worries, we rounded up 61 of the best house names to help you get started.**
 
