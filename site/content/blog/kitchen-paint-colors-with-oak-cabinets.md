@@ -7,7 +7,7 @@ slug: kitchen-paint-colors-with-oak-cabinets
 ---
 
 ![Benjamin Moore Hancock Green](https://www.doorwaysmagazine.com/wp-content/uploads/kitchen_paint_colors_with_oak_cabinets_02.jpg) 
-Wall Color: Benjamin Moore Hancock Green HC-117 [Photo](http://www.houzz.com/photos/46086/Overall-traditional-kitchen-chicago)[/caption]
+Wall Color: Benjamin Moore Hancock Green HC-117 [Photo](http://www.houzz.com/photos/46086/Overall-traditional-kitchen-chicago)
 
 If you’re just starting your kitchen remodeling journey - congrats! This is going to be a fun adventure and I’m glad you’ve made it this far. 
 
