@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.doorwaysmagazin.com/"
 languageCode = "en-us"
 title = "Doorways Magazine"
 [permalinks]
