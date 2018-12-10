@@ -5,3 +5,7 @@ title = "Doorways Magazine"
   post = "/:slug/"
   blog = "/:slug/"
   pages = "/:slug/"
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
