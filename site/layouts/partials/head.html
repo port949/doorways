@@ -1,8 +1,10 @@
 <head>
 
 	<title>{{ .Title }} | Doorways Magazine</title>
-	<link rel="stylesheet" href="/css/main.css" />
-
+	<!-- Open Graph -->
+	<meta property="og:site_name" content="Doorways Magazine" />
+	{{ template "_internal/opengraph.html" . }}
+	
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,9 +20,8 @@
 	<meta name="msapplication-TileColor" content="#603cba">
 	<meta name="theme-color" content="#ffffff">
 	
-	<!-- Open Graph -->
-	<meta property="og:site_name" content="Doorways Magazine" />
-	{{ template "_internal/opengraph.html" . }}
+	<!-- Critical Path CSS -->
+	{{ partial "critical-css" . }}
 	
 	<!-- DNS Prefetch -->
 	<link rel="dns-prefetch" href="//www.googletagmanager.com">
