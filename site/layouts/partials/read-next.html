@@ -1,34 +1,22 @@
-<div class="mw7 center">
-<span class="f3 b tc">Read Next</span>
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
-
-	  {{if .PrevInSection}}{{.PrevInSection.Permalink}}{{end}}
-	  {{if .NextInSection}}{{.NextInSection.Permalink}}{{end}}
-	  
-{{ if .PrevInSection }}
-	  <li>
-          <div class="w-50-ns ph1-ns flex">
-            <a href="{{ .Permalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
-	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
-
-	<p class="mb0">{{ .Description }}</p>
-	<p class="link b dib black mb0">Read more →</p>
+ <nav class="end-nav side-padding">
+      {{ with .PrevInSection }}
+      <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)" 
+  href="{{ .Permalink }}" class="card blog-card" rel="bookmark" >
+    {{ if isset .Params "featuredimage" }}
+    <div class="card-img-container">
+      <p class="card-img-overlay">Next Article</p>
+      <img src="{{.Params.featuredimage | absURL }}" class="card-img">
+    </div>
+    {{ end }}
+  <article class="card-body">
+    <h2 class="card-title">{{ .Title }}</h2>
+    <p class="card-text">{{ if (isset .Params "description") }}{{ index .Params "description" }}{{ else }}{{ .Summary }}{{ end }}</p>
+    <div class="card-subtext muted-text">
+      
+      
+    </div>
+  </article>
 </a>
-          </div>
-		  </li>
-{{ end }}
-{{ if .NextInSection }}
-	  <li>
-<div class="w-50-ns ph1-ns flex">
-            <a href="{{ .Permalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
-	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
-	
-	<p class="mb0">{{ .Description }}</p>
-	<p class="link b dib black mb0">Read more →</p>
-</a>
-          </div>
-		  </li>
       {{ end }}
-  </ul>
- 
-</div>
+     
+    </nav>
