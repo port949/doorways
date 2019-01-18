@@ -7,13 +7,17 @@
         </div>
     <div class="mw6 center ph3 pv2">
     <div class="flex justify-between grey-3">
+      
+      <p>by <a href="https://www.doorwaysmagazine.com/about/" class="grey-3" target="_blank">Joanna Stewart</a></p>
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-      <p>Read in {{ .ReadingTime }} minutes</p>
+      
     </div>
       
     <div class="cms mw6">
       {{ .Content }}
     </div>
+      
+      {{ partial "bio" . }}
       
   </div>
 {{ end }}
