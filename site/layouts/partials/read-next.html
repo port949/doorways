@@ -1,0 +1,27 @@
+<div class="mw7 center">
+<span class="f3 b tc">Read Next</span>
+  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+
+{{ with .PrevInSection }}
+          <div class="w-50-ns ph1-ns flex">
+            <a href="{{ .Permalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
+	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
+
+	<p class="mb0">{{ .Description }}</p>
+	<p class="link b dib black mb0">Read more →</p>
+</a>
+          </div>
+{{ end }}
+{{ with .NextInSection }}
+<div class="w-50-ns ph1-ns flex">
+            <a href="{{ .Permalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
+	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
+	
+	<p class="mb0">{{ .Description }}</p>
+	<p class="link b dib black mb0">Read more →</p>
+</a>
+          </div>
+      {{ end }}
+  </ul>
+ 
+</div>
