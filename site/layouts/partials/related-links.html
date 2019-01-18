@@ -1,6 +1,6 @@
 <div class="sans-serif tc">
  
-      {{ range (.Paginator 10).Pages.ByPublishDate.Reverse }}
+      {{ range first 10 (where .Data.Pages "Type" "blog") }}
          
             <a href="{{ .Permalink }}" class="f7 grow no-underline br-pill ba ph3 pv2 mb2 dib grey-4">{{ .Title }}</a>
          
