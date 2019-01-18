@@ -2,8 +2,7 @@
 title: About
 date: 2018-09-13T18:46:05.762Z
 slug: about
-description: >-
-  Going through the remodeling process alone could cost you thousands in expensive mistakes and put your home at risk. I don't want to let that happen to you.
+description: "Learn more about Doorways Magazine and our mission to help homeowners avoid gettings scammed by home improvement contractors."
   
 ---
 Are you a homeowner or thinking about buying a house?
@@ -50,7 +49,7 @@ Going through the remodeling process alone could cost you thousands in expensive
 
 
 
-Hi, my name is Ryan and I'm the editor of Doorways Magazine - a fast-growing home design and remodeling resource. 
+Hi, my name is Joanna and I'm the editor of Doorways Magazine - a fast-growing home design and remodeling resource. 
 
 
 
@@ -62,11 +61,12 @@ These included celebrity clients in Beverly Hills as well ambitious homeowners t
 
 
 
-With degrees in both design and construction from a top 10 architecture school in the United States, you could say I have a... 
+With experience in both design and construction, you could say I have a... 
 
 
 
 <img src="https://www.doorwaysmagazine.com/wp-content/uploads/particular_skills-300x180.jpg" alt="Taken" >
+
 
 <em>Very particular set of skills.</em> 
 
