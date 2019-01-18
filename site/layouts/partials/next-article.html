@@ -1,24 +1,30 @@
- <nav class="end-nav side-padding">
-      {{ with .PrevInSection }}
-      <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)" 
-  href="{{ .Permalink }}" class="card blog-card" rel="bookmark" >
-    {{ if isset .Params "featuredimage" }}
-    <div class="card-img-container">
-      <p class="card-img-overlay">Next Article</p>
-      <img src="{{.Params.featuredimage | absURL }}" class="card-img">
-    </div>
-    {{ end }}
-  <article class="card-body">
-    <h2 class="card-title">{{ .Title }}</h2>
-    <p class="card-text">{{ if (isset .Params "description") }}{{ index .Params "description" }}{{ else }}{{ .Summary }}{{ end }}</p>
-    <div class="card-subtext muted-text">
-      
-      
-    </div>
-  </article>
-</a>
-      {{ end }}
-     
-    </nav>
-
 <p><em>Comments are currently closed.</em></p>
+
+<div class="mw7 center">
+  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+     
+   <span class="f3">Read Next</span>
+  
+{{ with .PrevInSection }}
+          <div class="w-50-ns ph1-ns flex">
+            <a href="{{ .Permalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
+	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
+
+	<p class="mb0">{{ .Description }}</p>
+</a>
+          </div>
+{{ end }}
+   
+{{ with .NextInSection }}
+<div class="w-50-ns ph1-ns flex">
+            <a href="{{ .Permalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
+	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
+	
+	<p class="mb0">{{ .Description }}</p>
+	<p class="link b dib black mb0">Read more →</p>
+</a>
+          </div>
+      {{ end }}
+  </ul>
+ 
+</div>
