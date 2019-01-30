@@ -1,0 +1,2 @@
+User-agent: *
+sitemap: https://www.doorwaysmagazine.com/sitemap.xml
