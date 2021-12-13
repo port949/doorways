@@ -1,6 +1,6 @@
 ---
 title: "TimberTech vs Trex Composite Decking: Colors, Prices and Problems"
-date: 2018-09-06 07:01:24+00:00
+date: 2021-12-12 07:01:24+00:00
 description: Shopping for composite decking material like TimberTech or Trex? Read our comparison of the leading brands to see which is the best composite decking.
 slug: timbertech-vs-trex
 
@@ -27,7 +27,7 @@ However, are you worried about making an expensive mistake and installing the wr
 
 
 
-I'll help you avoid buyer's remorse and show you which composite decking is easiest to maintain and stays looking great years after you install it.
+We'll help you avoid buyer's remorse and show you which composite decking is easiest to maintain and stays looking great years after you install it.
 
 
 
@@ -37,7 +37,7 @@ We'll look at price, maintenance, materials and warranties for both brands.
 
 And after all that, if you still can't decide between Trex and TimberTech, we'll be here to answer your questions.
 
-
+**Related:** <a href="https://jbbrandon.com/best-tools-to-own" target="_blank">97 Best Tools You Didn’t Know You Needed</a>
 
 ## Price
 
@@ -253,85 +253,85 @@ Another important point to notice about both warranties is that they are on a gr
 
 **Trex Warranty Coverage**
 
-<table >
+<table>
 <thead>
-<tr ><th>Year of Claim</th><th>Recovery</th>/tr>
+<tr><th>Year of Claim</th><th>Recovery</th>/tr>
 </thead>
-<tbody >
-<tr >
-<td >1-10
+<tbody>
+<tr>
+<td>1-10
 </td>
-<td >100%
+<td>100%
 </td></tr>
-<tr >
-<td >11
+<tr>
+<td>11
 </td>
-<td >80%
+<td>80%
 </td></tr>
-<tr >
-<td >12
+<tr>
+<td>12
 </td>
-<td >80%
+<td>80%
 </td></tr>
-<tr >
-<td >13
+<tr>
+<td>13
 </td>
-<td >80%
+<td>80%
 </td></tr>
-<tr >
-<td >14
+<tr>
+<td>14
 </td>
-<td >60%
+<td>60%
 </td></tr>
-<tr >
-<td >15
+<tr>
+<td>15
 </td>
-<td >60%
+<td>60%
 </td></tr>
-<tr >
-<td >16
+<tr>
+<td>16
 </td>
-<td >60%
+<td>60%
 </td></tr>
-<tr >
-<td >17
+<tr>
+<td>17
+</td>
+<td>40%
+</td></tr>
+<tr>
+<td>18
+</td>
+<td>40%
+</td></tr>
+<tr>
+<td>19
 </td>
 <td >40%
 </td></tr>
-<tr >
-<td >18
+<tr>
+<td>20
 </td>
-<td >40%
+<td>20%
 </td></tr>
-<tr >
-<td >19
+<tr>
+<td>21
 </td>
-<td >40%
+<td>20%
 </td></tr>
-<tr >
-<td >20
+<tr>
+<td>22
 </td>
-<td >20%
+<td>20%
 </td></tr>
-<tr >
-<td >21
+<tr>
+<td>23
 </td>
-<td >20%
+<td>10%
 </td></tr>
-<tr >
-<td >22
+<tr>
+<td>24
 </td>
-<td >20%
-</td></tr>
-<tr >
-<td >23
-</td>
-<td >10%
-</td></tr>
-<tr >
-<td >24
-</td>
-<td >10%
+<td>10%
 </td></tr>
 <tr >
 <td >25
@@ -343,11 +343,10 @@ Another important point to notice about both warranties is that they are on a gr
 
 **TimberTech Warranty Coverage**
 
-<table >
- <thead>
-<tr ><th>Year of Claim</th><th>Recovery</th>/tr>
+<table>
+<thead>
+<tr><th>Year of Claim</th><th>Recovery</th>/tr>
 </thead>
-
 <tbody >
 <tr >
 <td >1-10
